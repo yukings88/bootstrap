@@ -105,10 +105,18 @@
     .rsb-detail-item__title { font-size: 16px; font-weight: 600; color: #082457; margin-bottom: 4px; }
     .rsb-detail-item__text { font-size: 14px; color: #4a5568; line-height: 1.5; }
     .rsb-installation { display: grid; grid-template-columns: repeat(4,1fr); gap: 24px; }
-    .rsb-step { text-align: center; padding: 24px; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); }
-    .rsb-step__number { width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; background: #082457; color: white; font-size: 20px; font-weight: 700; border-radius: 50%; margin: 0 auto 16px; }
-    .rsb-step__title { font-size: 16px; font-weight: 600; color: #1a1a2e; margin-bottom: 8px; }
-    .rsb-step__text { font-size: 14px; color: #4a5568; line-height: 1.5; }
+    .rsb-step { position: relative; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); overflow: hidden; aspect-ratio: 3/4; }
+    .rsb-step__image-wrapper { position: relative; width: 100%; height: 100%; overflow: hidden; }
+    .rsb-step__image { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.4s ease; }
+    .rsb-step__badge { position: absolute; top: 14px; left: 14px; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: #082457; color: white; font-size: 18px; font-weight: 700; border-radius: 50%; box-shadow: 0 2px 6px rgba(8,36,87,0.3); z-index: 2; transition: opacity 0.3s ease, transform 0.3s ease; }
+    .rsb-step__overlay { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; padding: 24px 20px; background: linear-gradient(180deg, rgba(8,36,87,0) 0%, rgba(8,36,87,0.55) 45%, rgba(8,36,87,0.92) 100%); color: white; opacity: 0; transition: opacity 0.35s ease; pointer-events: none; }
+    .rsb-step__overlay-number { font-size: 12px; font-weight: 700; letter-spacing: 2px; color: #E4662A; text-transform: uppercase; margin-bottom: 6px; }
+    .rsb-step__overlay-title { font-size: 18px; font-weight: 700; color: white; margin-bottom: 8px; line-height: 1.3; }
+    .rsb-step__overlay-text { font-size: 13px; color: rgba(255,255,255,0.92); line-height: 1.5; }
+    .rsb-step:hover .rsb-step__image { transform: scale(1.06); }
+    .rsb-step:hover .rsb-step__overlay { opacity: 1; }
+    .rsb-step:hover .rsb-step__badge { opacity: 0; transform: scale(0.6); }
+    .rsb-step__number, .rsb-step__title, .rsb-step__text { display: none; }
     .rsb-certifications { display: grid; grid-template-columns: repeat(4,1fr); gap: 24px; }
     .rsb-certification { position: relative; display: flex; flex-direction: column; align-items: center; padding: 40px 28px 32px; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); text-align: center; overflow: hidden; border: 1px solid #eef1f6; }
     .rsb-certification::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #082457 0%, #0d3a8a 50%, #E4662A 100%); }
@@ -179,7 +187,6 @@
     .rsb-certification { padding: 32px; }
     .rsb-custom__item { padding: 32px; }
     .rsb-shipping__item { padding: 24px; }
-    .rsb-step { padding: 24px; }
     .rsb-project__content { padding: 24px; }
     /* 分割线 */
     .rsb-divider { width: 50px; height: 3px; background: #E4662A; margin: 16px auto 0; border-radius: 2px; }
@@ -199,7 +206,6 @@
     
     .rsb-value:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-certification:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
-    .rsb-step:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-pain-point:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(8,36,87,0.10); }
     .rsb-custom__item:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-shipping__item:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(8,36,87,0.10); }
@@ -240,9 +246,13 @@
       .rsb-form__visual-content { padding: 24px; }
       .rsb-form__visual-title { font-size: 22px; }
       .rsb-form__body { padding: 24px; }
+      .rsb-step { aspect-ratio: 4/3; }
+      .rsb-step__overlay { opacity: 1; background: linear-gradient(180deg, rgba(8,36,87,0) 0%, rgba(8,36,87,0.55) 45%, rgba(8,36,87,0.92) 100%); }
+      .rsb-step__badge { opacity: 0; }
     }
     @media (max-width: 480px) {
       .rsb-container { padding: 0 16px; }
+      .rsb-step { aspect-ratio: 16/10; }
     }
   </style>
 </head>
@@ -514,28 +524,48 @@
       </div>
       <div class="rsb-installation">
         <div class="rsb-step">
-          <img src="https://yukings.com/img/step-foundation.webp" alt="Foundation Work" class="rsb-step__image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-          <div class="rsb-step__number">1</div>
-          <h3 class="rsb-step__title">Foundation Work</h3>
-          <p class="rsb-step__text">Pour concrete foundations at 2m intervals per engineering specs. Cure for 7 days minimum before load application.</p>
+          <div class="rsb-step__image-wrapper">
+            <img src="https://yukings.com/img/step-foundation.webp" alt="Foundation Work" class="rsb-step__image">
+            <div class="rsb-step__badge">1</div>
+            <div class="rsb-step__overlay">
+              <div class="rsb-step__overlay-number">Step 01</div>
+              <h3 class="rsb-step__overlay-title">Foundation Work</h3>
+              <p class="rsb-step__overlay-text">Pour concrete foundations at 2m intervals per engineering specs. Cure for 7 days minimum before load application.</p>
+            </div>
+          </div>
         </div>
         <div class="rsb-step">
-          <img src="https://yukings.com/img/step-post.webp" alt="Post Installation" class="rsb-step__image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-          <div class="rsb-step__number">2</div>
-          <h3 class="rsb-step__title">Post Installation</h3>
-          <p class="rsb-step__text">Mount galvanized H-beam posts with vertical alignment tolerance ±1mm. Secure with anchor bolts.</p>
+          <div class="rsb-step__image-wrapper">
+            <img src="https://yukings.com/img/step-post.webp" alt="Post Installation" class="rsb-step__image">
+            <div class="rsb-step__badge">2</div>
+            <div class="rsb-step__overlay">
+              <div class="rsb-step__overlay-number">Step 02</div>
+              <h3 class="rsb-step__overlay-title">Post Installation</h3>
+              <p class="rsb-step__overlay-text">Mount galvanized H-beam posts with vertical alignment tolerance ±1mm. Secure with anchor bolts.</p>
+            </div>
+          </div>
         </div>
         <div class="rsb-step">
-          <img src="https://yukings.com/img/step-panel.webp" alt="Panel Mounting" class="rsb-step__image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-          <div class="rsb-step__number">3</div>
-          <h3 class="rsb-step__title">Panel Mounting</h3>
-          <p class="rsb-step__text">Insert panels between posts using rubber isolation mounts. Lock with security fasteners.</p>
+          <div class="rsb-step__image-wrapper">
+            <img src="https://yukings.com/img/step-panel.webp" alt="Panel Mounting" class="rsb-step__image">
+            <div class="rsb-step__badge">3</div>
+            <div class="rsb-step__overlay">
+              <div class="rsb-step__overlay-number">Step 03</div>
+              <h3 class="rsb-step__overlay-title">Panel Mounting</h3>
+              <p class="rsb-step__overlay-text">Insert panels between posts using rubber isolation mounts. Lock with security fasteners.</p>
+            </div>
+          </div>
         </div>
         <div class="rsb-step">
-          <img src="https://yukings.com/img/step-inspection.webp" alt="Sealing & Inspection" class="rsb-step__image" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-          <div class="rsb-step__number">4</div>
-          <h3 class="rsb-step__title">Sealing & Inspection</h3>
-          <p class="rsb-step__text">Apply weather sealant at all joints. Final inspection verifies alignment, anchorage, and acoustic seals.</p>
+          <div class="rsb-step__image-wrapper">
+            <img src="https://yukings.com/img/step-inspection.webp" alt="Sealing & Inspection" class="rsb-step__image">
+            <div class="rsb-step__badge">4</div>
+            <div class="rsb-step__overlay">
+              <div class="rsb-step__overlay-number">Step 04</div>
+              <h3 class="rsb-step__overlay-title">Sealing &amp; Inspection</h3>
+              <p class="rsb-step__overlay-text">Apply weather sealant at all joints. Final inspection verifies alignment, anchorage, and acoustic seals.</p>
+            </div>
+          </div>
         </div>
       </div></div>
     </div>
