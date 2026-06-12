@@ -87,12 +87,6 @@
     .rsb-application__title { font-size: 18px; font-weight: 600; color: #082457; margin-bottom: 8px; }
     .rsb-application__text { font-size: 14px; color: #6b7a94; line-height: 1.5; }
     .rsb-application:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
-    .rsb-post-styles { display: grid; grid-template-columns: repeat(5,1fr); gap: 20px; }
-    .rsb-post-style { display: flex; flex-direction: column; align-items: center; padding: 28px 16px; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); text-align: center; border-top: 3px solid #E4662A; }
-    .rsb-post-style__shape { width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; }
-    .rsb-post-style__shape svg { width: 60px; height: 60px; stroke: #082457; stroke-width: 4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
-    .rsb-post-style__name { font-size: 15px; font-weight: 600; color: #082457; }
-    .rsb-post-style:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-details { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
     .rsb-details__images { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
     .rsb-details__image { border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); }
@@ -201,18 +195,16 @@
     .rsb-custom__item:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-shipping__item:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(8,36,87,0.10); }
     /* 过渡动画 */
-    .rsb-card, .rsb-project, .rsb-application, .rsb-value, .rsb-certification, .rsb-step, .rsb-pain-point, .rsb-custom__item, .rsb-shipping__item, .rsb-post-style, .rsb-btn { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+    .rsb-card, .rsb-project, .rsb-application, .rsb-value, .rsb-certification, .rsb-step, .rsb-pain-point, .rsb-custom__item, .rsb-shipping__item, .rsb-btn { transition: transform 0.2s ease, box-shadow 0.2s ease; }
 
     @media (max-width: 1024px) {
       .rsb-section { padding: 36px 0; }
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: repeat(2,1fr); gap: 24px; }
-      .rsb-post-styles { grid-template-columns: repeat(3,1fr); }
       .rsb-form__row { grid-template-columns: 1fr; }
     }
     @media (max-width: 768px) {
       .rsb-section { padding: 28px 0; }
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: 1fr; gap: 16px; }
-      .rsb-post-styles { grid-template-columns: repeat(2,1fr); }
       .rsb-details { grid-template-columns: 1fr; gap: 32px; }
       .rsb-details__images { grid-template-columns: 1fr; }
       .rsb-details__image--large { grid-column: span 1; }
@@ -347,73 +339,6 @@
           <tr class="rsb-specs__row"><td>Service Life</td><td>25 - 30</td><td>Years</td></tr>
         </tbody>
       </table>
-    </div>
-  </section>
-
-  <section class="rsb-section">
-    <div class="rsb-container">
-      <div class="rsb-section__header">
-        <span class="rsb-section__subtitle">Post Configurations</span>
-        <h2 class="rsb-section__title">Post Styles & Profiles</h2>
-        <div class="rsb-divider"></div>
-        <p style="color: #4a5568; font-size: 16px; margin-top: 16px; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">Nine standard post profiles engineered for structural performance, aesthetic integration, and on-site flexibility. All posts are hot-dip galvanized for 25+ year outdoor service life.</p>
-      </div>
-      <div class="rsb-post-styles">
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><line x1="30" y1="6" x2="30" y2="54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Upright</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><path d="M 45 6 Q 25 30 45 54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Curved</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><polyline points="18,10 18,32 42,32 42,54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Folded-Angle</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><polyline points="14,10 14,26 46,26 46,54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Inverted-L</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><line x1="14" y1="6" x2="30" y2="26"/><line x1="46" y1="6" x2="30" y2="26"/><line x1="30" y1="26" x2="30" y2="54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Y-Type</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><path d="M 18 18 Q 30 6 42 18"/><line x1="18" y1="18" x2="18" y2="54"/><line x1="42" y1="18" x2="42" y2="54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Top-Arc</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><path d="M 18 22 Q 18 6 30 6 Q 42 6 42 22"/><line x1="18" y1="22" x2="18" y2="54"/><line x1="42" y1="22" x2="42" y2="54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Dome-Top</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><path d="M 16 16 L 16 48 L 44 48 L 44 16 Z"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Fully-Enclosed</h3>
-        </div>
-        <div class="rsb-post-style">
-          <div class="rsb-post-style__shape">
-            <svg viewBox="0 0 60 60"><path d="M 18 12 Q 30 0 42 12"/><line x1="30" y1="12" x2="30" y2="26"/><circle cx="30" cy="36" r="10"/><line x1="30" y1="46" x2="30" y2="54"/></svg>
-          </div>
-          <h3 class="rsb-post-style__name">Arc + Cylinder</h3>
-        </div>
-      </div>
     </div>
   </section>
 
