@@ -98,15 +98,9 @@
     .rsb-application__text { font-size: 14px; color: #6b7a94; line-height: 1.5; }
     .rsb-application:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-details { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
-    .rsb-details__images { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch; padding-bottom: 8px; }
-    .rsb-details__images::-webkit-scrollbar { height: 6px; }
-    .rsb-details__images::-webkit-scrollbar-track { background: #eef1f6; border-radius: 3px; }
-    .rsb-details__images::-webkit-scrollbar-thumb { background: #082457; border-radius: 3px; }
-    .rsb-details__image { flex: 0 0 100%; min-width: 100%; height: 460px; border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); scroll-snap-align: start; }
-    .rsb-details__image img { width: 100%; height: 100%; object-fit: cover; display: block; }
-    .rsb-details__dots { display: flex; justify-content: center; gap: 8px; margin-top: 12px; }
-    .rsb-details__dot { width: 8px; height: 8px; border-radius: 50%; background: #d8dde8; transition: background 0.3s ease; }
-    .rsb-details__dot--active { background: #E4662A; }
+    .rsb-details__images { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
+    .rsb-details__image { border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); }
+    .rsb-details__image--large { grid-column: span 2; }
     .rsb-detail-item { display: flex; gap: 16px; margin-bottom: 24px; }
     .rsb-detail-item__icon { flex-shrink: 0; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: #E4662A; color: white; border-radius: 6px; font-size: 20px; }
     .rsb-detail-item__title { font-size: 16px; font-weight: 600; color: #082457; margin-bottom: 4px; }
@@ -227,7 +221,14 @@
     .rsb-team-support__photo { width: 100%; height: 200px; object-fit: cover; border-radius: 8px; }
     .rsb-team-support__title { font-size: 20px; font-weight: 700; color: #082457; margin-bottom: 8px; }
     .rsb-team-support__text { font-size: 15px; color: #4a5568; line-height: 1.6; }
-    .rsb-form { background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); padding: 40px; margin-top: 48px; }
+    .rsb-form { background: white; border-radius: 12px; box-shadow: 0 4px 16px rgba(8,36,87,0.10); margin-top: 48px; overflow: hidden; }
+    .rsb-form__grid { display: grid; grid-template-columns: 1fr 1fr; }
+    .rsb-form__visual { position: relative; min-height: 480px; background: #082457 url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Photorealistic%20panoramic%20view%20of%20a%20modern%20steel%20manufacturing%20factory%20floor%20with%20galvanized%20steel%20noise%20barrier%20panels%20in%20production%2C%20large%20overhead%20cranes%2C%20automated%20production%20lines%2C%20workers%20in%20safety%20gear%2C%20bright%20LED%20lighting%2C%20industrial%20photography&image_size=portrait_4_3') center/cover no-repeat; display: flex; align-items: flex-end; }
+    .rsb-form__visual::before { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(8,36,87,0.3) 0%, rgba(8,36,87,0.85) 100%); }
+    .rsb-form__visual-content { position: relative; z-index: 1; padding: 40px; color: white; }
+    .rsb-form__visual-title { font-size: 26px; font-weight: 700; color: white; margin-bottom: 12px; line-height: 1.3; }
+    .rsb-form__visual-text { font-size: 15px; color: rgba(255,255,255,0.9); line-height: 1.6; }
+    .rsb-form__body { padding: 40px; }
     .rsb-form__title { font-size: 24px; font-weight: 700; color: #082457; margin-bottom: 24px; text-align: center; }
 
     @media (max-width: 1024px) {
@@ -247,7 +248,8 @@
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: 1fr; gap: 16px; }
       .rsb-cert-gallery__wall img { height: 240px; }
       .rsb-details { grid-template-columns: 1fr; gap: 32px; }
-      .rsb-details__image { height: 320px; }
+      .rsb-details__images { grid-template-columns: 1fr; }
+      .rsb-details__image--large { grid-column: span 1; }
       .rsb-specs { display: block; overflow-x: auto; }
       .rsb-specs__header th, .rsb-specs__row td { white-space: nowrap; min-width: 120px; }
       .rsb-form__visual-content { padding: 24px; }
@@ -462,22 +464,15 @@
         <p style="color: #4a5568; font-size: 16px; margin-top: 16px; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">Advanced sound absorption and insulation technology. Modular design for easy installation and long-term performance.</p>
       </div>
       <div class="rsb-details">
-        <div>
-          <div class="rsb-details__images">
-            <div class="rsb-details__image">
-              <img src="https://yukings.com/img/detail-galvanized-panel.webp" alt="Galvanized steel panel cross-section" loading="lazy" width="800" height="600">
-            </div>
-            <div class="rsb-details__image">
-              <img src="https://yukings.com/img/detail-perforated.webp" alt="Perforated panel structure" loading="lazy" width="800" height="600">
-            </div>
-            <div class="rsb-details__image">
-              <img src="https://yukings.com/img/detail-connector.webp" alt="Panel connector detail" loading="lazy" width="800" height="600">
-            </div>
+        <div class="rsb-details__images">
+          <div class="rsb-details__image rsb-details__image--large">
+            <img src="https://yukings.com/img/detail-galvanized-panel.webp" alt="Galvanized steel panel cross-section" loading="lazy" width="800" height="600">
           </div>
-          <div class="rsb-details__dots">
-            <span class="rsb-details__dot rsb-details__dot--active"></span>
-            <span class="rsb-details__dot"></span>
-            <span class="rsb-details__dot"></span>
+          <div class="rsb-details__image">
+            <img src="https://yukings.com/img/detail-perforated.webp" alt="Perforated panel structure" loading="lazy" width="800" height="600">
+          </div>
+          <div class="rsb-details__image">
+            <img src="https://yukings.com/img/detail-connector.webp" alt="Panel connector detail" loading="lazy" width="800" height="600">
           </div>
         </div>
         <div>
@@ -500,27 +495,6 @@
             <div>
               <h3 class="rsb-detail-item__title">Modular Connection System</h3>
               <p class="rsb-detail-item__text">Interlocking H-shaped posts with rubber gaskets create weather-tight seals. See our <a href="https://yukings.com/blog/modular-installation-guide">complete installation guide</a> for engineering tolerances and best practices.</p>
-            </div>
-          </div>
-          <div class="rsb-detail-item">
-            <div class="rsb-detail-item__icon">🔥</div>
-            <div>
-              <h3 class="rsb-detail-item__title">Fire-Resistant Core Material</h3>
-              <p class="rsb-detail-item__text">Class A fire-rated mineral wool with melting point above 1000°C. Complies with ASTM E84 and EN 13501-1 standards for roadway acoustic wall safety.</p>
-            </div>
-          </div>
-          <div class="rsb-detail-item">
-            <div class="rsb-detail-item__icon">💨</div>
-            <div>
-              <h3 class="rsb-detail-item__title">Wind Load Resistance up to 1.5 kPa</h3>
-              <p class="rsb-detail-item__text">Engineered post spacing and reinforced I-beam structure resist typhoon-level wind loads. Verified by EN 1794-1 certification for highway side noise walls.</p>
-            </div>
-          </div>
-          <div class="rsb-detail-item">
-            <div class="rsb-detail-item__icon">♻️</div>
-            <div>
-              <h3 class="rsb-detail-item__title">Eco-Friendly &amp; Recyclable Materials</h3>
-              <p class="rsb-detail-item__text">100% recyclable galvanized steel and low-VOC acoustic fill meet LEED v4 requirements. Sustainable production supports green infrastructure certifications.</p>
             </div>
           </div>
         </div>
@@ -798,51 +772,61 @@
       </div>
       
       <div class="rsb-form">
-        <h3 class="rsb-form__title">Get a Quote</h3>
-        <form action="https://yukings.com/inquiry" method="POST">
-          <div class="rsb-form__row">
-            <div class="rsb-form__group">
-              <label class="rsb-form__label">Name *</label>
-              <input type="text" class="rsb-form__input" placeholder="Your name" required>
-            </div>
-            <div class="rsb-form__group">
-              <label class="rsb-form__label">Email *</label>
-              <input type="email" class="rsb-form__input" placeholder="your@email.com" required>
+        <div class="rsb-form__grid">
+          <div class="rsb-form__visual">
+            <div class="rsb-form__visual-content">
+              <h3 class="rsb-form__visual-title">Start Your Project Today</h3>
+              <p class="rsb-form__visual-text">18+ years of manufacturing expertise. 50,000㎡ monthly capacity. CE &amp; ISO 9001 certified galvanized steel highway noise barriers for global projects.</p>
             </div>
           </div>
-          <div class="rsb-form__row">
-            <div class="rsb-form__group">
-              <label class="rsb-form__label">Company</label>
-              <input type="text" class="rsb-form__input" placeholder="Company name">
-            </div>
-            <div class="rsb-form__group">
-              <label class="rsb-form__label">Phone</label>
-              <input type="tel" class="rsb-form__input" placeholder="Your phone number">
-            </div>
+          <div class="rsb-form__body">
+            <h3 class="rsb-form__title">Get a Quote</h3>
+            <form action="https://yukings.com/inquiry" method="POST">
+              <div class="rsb-form__row">
+                <div class="rsb-form__group">
+                  <label class="rsb-form__label">Name *</label>
+                  <input type="text" class="rsb-form__input" placeholder="Your name" required>
+                </div>
+                <div class="rsb-form__group">
+                  <label class="rsb-form__label">Email *</label>
+                  <input type="email" class="rsb-form__input" placeholder="your@email.com" required>
+                </div>
+              </div>
+              <div class="rsb-form__row">
+                <div class="rsb-form__group">
+                  <label class="rsb-form__label">Company</label>
+                  <input type="text" class="rsb-form__input" placeholder="Company name">
+                </div>
+                <div class="rsb-form__group">
+                  <label class="rsb-form__label">Phone</label>
+                  <input type="tel" class="rsb-form__input" placeholder="Your phone number">
+                </div>
+              </div>
+              <div class="rsb-form__group">
+                <label class="rsb-form__label">Product Interest</label>
+                <select class="rsb-form__select">
+                  <option value="">Select product type</option>
+                  <option value="galvanized">Galvanized Steel Barrier</option>
+                  <option value="aluminum">Aluminum Barrier</option>
+                  <option value="pc">PC Transparent Barrier</option>
+                  <option value="louver">Louver Barrier</option>
+                  <option value="arc">Arc Top Barrier</option>
+                  <option value="enclosure">Full Enclosure</option>
+                  <option value="solar">Solar Barrier</option>
+                  <option value="hybrid">Hybrid Barrier</option>
+                </select>
+              </div>
+              <div class="rsb-form__group">
+                <label class="rsb-form__label">Project Details</label>
+                <textarea class="rsb-form__textarea" placeholder="Describe your project requirements, including dimensions, quantity, and special requirements..."></textarea>
+              </div>
+              <div class="rsb-form__group" style="text-align: center;">
+                <button type="submit" class="rsb-btn rsb-btn--primary rsb-btn--large" style="min-width: 320px;">Submit Inquiry →</button>
+              </div>
+            </form>
+            <p style="text-align: center; margin-top: 24px; color: #4a5568; font-size: 15px;">Prefer to speak with an engineer? <a href="https://yukings.com/contact" style="font-weight: 600;">Contact Us →</a></p>
           </div>
-          <div class="rsb-form__group">
-            <label class="rsb-form__label">Product Interest</label>
-            <select class="rsb-form__select">
-              <option value="">Select product type</option>
-              <option value="galvanized">Galvanized Steel Barrier</option>
-              <option value="aluminum">Aluminum Barrier</option>
-              <option value="pc">PC Transparent Barrier</option>
-              <option value="louver">Louver Barrier</option>
-              <option value="arc">Arc Top Barrier</option>
-              <option value="enclosure">Full Enclosure</option>
-              <option value="solar">Solar Barrier</option>
-              <option value="hybrid">Hybrid Barrier</option>
-            </select>
-          </div>
-          <div class="rsb-form__group">
-            <label class="rsb-form__label">Project Details</label>
-            <textarea class="rsb-form__textarea" placeholder="Describe your project requirements, including dimensions, quantity, and special requirements..."></textarea>
-          </div>
-          <div class="rsb-form__group" style="text-align: center;">
-            <button type="submit" class="rsb-btn rsb-btn--primary rsb-btn--large" style="min-width: 320px;">Submit Inquiry →</button>
-          </div>
-        </form>
-        <p style="text-align: center; margin-top: 24px; color: #4a5568; font-size: 15px;">Prefer to speak with an engineer? <a href="https://yukings.com/contact" style="font-weight: 600;">Contact Us →</a></p>
+        </div>
       </div>
     </div>
   </section>
