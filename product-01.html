@@ -199,11 +199,11 @@
     .rsb-shipping__item:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(8,36,87,0.10); }
     /* 过渡动画 */
     .rsb-card, .rsb-project, .rsb-application, .rsb-value, .rsb-certification, .rsb-step, .rsb-pain-point, .rsb-custom__item, .rsb-shipping__item, .rsb-btn { transition: transform 0.2s ease, box-shadow 0.2s ease; }
-    /* 证书样本画廊 */
-    .rsb-cert-gallery { display: grid; grid-template-columns: repeat(3,1fr); gap: 24px; margin: 0 0 48px; }
-    .rsb-cert-gallery__item { margin: 0; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); border: 1px solid #eef1f6; }
-    .rsb-cert-gallery__item img { width: 100%; height: 280px; object-fit: cover; display: block; }
-    .rsb-cert-gallery__item figcaption { padding: 14px 20px; font-size: 14px; font-weight: 600; color: #082457; text-align: center; border-top: 1px solid #eef1f6; background: #f8fafc; }
+    /* 证书墙 */
+    .rsb-cert-gallery { display: block; margin: 0 0 48px; }
+    .rsb-cert-gallery__wall { margin: 0; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(8,36,87,0.12); border: 1px solid #eef1f6; }
+    .rsb-cert-gallery__wall img { width: 100%; height: 420px; object-fit: cover; display: block; }
+    .rsb-cert-gallery__wall figcaption { padding: 16px 24px; font-size: 14px; font-weight: 600; color: #082457; text-align: center; letter-spacing: 0.5px; border-top: 1px solid #eef1f6; background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%); }
     /* 团队支持 */
     .rsb-team-support { display: grid; grid-template-columns: 280px 1fr; gap: 32px; align-items: center; padding: 32px; margin: 32px 0 0; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); border-left: 4px solid #E4662A; }
     .rsb-team-support__photo { width: 100%; height: 200px; object-fit: cover; border-radius: 8px; }
@@ -223,7 +223,7 @@
     @media (max-width: 1024px) {
       .rsb-section { padding: 36px 0; }
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: repeat(2,1fr); gap: 24px; }
-      .rsb-cert-gallery { grid-template-columns: repeat(3,1fr); gap: 16px; }
+      .rsb-cert-gallery__wall img { height: 360px; }
       .rsb-form__grid { grid-template-columns: 1fr; }
       .rsb-form__visual { min-height: 240px; }
       .rsb-form__body { padding: 32px; }
@@ -235,8 +235,7 @@
     @media (max-width: 768px) {
       .rsb-section { padding: 28px 0; }
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: 1fr; gap: 16px; }
-      .rsb-cert-gallery { grid-template-columns: 1fr; gap: 16px; }
-      .rsb-cert-gallery__item img { height: 220px; }
+      .rsb-cert-gallery__wall img { height: 240px; }
       .rsb-details { grid-template-columns: 1fr; gap: 32px; }
       .rsb-details__images { grid-template-columns: 1fr; }
       .rsb-details__image--large { grid-column: span 1; }
@@ -527,17 +526,9 @@
         <p style="color: #4a5568; font-size: 16px; margin-top: 16px; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">ISO 9001 certified manufacturer with 18+ years experience. All products meet international standards for quality and performance.</p>
       </div>
       <div class="rsb-cert-gallery">
-        <figure class="rsb-cert-gallery__item">
-          <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Official%20CE%20European%20Conformity%20certification%20document%20for%20EN%2014388%20standard%20road%20traffic%20noise%20reducing%20devices%2C%20formal%20certificate%20layout%20with%20Yukings%20company%20name%2C%20official%20seals%20and%20signatures%2C%20clean%20white%20background%2C%20professional%20document%20scan%20style%2C%20high%20resolution&image_size=portrait_4_3" alt="Yukings CE EN 14388 noise barrier certificate sample" loading="lazy">
-          <figcaption>CE — EN 14388</figcaption>
-        </figure>
-        <figure class="rsb-cert-gallery__item">
-          <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Official%20ISO%209001%3A2015%20quality%20management%20system%20certification%20document%2C%20formal%20certificate%20layout%20with%20Yukings%20company%20name%2C%20official%20accreditation%20seals%20and%20signatures%2C%20clean%20white%20background%2C%20professional%20document%20scan%20style%2C%20high%20resolution&image_size=portrait_4_3" alt="Yukings ISO 9001:2015 quality management certificate sample" loading="lazy">
-          <figcaption>ISO 9001:2015</figcaption>
-        </figure>
-        <figure class="rsb-cert-gallery__item">
-          <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Official%20China%20Metrology%20Accreditation%20CMA%20and%20CNAS%20laboratory%20accreditation%20certificate%20document%2C%20formal%20bilingual%20Chinese%20English%20certificate%20layout%20with%20Yukings%20company%20name%2C%20official%20red%20seals%20and%20signatures%2C%20clean%20white%20background%2C%20professional%20document%20scan%20style%2C%20high%20resolution&image_size=portrait_4_3" alt="Yukings CMA CNAS laboratory accreditation certificate sample" loading="lazy">
-          <figcaption>CMA / CNAS</figcaption>
+        <figure class="rsb-cert-gallery__wall">
+          <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Professional%20certificate%20wall%20display%20showing%20three%20official%20certificates%20arranged%20side%20by%20side%20in%20elegant%20dark%20wood%20frames%20mounted%20on%20a%20neutral%20white%20wall%3A%20CE%20European%20Conformity%20certificate%20for%20EN%2014388%20on%20left%2C%20ISO%209001%3A2015%20quality%20management%20certificate%20in%20center%2C%20and%20CMA%20CNAS%20China%20Metrology%20Accreditation%20bilingual%20certificate%20on%20right%2C%20all%20with%20official%20red%20and%20gold%20seals%20and%20signatures%2C%20museum%20quality%20photography%2C%20soft%20museum%20lighting%2C%20high%20resolution" alt="Yukings CE ISO 9001 CMA CNAS certificate wall display" loading="lazy">
+          <figcaption>CE — EN 14388 &nbsp;·&nbsp; ISO 9001:2015 &nbsp;·&nbsp; CMA / CNAS</figcaption>
         </figure>
       </div>
       <div class="rsb-certifications">
