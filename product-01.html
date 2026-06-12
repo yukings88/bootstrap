@@ -208,16 +208,8 @@
     .rsb-team-support__photo { width: 100%; height: 200px; object-fit: cover; border-radius: 8px; }
     .rsb-team-support__title { font-size: 20px; font-weight: 700; color: #082457; margin-bottom: 8px; }
     .rsb-team-support__text { font-size: 15px; color: #4a5568; line-height: 1.6; }
-    /* Form 两列布局 */
-    .rsb-form { background: white; border-radius: 16px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); padding: 0; overflow: hidden; margin-top: 48px; }
-    .rsb-form__grid { display: grid; grid-template-columns: 5fr 7fr; min-height: 100%; }
-    .rsb-form__visual { position: relative; background: #082457; overflow: hidden; min-height: 400px; }
-    .rsb-form__visual-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.45; }
-    .rsb-form__visual-content { position: relative; z-index: 1; display: flex; flex-direction: column; justify-content: flex-end; height: 100%; padding: 40px 32px; color: white; }
-    .rsb-form__visual-title { font-size: 26px; font-weight: 700; margin-bottom: 12px; line-height: 1.3; }
-    .rsb-form__visual-text { font-size: 15px; opacity: 0.9; line-height: 1.5; }
-    .rsb-form__body { padding: 40px; }
-    .rsb-form__body .rsb-form__title { font-size: 24px; font-weight: 700; color: #082457; margin-bottom: 24px; text-align: center; }
+    .rsb-form { background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); padding: 40px; margin-top: 48px; }
+    .rsb-form__title { font-size: 24px; font-weight: 700; color: #082457; margin-bottom: 24px; text-align: center; }
 
     @media (max-width: 1024px) {
       .rsb-section { padding: 36px 0; }
@@ -727,62 +719,51 @@
       </div>
       
       <div class="rsb-form">
-        <div class="rsb-form__grid">
-          <aside class="rsb-form__visual">
-            <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wide-angle%20view%20of%20a%20modern%20noise%20barrier%20manufacturing%20facility%20with%20galvanized%20steel%20panels%20on%20automated%20production%20line%2C%20workers%20in%20safety%20gear%20overseeing%20quality%2C%20bright%20industrial%20lighting%2C%20photorealistic%20factory%20photography%2C%20organized%20workshop" alt="Yukings noise barrier manufacturing facility" loading="lazy" class="rsb-form__visual-image">
-            <div class="rsb-form__visual-content">
-              <h3 class="rsb-form__visual-title">Get a Free Quote in 24h</h3>
-              <p class="rsb-form__visual-text">Trusted by 2000+ projects across 20+ countries</p>
+        <h3 class="rsb-form__title">Get a Quote</h3>
+        <form action="https://yukings.com/inquiry" method="POST">
+          <div class="rsb-form__row">
+            <div class="rsb-form__group">
+              <label class="rsb-form__label">Name *</label>
+              <input type="text" class="rsb-form__input" placeholder="Your name" required>
             </div>
-          </aside>
-          <div class="rsb-form__body">
-            <h3 class="rsb-form__title">Get a Quote</h3>
-            <form action="https://yukings.com/inquiry" method="POST">
-              <div class="rsb-form__row">
-                <div class="rsb-form__group">
-                  <label class="rsb-form__label">Name *</label>
-                  <input type="text" class="rsb-form__input" placeholder="Your name" required>
-                </div>
-                <div class="rsb-form__group">
-                  <label class="rsb-form__label">Email *</label>
-                  <input type="email" class="rsb-form__input" placeholder="your@email.com" required>
-                </div>
-              </div>
-              <div class="rsb-form__row">
-                <div class="rsb-form__group">
-                  <label class="rsb-form__label">Company</label>
-                  <input type="text" class="rsb-form__input" placeholder="Company name">
-                </div>
-                <div class="rsb-form__group">
-                  <label class="rsb-form__label">Phone</label>
-                  <input type="tel" class="rsb-form__input" placeholder="Your phone number">
-                </div>
-              </div>
-              <div class="rsb-form__group">
-                <label class="rsb-form__label">Product Interest</label>
-                <select class="rsb-form__select">
-                  <option value="">Select product type</option>
-                  <option value="galvanized">Galvanized Steel Barrier</option>
-                  <option value="aluminum">Aluminum Barrier</option>
-                  <option value="pc">PC Transparent Barrier</option>
-                  <option value="louver">Louver Barrier</option>
-                  <option value="arc">Arc Top Barrier</option>
-                  <option value="enclosure">Full Enclosure</option>
-                  <option value="solar">Solar Barrier</option>
-                  <option value="hybrid">Hybrid Barrier</option>
-                </select>
-              </div>
-              <div class="rsb-form__group">
-                <label class="rsb-form__label">Project Details</label>
-                <textarea class="rsb-form__textarea" placeholder="Describe your project requirements, including dimensions, quantity, and special requirements..."></textarea>
-              </div>
-              <div class="rsb-form__group" style="text-align: center;">
-                <button type="submit" class="rsb-btn rsb-btn--primary rsb-btn--large" style="min-width: 320px;">Submit Inquiry →</button>
-              </div>
-            </form>
-            <p style="text-align: center; margin-top: 24px; color: #4a5568; font-size: 15px;">Prefer to speak with an engineer? <a href="https://yukings.com/contact" style="font-weight: 600;">Contact Us →</a></p>
+            <div class="rsb-form__group">
+              <label class="rsb-form__label">Email *</label>
+              <input type="email" class="rsb-form__input" placeholder="your@email.com" required>
+            </div>
           </div>
-        </div>
+          <div class="rsb-form__row">
+            <div class="rsb-form__group">
+              <label class="rsb-form__label">Company</label>
+              <input type="text" class="rsb-form__input" placeholder="Company name">
+            </div>
+            <div class="rsb-form__group">
+              <label class="rsb-form__label">Phone</label>
+              <input type="tel" class="rsb-form__input" placeholder="Your phone number">
+            </div>
+          </div>
+          <div class="rsb-form__group">
+            <label class="rsb-form__label">Product Interest</label>
+            <select class="rsb-form__select">
+              <option value="">Select product type</option>
+              <option value="galvanized">Galvanized Steel Barrier</option>
+              <option value="aluminum">Aluminum Barrier</option>
+              <option value="pc">PC Transparent Barrier</option>
+              <option value="louver">Louver Barrier</option>
+              <option value="arc">Arc Top Barrier</option>
+              <option value="enclosure">Full Enclosure</option>
+              <option value="solar">Solar Barrier</option>
+              <option value="hybrid">Hybrid Barrier</option>
+            </select>
+          </div>
+          <div class="rsb-form__group">
+            <label class="rsb-form__label">Project Details</label>
+            <textarea class="rsb-form__textarea" placeholder="Describe your project requirements, including dimensions, quantity, and special requirements..."></textarea>
+          </div>
+          <div class="rsb-form__group" style="text-align: center;">
+            <button type="submit" class="rsb-btn rsb-btn--primary rsb-btn--large" style="min-width: 320px;">Submit Inquiry →</button>
+          </div>
+        </form>
+        <p style="text-align: center; margin-top: 24px; color: #4a5568; font-size: 15px;">Prefer to speak with an engineer? <a href="https://yukings.com/contact" style="font-weight: 600;">Contact Us →</a></p>
       </div>
     </div>
   </section>
