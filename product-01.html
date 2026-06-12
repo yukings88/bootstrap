@@ -325,9 +325,7 @@
             </div>
           </div>
         </div>
-      </div></div>
-    </div>
-  </section>
+      </div>
     </div>
   </section>
 
@@ -744,30 +742,6 @@
     ]
   }
   </script>
-  <script>
-  (function(){
-    var carousel = document.getElementById('rsb-details-carousel');
-    if(!carousel) return;
-    var images = carousel.querySelectorAll('.rsb-details__image');
-    var dots = document.querySelectorAll('.rsb-details__dot');
-    if(images.length === 0) return;
-    var idx = 0;
-    var timer;
-    function show(n){
-      idx = (n + images.length) % images.length;
-      images.forEach(function(img, i){ img.classList.toggle('rsb-details__image--active', i === idx); });
-      dots.forEach(function(d, i){ d.classList.toggle('rsb-details__dot--active', i === idx); });
-    }
-    function next(){ show(idx + 1); }
-    function start(){ timer = setInterval(next, 4000); }
-    function stop(){ clearInterval(timer); }
-    dots.forEach(function(d, i){
-      d.addEventListener('click', function(){ stop(); show(i); start(); });
-    });
-    carousel.addEventListener('mouseenter', stop);
-    carousel.addEventListener('mouseleave', start);
-    start();
-  })();
-  </script>
+  <script src="public/yukings-noise-barrier.js"></script>
 </body>
 </html>
