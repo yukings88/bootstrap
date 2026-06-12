@@ -65,7 +65,10 @@
     .rsb-section__header { text-align: center; margin-bottom: 48px; }
     .rsb-section__subtitle { color: #E4662A; font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.6px; margin-bottom: 8px; }
     .rsb-section__title { font-size: 32px; font-weight: 700; color: #1a1a2e; }
-    .rsb-pain-points { display: grid; grid-template-columns: repeat(4,1fr); gap: 24px; }
+    .rsb-pain-points { display: grid; grid-template-columns: repeat(2,1fr); gap: 24px; }
+    .rsb-pain-layout { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: center; }
+    .rsb-pain-layout__image { border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(8,36,87,0.10); position: relative; }
+    .rsb-pain-layout__image img { width: 100%; height: 100%; min-height: 420px; object-fit: cover; display: block; }
     .rsb-pain-point { display: flex; gap: 16px; padding: 24px; background: white; border-radius: 12px; box-shadow: 0 1px 3px rgba(8,36,87,0.08); border-left: 4px solid #E4662A; }
     .rsb-pain-point__icon { flex-shrink: 0; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; background: #eef1f6; border-radius: 6px; color: #E4662A; font-size: 24px; }
     .rsb-pain-point__title { font-size: 16px; font-weight: 600; color: #1a1a2e; margin-bottom: 4px; }
@@ -225,6 +228,8 @@
       .rsb-form__visual { min-height: 240px; }
       .rsb-form__body { padding: 32px; }
       .rsb-team-support { grid-template-columns: 1fr; }
+      .rsb-pain-layout { grid-template-columns: 1fr; gap: 24px; }
+      .rsb-pain-layout__image img { min-height: 280px; }
       .rsb-form__row { grid-template-columns: 1fr; }
     }
     @media (max-width: 768px) {
@@ -264,39 +269,40 @@
         <div class="rsb-divider"></div>
         <p style="color: #4a5568; font-size: 16px; margin-top: 16px; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">Yukings Galvanized Steel Highway Noise Barriers reduce traffic noise by 25-35dB, protecting communities and improving quality of life with proven engineering solutions.</p>
       </div>
-      <div style="margin: 0 0 40px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(8,36,87,0.10);">
-        <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Aerial%20view%20of%20a%20busy%20six-lane%20highway%20right%20next%20to%20a%20residential%20neighborhood%2C%20dense%20traffic%20congestion%2C%20photorealistic%2C%20daylight%2C%20high%20resolution%2C%20documentary%20photography&image_size=landscape_16_9" alt="Highway traffic noise affecting residential community" loading="lazy" style="width: 100%; height: auto; display: block;">
-      </div>
-      <div class="rsb-pain-points">
-        <div class="rsb-pain-point">
-          <div class="rsb-pain-point__icon">🔊</div>
-          <div>
-            <h3 class="rsb-pain-point__title">Traffic Noise Pollution</h3>
-            <p class="rsb-pain-point__text">Highway traffic generates 85-95dB noise, affecting residential areas within 500m of road corridors.</p>
+      <div class="rsb-pain-layout">
+        <div class="rsb-pain-points">
+          <div class="rsb-pain-point">
+            <div class="rsb-pain-point__icon">🔊</div>
+            <div>
+              <h3 class="rsb-pain-point__title">Traffic Noise Pollution</h3>
+              <p class="rsb-pain-point__text">Highway traffic generates 85-95dB noise, affecting residential areas within 500m of road corridors.</p>
+            </div>
+          </div>
+          <div class="rsb-pain-point">
+            <div class="rsb-pain-point__icon">🌧️</div>
+            <div>
+              <h3 class="rsb-pain-point__title">Harsh Weather Exposure</h3>
+              <p class="rsb-pain-point__text">Outdoor barriers face UV radiation, rain, snow, temperature fluctuations from -30°C to +50°C.</p>
+            </div>
+          </div>
+          <div class="rsb-pain-point">
+            <div class="rsb-pain-point__icon">⚡</div>
+            <div>
+              <h3 class="rsb-pain-point__title">High Wind Loads</h3>
+              <p class="rsb-pain-point__text">Elevated highways create wind tunnels with forces exceeding 800Pa on barrier structures.</p>
+            </div>
+          </div>
+          <div class="rsb-pain-point">
+            <div class="rsb-pain-point__icon">💰</div>
+            <div>
+              <h3 class="rsb-pain-point__title">Budget Constraints</h3>
+              <p class="rsb-pain-point__text">Municipal projects demand cost-effective solutions without compromising noise reduction performance.</p>
+            </div>
           </div>
         </div>
-        <div class="rsb-pain-point">
-          <div class="rsb-pain-point__icon">🌧️</div>
-          <div>
-            <h3 class="rsb-pain-point__title">Harsh Weather Exposure</h3>
-            <p class="rsb-pain-point__text">Outdoor barriers face UV radiation, rain, snow, temperature fluctuations from -30°C to +50°C.</p>
-          </div>
+        <div class="rsb-pain-layout__image">
+          <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Aerial%20view%20of%20a%20busy%20six-lane%20highway%20right%20next%20to%20a%20residential%20neighborhood%2C%20dense%20traffic%20congestion%2C%20photorealistic%2C%20daylight%2C%20high%20resolution%2C%20documentary%20photography&image_size=landscape_16_9" alt="Highway traffic noise affecting residential community" loading="lazy">
         </div>
-        <div class="rsb-pain-point">
-          <div class="rsb-pain-point__icon">⚡</div>
-          <div>
-            <h3 class="rsb-pain-point__title">High Wind Loads</h3>
-            <p class="rsb-pain-point__text">Elevated highways create wind tunnels with forces exceeding 800Pa on barrier structures.</p>
-          </div>
-        </div>
-        <div class="rsb-pain-point">
-          <div class="rsb-pain-point__icon">💰</div>
-          <div>
-            <h3 class="rsb-pain-point__title">Budget Constraints</h3>
-            <p class="rsb-pain-point__text">Municipal projects demand cost-effective solutions without compromising noise reduction performance.</p>
-          </div>
-        </div>
-      </div>
       </div>
     </div>
   </section>
