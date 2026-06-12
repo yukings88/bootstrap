@@ -105,14 +105,13 @@
     .rsb-application__text { font-size: 14px; color: #6b7a94; line-height: 1.5; }
     .rsb-application:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(8,36,87,0.12); }
     .rsb-details { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
-    .rsb-details__images { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; -webkit-overflow-scrolling: touch; padding-bottom: 8px; }
-    .rsb-details__images::-webkit-scrollbar { height: 6px; }
-    .rsb-details__images::-webkit-scrollbar-track { background: #eef1f6; border-radius: 3px; }
-    .rsb-details__images::-webkit-scrollbar-thumb { background: #082457; border-radius: 3px; }
-    .rsb-details__image { flex: 0 0 100%; min-width: 100%; height: 460px; border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); scroll-snap-align: start; }
+    .rsb-details__images { position: relative; width: 100%; height: 460px; }
+    .rsb-details__image { position: absolute; inset: 0; border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(8,36,87,0.08); opacity: 0; transition: opacity 0.6s ease; pointer-events: none; }
+    .rsb-details__image--active { opacity: 1; pointer-events: auto; }
     .rsb-details__image img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .rsb-details__dots { display: flex; justify-content: center; gap: 8px; margin-top: 12px; }
-    .rsb-details__dot { width: 8px; height: 8px; border-radius: 50%; background: #d8dde8; transition: background 0.3s ease; }
+    .rsb-details__dot { width: 10px; height: 10px; border-radius: 50%; background: #d8dde8; border: none; padding: 0; cursor: pointer; transition: background 0.3s ease, transform 0.3s ease; }
+    .rsb-details__dot:hover { transform: scale(1.2); }
     .rsb-details__dot--active { background: #E4662A; }
     .rsb-detail-item { display: flex; gap: 16px; margin-bottom: 24px; }
     .rsb-detail-item__icon { flex-shrink: 0; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; background: #E4662A; color: white; border-radius: 6px; font-size: 20px; }
@@ -261,7 +260,7 @@
       .rsb-pain-points, .rsb-values, .rsb-applications, .rsb-certifications, .rsb-projects, .rsb-installation, .rsb-custom, .rsb-shipping, .rsb-related { grid-template-columns: 1fr; gap: 16px; }
       .rsb-cert-gallery__wall img { height: 240px; }
       .rsb-details { grid-template-columns: 1fr; gap: 32px; }
-      .rsb-details__image { height: 320px; }
+      .rsb-details__images { height: 320px; }
       .rsb-specs { display: block; overflow-x: auto; }
       .rsb-specs__header th, .rsb-specs__row td { white-space: nowrap; min-width: 120px; }
       .rsb-form__visual-content { padding: 24px; }
@@ -477,8 +476,8 @@
       </div>
       <div class="rsb-details">
         <div>
-          <div class="rsb-details__images">
-            <div class="rsb-details__image">
+          <div class="rsb-details__images" id="rsb-details-carousel">
+            <div class="rsb-details__image rsb-details__image--active">
               <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Photorealistic%20close-up%20cross-section%20view%20of%20a%20hot-dip%20galvanized%20steel%20noise%20barrier%20panel%2C%20showing%20the%20Z275%20zinc%20coating%20layer%2C%20steel%20substrate%20and%20mineral%20wool%20acoustic%20core%2C%20technical%20industrial%20photography%2C%20clean%20neutral%20background%2C%20high%20detail%2C%20sharp%20focus&image_size=landscape_4_3" alt="Galvanized steel panel cross-section" loading="lazy" width="800" height="600">
             </div>
             <div class="rsb-details__image">
@@ -489,9 +488,9 @@
             </div>
           </div>
           <div class="rsb-details__dots">
-            <span class="rsb-details__dot rsb-details__dot--active"></span>
-            <span class="rsb-details__dot"></span>
-            <span class="rsb-details__dot"></span>
+            <button type="button" class="rsb-details__dot rsb-details__dot--active" aria-label="Show image 1"></button>
+            <button type="button" class="rsb-details__dot" aria-label="Show image 2"></button>
+            <button type="button" class="rsb-details__dot" aria-label="Show image 3"></button>
           </div>
         </div>
         <div>
@@ -1014,6 +1013,31 @@
       {"@type": "ListItem", "position": 4, "name": "Full Enclosure Highway Barrier", "url": "https://yukings.com/products/full-enclosure-noise-barriers"}
     ]
   }
+  </script>
+  <script>
+  (function(){
+    var carousel = document.getElementById('rsb-details-carousel');
+    if(!carousel) return;
+    var images = carousel.querySelectorAll('.rsb-details__image');
+    var dots = document.querySelectorAll('.rsb-details__dot');
+    if(images.length === 0) return;
+    var idx = 0;
+    var timer;
+    function show(n){
+      idx = (n + images.length) % images.length;
+      images.forEach(function(img, i){ img.classList.toggle('rsb-details__image--active', i === idx); });
+      dots.forEach(function(d, i){ d.classList.toggle('rsb-details__dot--active', i === idx); });
+    }
+    function next(){ show(idx + 1); }
+    function start(){ timer = setInterval(next, 4000); }
+    function stop(){ clearInterval(timer); }
+    dots.forEach(function(d, i){
+      d.addEventListener('click', function(){ stop(); show(i); start(); });
+    });
+    carousel.addEventListener('mouseenter', stop);
+    carousel.addEventListener('mouseleave', start);
+    start();
+  })();
   </script>
 </body>
 </html>
