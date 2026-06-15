@@ -1,0 +1,1216 @@
+{
+  "10": {
+    "slug": "power-plant-noise-barriers",
+    "name": "Power Plant Noise Barrier",
+    "page_title": "Power Plant Noise Barrier | Yukings",
+    "short_name": "Power Plant Barrier",
+    "category": "Power Plant Noise Barriers",
+    "description": "Power plant noise barrier with 30-40dB reduction. Heat-resistant up to +80°C. Designed for generators, cooling towers, and power generation facilities. CE certified.",
+    "og_description": "Power plant noise barrier. 30-40dB reduction. +80°C heat resistant. Generator and cooling tower enclosures.",
+    "twitter_description": "Power plant noise barrier with 30-40dB reduction. Heat-resistant up to +80°C. Designed for generators, cooling towers, and power generation facilities. CE certified.",
+    "keywords": "power plant noise barrier, generator noise wall, cooling tower noise barrier, thermal power barrier, power station acoustic wall",
+    "lead": "Power plant noise barrier with 30-40dB reduction, +80°C heat resistance, designed for generators, cooling towers, boilers, and power generation facilities.",
+    "h1": "Power Plant Noise Barrier",
+    "h2_why": "Why Power Plant Noise Barriers Must Withstand Heat and Humidity",
+    "h2_lead": "Yukings Power Plant Noise Barriers deliver 30-40dB reduction in 60-80°C ambient heat from generators, boilers, and cooling towers with moisture-resistant ceramic-filled coating.",
+    "pain_points": [
+      ["🌡️", "Ambient Heat Above 60°C", "Generators and boilers create 60-80°C micro-climates, melting standard acoustic panels within months of installation."],
+      ["💧", "Cooling Tower Humidity", "Cooling tower drift creates 100% humidity zones, condensing inside acoustic panels and corroding steel cores."],
+      ["⚡", "Generator Low-Frequency Noise", "Generators emit 50-200Hz low-frequency noise that passes through standard high-frequency acoustic panels, requiring mass-loaded designs."],
+      ["🏛️", "Coal Dust Abrasion", "Coal-handling areas produce abrasive dust that wears through standard coatings, exposing steel to accelerated corrosion."]
+    ],
+    "pain_image": "Photorealistic large power plant with cooling towers and tall noise barrier walls around the perimeter, steam plumes in background, daylight industrial photography",
+    "adv_image": "Close-up product photograph of a heat-resistant power plant noise barrier panel with ceramic-filled coating, clean industrial setting, professional industrial photography, sharp focus",
+    "values": [
+      ["30-40", "dB Reduction", "Power Plant Attenuation"],
+      ["+80", "°C Rated", "Heat Resistant"],
+      ["Mass", "Loaded", "Low-Frequency"],
+      ["25+", "Years", "Service Life"],
+      ["FRP", "Optional", "Coal Dust Areas"]
+    ],
+    "specs": [
+      ["Frame Material", "Q355B Hot-Dip Galvanized Steel", "-"],
+      ["Panel Material", "Mass-Loaded Vinyl + Perforated Steel + Rock Wool", "-"],
+      ["Panel Thickness", "120 / 150 / 200 (mass-loaded]", "mm"],
+      ["Panel Height", "3000 - 8000", "mm"],
+      ["Surface Mass", "25 - 40 (mass-loaded barrier]", "kg/m²"],
+      ["Surface Treatment", "Hot-Dip Galvanized + Ceramic-Filled Coating", "-"],
+      ["Heat Resistance", "Continuous +80°C, peak +120°C", "-"],
+      ["Low-Frequency", "Optimized for 50-200Hz generator noise", "-"],
+      ["Post Style", "H-Beam 250x250 / I-Beam 300x300", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "30 - 40", "dB"],
+      ["Wind Resistance", "Grade 9 (1200 Pa]", "-"],
+      ["Temperature Range", "-40 to +80 (continuous]", "°C"],
+      ["Service Life", "25 - 30", "Years"]
+    ],
+    "apps": [
+      ["⚡", "Generator Hall Walls", "Inside and outside of generator halls", "#e6f0fa"],
+      ["💨", "Cooling Tower Enclosure", "Cooling tower perimeter and intake", "#f0faeb"],
+      ["🔥", "Boiler House", "Boiler house perimeter and roof", "#fff3e6"],
+      ["⛏️", "Coal Handling", "Coal storage and conveyor enclosures", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a power plant noise barrier showing mass-loaded vinyl layer, rock wool core, ceramic-filled coating, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of power plant noise barriers installed at generator hall, cooling tower, boiler house, and coal handling area, daylight industrial photography",
+    "details_image_prompts": [
+      "Photorealistic close-up cross-section of a power plant noise barrier showing mass-loaded vinyl, rock wool core, ceramic-filled coating, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of a heat-resistant ceramic-filled coating on steel panel, high temperature industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of a mass-loaded vinyl barrier layer laminated to steel, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Power plant barrier mass-loaded cross-section",
+      "Ceramic-filled heat-resistant coating detail",
+      "Mass-loaded vinyl layer detail"
+    ],
+    "details": [
+      ["🔥", "+80°C Continuous Heat Resistance", "Ceramic-filled top coating and high-temperature rock wool core withstand continuous +80°C ambient and peak +120°C from generators, boilers, and turbines without degradation."],
+      ["🔊", "Low-Frequency 50-200Hz Optimized", "Mass-loaded vinyl layer (25-40kg/㎡] blocks low-frequency generator and turbine noise that passes through standard high-frequency acoustic panels, achieving 30-40dB attenuation."],
+      ["💧", "Moisture-Resistant Design", "Closed-cell insulation and sealed panel joints prevent condensation in 100% humidity cooling tower drift zones, eliminating internal corrosion."],
+      ["⛏️", "FRP Coating for Coal Dust Areas", "Optional fiberglass-reinforced plastic (FRP] coating for coal handling areas resists abrasive dust wear, maintaining coating integrity for 25+ years."]
+    ],
+    "install_lead": "Engineered for power generation environments. Welded reinforcement, ceramic-coated fasteners, and post-anchor isolation for high-temperature continuous operation.",
+    "install_steps": [
+      ["Power plant barrier foundation", "Foundation Work", "Pour reinforced concrete foundations at 2m intervals. Heat-resistant anchor bolts specified for high-temp zones.", "Photorealistic construction site showing reinforced concrete foundations with heat-resistant anchor bolts being poured for a power plant noise barrier, workers in safety helmets, daylight documentary photography"],
+      ["Post installation", "Post Installation", "Mount H-beam posts with ceramic-coated base plates. Two-person crew with light crane for tall panels.", "Photorealistic construction workers installing H-beam posts with ceramic-coated base plates for a power plant noise barrier near cooling towers, daylight industrial documentary photography"],
+      ["Mass-loaded panel mounting", "Panel Mounting", "Lift mass-loaded panels with crane. Bolt to posts with heat-resistant fasteners. Verify thermal expansion gaps.", "Photorealistic construction workers lifting mass-loaded acoustic panels with crane for a power plant noise barrier, daylight industrial documentary photography"],
+      ["Inspection and testing", "Inspection & Testing", "Perform thermal cycle and acoustic testing. Final inspection verifies ceramic coating and acoustic seals.", "Photorealistic engineer performing thermal cycle and acoustic testing on a completed power plant noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🔥", "EN 13501-1", "Class A Fire", "Class A non-combustible fire rating for power generation applications.", "Fire Verified"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, thermal, and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Generator hall noise barrier project", "Generator Hall", "Tuoketuo Power Station", "Inner Mongolia, China", "2.8km power plant noise barrier around 6x1000MW generator halls. 38dB reduction achieved with mass-loaded design for low-frequency noise.", "Photorealistic power plant noise barrier around a large generator hall with steam plumes, modern power station architecture, daylight industrial photography"],
+      ["Cooling tower noise barrier project", "Cooling Tower", "Taichung Power Plant Retrofit", "Taiwan", "1.5km cooling tower noise barrier with moisture-resistant sealing. 35dB reduction in high-humidity drift zone.", "Photorealistic power plant noise barrier around cooling towers with visible moisture-resistant sealing, large cooling tower architecture, daylight industrial photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized power plant noise barriers with extra-tall heights, ceramic-filled coating, and FRP cladding for coal dust areas, professional industrial photography",
+    "customs": [
+      ["🎨", "Heat-Resistant Color Matching", "Full RAL palette with ceramic-filled high-temp coating. Stable colors from -40°C to +120°C."],
+      ["📐", "Custom Heights to 10m", "Extra-tall panels up to 10m for tall generator halls. Reinforced Q355B steel post options."],
+      ["⚙️", "Engineering Support for Power Projects", "Acoustic modeling, thermal analysis, CAD drawings, and on-site installation guidance for power plant projects."]
+    ],
+    "faqs": [
+      ["What is a power plant noise barrier?", "A power plant noise barrier is a heat-resistant acoustic wall designed for power generation facilities. Yukings power plant barriers deliver 30-40dB reduction with +80°C heat resistance and mass-loaded design for low-frequency noise."],
+      ["How much noise do power plant barriers reduce?", "Yukings power plant barriers achieve 30-40dB reduction. Mass-loaded vinyl layer (25-40kg/㎡] blocks 50-200Hz low-frequency noise from generators and turbines that bypasses standard panels."],
+      ["Can power plant barriers withstand high temperatures?", "Yes! Yukings power plant barriers use ceramic-filled coating and high-temp rock wool to withstand continuous +80°C and peak +120°C from generators, boilers, and turbines."],
+      ["What is the minimum order quantity for power plant barriers?", "Yukings standard MOQ is 100㎡ for power plant noise barriers. Custom heights or FRP coating may require 200㎡ minimum order quantity."],
+      ["Are power plant barriers suitable for cooling tower environments?", "Yes! Closed-cell insulation and sealed panel joints prevent condensation in 100% humidity cooling tower drift zones, eliminating internal corrosion for 25+ years."],
+      ["Can power plant barriers block low-frequency turbine noise?", "Yes! Yukings mass-loaded vinyl layer is specifically optimized for 50-200Hz low-frequency noise from generators and turbines, achieving 15-20dB more reduction than standard panels at these frequencies."]
+    ],
+    "team_title": "24/7 Engineering Support for Power Generation Projects",
+    "team_text": "Our power, thermal, and acoustic engineers respond within 24 hours with acoustic modeling, thermal stress analysis, CAD drawings, and on-site installation guidance for your power plant noise barrier project.",
+    "related_title": "Related Power Plant Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for power generation and heavy industrial applications, engineered as complementary solutions to the power plant noise barrier.",
+    "related": [
+      [9, "Factory Plant Noise Barrier", "Heavy-duty industrial barrier for factory perimeters.", "Photorealistic factory plant noise barrier around an industrial facility perimeter, modern industrial architecture, daylight industrial photography"],
+      [11, "Chemical Plant Noise Barrier", "Acid-alkali resistant barrier for chemical industry.", "Photorealistic chemical plant noise barrier with acid-alkali resistant coating around chemical storage tanks, daylight industrial photography"],
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"]
+    ]
+  },
+  "11": {
+    "slug": "chemical-plant-noise-barriers",
+    "name": "Chemical Plant Noise Barrier",
+    "page_title": "Chemical Plant Noise Barrier | Yukings",
+    "short_name": "Chemical Plant Barrier",
+    "category": "Chemical Plant Noise Barriers",
+    "description": "Chemical plant noise barrier with 30-40dB reduction. Acid-alkali resistant FRP coating. Designed for chemical industrial parks and corrosive atmospheres. CE certified.",
+    "og_description": "Chemical plant noise barrier. 30-40dB reduction. Acid-alkali resistant FRP coating. pH 2-12 rated.",
+    "twitter_description": "Chemical plant noise barrier with 30-40dB reduction. Acid-alkali resistant FRP coating. Designed for chemical industrial parks and corrosive atmospheres. CE certified.",
+    "keywords": "chemical plant noise barrier, acid resistant barrier, FRP coating noise wall, chemical industrial park barrier, pH rated acoustic wall",
+    "lead": "Chemical plant noise barrier with 30-40dB reduction, FRP acid-alkali coating rated pH 2-12, designed for chemical parks, refineries, and corrosive industrial atmospheres.",
+    "h1": "Chemical Plant Noise Barrier",
+    "h2_why": "Why Chemical Plant Noise Barriers Need FRP Acid-Alkali Protection",
+    "h2_lead": "Yukings Chemical Plant Noise Barriers deliver 30-40dB reduction with FRP acid-alkali coating rated pH 2-12, surviving 5000+ hours salt spray in chemical industrial atmospheres.",
+    "pain_points": [
+      ["🧪", "Acid Mist Corrosion", "Standard hot-dip galvanized panels fail in 3-5 years under acid mist, exposing steel cores to rapid degradation."],
+      ["💨", "Alkali Vapor Attack", "Alkali vapors in fertilizer and chlor-alkali plants strip epoxy coatings within months, requiring constant recoating."],
+      ["🌧️", "Acid Rain Damage", "Industrial regions with acid rain (pH 4-5] accelerate corrosion of standard noise barriers, halving service life."],
+      ["⚗️", "Solvent Vapor Permeation", "Organic solvent vapors permeate standard panel joints, attacking adhesive bonds and reducing structural integrity."]
+    ],
+    "pain_image": "Photorealistic chemical plant with storage tanks and tall noise barrier walls with acid-alkali resistant coating around the perimeter, industrial atmosphere, daylight industrial photography",
+    "adv_image": "Photorealistic chemical plant noise barrier with FRP acid-alkali coating around chemical storage tanks, daylight industrial photography, sharp focus",
+    "values": [
+      ["30-40", "dB Reduction", "Chemical Attenuation"],
+      ["pH 2-12", "Rated", "Acid-Alkali"],
+      ["FRP", "Coating", "Fiberglass Reinforced"],
+      ["5000+", "Hours", "Salt Spray Test"],
+      ["25+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q355B Hot-Dip Galvanized Steel", "-"],
+      ["Panel Material", "Perforated FRP + Rock Wool + FRP Backing", "-"],
+      ["Panel Thickness", "100 / 120 / 150", "mm"],
+      ["Panel Height", "2000 - 6000", "mm"],
+      ["FRP Thickness", "2.0 - 3.0 (front and back]", "mm"],
+      ["Surface Treatment", "FRP Lamination over Hot-Dip Galvanizing", "-"],
+      ["Chemical Resistance", "pH 2-12 (acid-alkali rated]", "-"],
+      ["Salt Spray Test", "5000+ hours per ASTM B117", "h"],
+      ["UV Resistance", "UV-stabilized FRP topcoat", "-"],
+      ["Post Style", "H-Beam 200x200 with FRP sleeves", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "30 - 40", "dB"],
+      ["Wind Resistance", "Grade 9 (1200 Pa]", "-"],
+      ["Temperature Range", "-40 to +90", "°C"],
+      ["Service Life", "25 - 30", "Years"]
+    ],
+    "apps": [
+      ["🛢️", "Refinery Perimeter", "Oil refinery and petrochemical boundary walls", "#e6f0fa"],
+      ["⚗️", "Chemical Reactor Zone", "Reactor and distillation column enclosures", "#f0faeb"],
+      ["🧪", "Acid Storage Tank", "Acid and alkali storage tank farm enclosures", "#fff3e6"],
+      ["🌾", "Fertilizer Plant", "Fertilizer and chlor-alkali production facility", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a chemical plant noise barrier showing FRP lamination, rock wool core, anti-corrosion steel frame, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of chemical plant noise barriers installed at refinery perimeter, chemical reactor zone, acid storage tank, and fertilizer plant, daylight industrial photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a chemical plant noise barrier FRP laminated front face with pH 2-12 chemical resistance, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of FRP panel edge showing laminated layers and resin seal, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of chemical plant barrier post with FRP protective sleeve covering the base, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Chemical plant barrier FRP laminated face",
+      "FRP panel edge and resin seal",
+      "Chemical plant barrier post with FRP sleeve"
+    ],
+    "details": [
+      ["🧪", "FRP Acid-Alkali pH 2-12 Rated", "Fiberglass-reinforced plastic (FRP] lamination over galvanized steel resists pH 2-12 acid-alkali atmospheres, 5000+ hours salt-spray rated per ASTM B117 for chemical and marine environments."],
+      ["⚗️", "Solvent Vapor Permeation Barrier", "Sealed FRP-resin joints and continuous FRP back panel prevent organic solvent vapor permeation that attacks adhesive bonds in standard panels."],
+      ["🌡️", "+90°C High-Temp Resistance", "High-temp FRP formulation and ceramic-filled rock wool withstand continuous +90°C from chemical reactors and exothermic processes without delamination."],
+      ["🌿", "Zero VOC Emissions", "FRP formulation contains zero volatile organic compounds (VOC], meeting clean-air requirements for chemical and pharmaceutical facilities."]
+    ],
+    "install_lead": "FRP-clad panels require careful handling to preserve surface integrity. Stainless steel fasteners and FRP-sleeved posts ensure chemical resistance at every joint.",
+    "install_steps": [
+      ["Chemical plant barrier foundation", "Foundation Work", "Pour reinforced concrete foundations at 2m intervals. Chemical-resistant anchor bolts specified.", "Photorealistic construction site showing reinforced concrete foundations with chemical-resistant anchor bolts for a chemical plant noise barrier, workers in safety helmets, daylight documentary photography"],
+      ["Post installation with FRP sleeves", "Post Installation", "Mount H-beam posts with FRP protective sleeves at the base. Two-person crew with light crane.", "Photorealistic construction workers installing H-beam posts with FRP protective sleeves for a chemical plant noise barrier, daylight industrial documentary photography"],
+      ["FRP panel mounting", "FRP Panel Mounting", "Lift FRP-clad panels with crane. Bolt to posts with stainless steel fasteners. Verify panel alignment and surface integrity.", "Photorealistic construction workers lifting FRP-clad acoustic panels with crane for a chemical plant noise barrier, daylight industrial documentary photography"],
+      ["Inspection and testing", "Inspection & Testing", "Perform chemical resistance and acoustic testing. Final inspection verifies FRP integrity and acoustic seals.", "Photorealistic engineer performing chemical resistance and acoustic testing on a completed chemical plant noise barrier, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🛢️", "ISO 12944", "C5-M", "ISO 12944 C5-M corrosion category for marine and industrial atmospheres.", "Industrial Certified"],
+      ["🔬", "ASTM B117", "5000h Salt", "5000+ hours salt-spray tested per ASTM B117 for chemical and marine environments.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Refinery perimeter barrier project", "Refinery", "Sinopec Zhenhai Refinery", "Zhejiang, China", "3.2km chemical plant noise barrier around refinery perimeter. FRP acid-alkali coating rated pH 2-12, 38dB reduction achieved.", "Photorealistic chemical plant noise barrier around an oil refinery perimeter with FRP acid-alkali coating, large storage tanks, daylight industrial photography"],
+      ["Chemical reactor barrier project", "Chemical Reactor", "BASF Ludwigshafen Chemical Park", "Germany", "1.5km chemical plant noise barrier enclosing 8 reactor areas. Solvent vapor permeation barrier, 35dB reduction.", "Photorealistic chemical plant noise barrier enclosing chemical reactor and distillation column area, European chemical park architecture, daylight industrial photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized chemical plant noise barriers with FRP cladding, chemical-resistant posts, and integrated access doors for chemical industrial sites, professional industrial photography",
+    "customs": [
+      ["🎨", "FRP Color & Texture", "Full RAL palette plus FRP texture options. Chemical-resistant pigmentation stable from -40°C to +90°C."],
+      ["📐", "Custom Heights & FRP Thickness", "Custom panel heights 2-8m, FRP thickness 2-5mm. Custom formulations for specific chemical compatibility."],
+      ["⚙️", "Engineering Support for Chemical Sites", "Chemical compatibility analysis, structural engineering, CAD drawings, and on-site installation guidance for chemical plant projects."]
+    ],
+    "faqs": [
+      ["What is a chemical plant noise barrier?", "A chemical plant noise barrier is an acid-alkali resistant acoustic wall designed for chemical industrial parks. Yukings chemical plant barriers deliver 30-40dB reduction with FRP coating rated pH 2-12 for corrosive atmospheres."],
+      ["How resistant are chemical plant barriers to acids?", "Yukings chemical plant barriers use FRP lamination rated pH 2-12, surviving 5000+ hours salt spray per ASTM B117. Tested against sulfuric, hydrochloric, nitric, and sodium hydroxide atmospheres."],
+      ["Can chemical plant barriers withstand solvent vapors?", "Yes! Sealed FRP-resin joints and continuous FRP back panels prevent solvent vapor permeation that attacks adhesive bonds in standard panels."],
+      ["What is the minimum order quantity for chemical plant barriers?", "Yukings standard MOQ is 100㎡ for chemical plant noise barriers. Custom FRP formulations may require 200㎡ minimum order quantity."],
+      ["Are chemical plant barriers suitable for marine and coastal sites?", "Yes! The FRP coating passes 5000+ hours ASTM B117 salt-spray testing, making it ideal for chemical plants in marine and coastal industrial zones."],
+      ["What chemicals can chemical plant barriers resist?", "Yukings FRP chemical plant barriers resist sulfuric, hydrochloric, phosphoric, nitric, sodium hydroxide, and most organic solvents. Custom formulations available for specific chemical compatibility."]
+    ],
+    "team_title": "24/7 Engineering Support for Chemical Plant Projects",
+    "team_text": "Our chemical, materials, and acoustic engineers respond within 24 hours with chemical compatibility analysis, structural calculation, CAD drawings, and on-site installation guidance for your chemical plant noise barrier project.",
+    "related_title": "Related Chemical Plant Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for chemical and corrosive industrial applications, engineered as complementary solutions to the chemical plant noise barrier.",
+    "related": [
+      [9, "Factory Plant Noise Barrier", "Heavy-duty industrial barrier for factory perimeters.", "Photorealistic factory plant noise barrier around an industrial facility perimeter, modern industrial architecture, daylight industrial photography"],
+      [10, "Power Plant Noise Barrier", "Heat-resistant barrier for power generation facilities.", "Photorealistic power plant noise barrier near a power generation facility with cooling towers in background, daylight industrial photography"],
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"]
+    ]
+  },
+  "12": {
+    "slug": "construction-site-noise-barriers",
+    "name": "Construction Site Temporary Noise Barrier",
+    "page_title": "Construction Site Temporary Noise Barrier | Yukings",
+    "short_name": "Construction Site Barrier",
+    "category": "Construction Site Temporary Noise Barriers",
+    "description": "Construction site temporary noise barrier with 20-30dB reduction. Modular, reusable 100+ cycles, quick install. Portable design with no foundation needed. CE certified.",
+    "og_description": "Construction site temporary noise barrier. 20-30dB reduction. 100+ reuse cycles. No foundation needed.",
+    "twitter_description": "Construction site temporary noise barrier with 20-30dB reduction. Modular, reusable 100+ cycles, quick install. Portable design with no foundation needed. CE certified.",
+    "keywords": "construction site noise barrier, temporary noise wall, portable acoustic barrier, reusable construction barrier, mobile noise screen",
+    "lead": "Construction site temporary noise barrier with 20-30dB reduction, modular design, 100+ reuse cycles, no foundation needed. Portable and quick-install for active construction zones.",
+    "h1": "Construction Site Temporary Noise Barrier",
+    "h2_why": "Why Construction Site Temporary Noise Barriers Are Reusable Infrastructure",
+    "h2_lead": "Yukings Construction Site Temporary Noise Barriers deliver 20-30dB reduction with modular design, 100+ reuse cycles, and zero-foundation portability for active construction zones.",
+    "pain_points": [
+      ["🏗️", "Active Site Noise Complaints", "Construction above 75dB triggers immediate community complaints, work stoppage, and project delays costing $50K+ per day."],
+      ["⏱️", "Slow Traditional Installation", "Concrete foundation noise barriers take 2-3 weeks to install, conflicting with rapid construction timelines."],
+      ["♻️", "Single-Use Waste", "Standard temporary barriers are discarded after one project, creating 10-20 tons of construction waste per site."],
+      ["🚚", "Difficult Site Relocation", "Fixed barriers cannot follow shifting construction zones, leaving gaps in noise protection as the project progresses."]
+    ],
+    "pain_image": "Photorealistic construction site with portable temporary noise barriers around the perimeter, cranes and active construction in background, daylight documentary photography",
+    "adv_image": "Photorealistic construction site temporary noise barrier with modular portable panels around an active construction site, daylight documentary photography, sharp focus",
+    "values": [
+      ["20-30", "dB Reduction", "Site Attenuation"],
+      ["100+", "Reuse Cycles", "Verified"],
+      ["Zero", "Foundation", "Ballast Base"],
+      ["30min", "Per Panel", "Quick Install"],
+      ["25+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q235 Hot-Dip Galvanized Steel", "-"],
+      ["Panel Material", "Perforated Steel + 50mm Mineral Wool", "-"],
+      ["Panel Thickness", "80 / 100", "mm"],
+      ["Panel Height", "2000 - 4000", "mm"],
+      ["Base Type", "Concrete ballast / Rubber block / Wheel", "-"],
+      ["Reuse Cycles", "100+ verified cycles without degradation", "cycles"],
+      ["Quick Install", "30 minutes per panel with 2-person crew", "min"],
+      ["Surface Treatment", "Hot-Dip Galvanized / PVC edge guard", "-"],
+      ["Acoustic Infill", "Mineral Wool (64kg/m³]", "-"],
+      ["Post Style", "Folding-A frame / Wheel-mounted", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "20 - 30", "dB"],
+      ["Wind Resistance", "Grade 7 (720 Pa] with ballast", "-"],
+      ["Temperature Range", "-30 to +60", "°C"],
+      ["Service Life", "10 - 15 (regular reuse]", "Years"]
+    ],
+    "apps": [
+      ["🏗️", "Active Construction Sites", "Building and infrastructure construction zones", "#e6f0fa"],
+      ["🚇", "Metro Construction", "Underground and elevated metro construction", "#f0faeb"],
+      ["🛣️", "Road Construction", "Highway expansion and resurfacing zones", "#fff3e6"],
+      ["🏢", "Building Demolition", "Demolition and site clearing operations", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a construction site temporary noise barrier showing perforated steel, mineral wool, fold-A frame base, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of construction site temporary noise barriers installed at active construction site, metro construction, road construction, and building demolition, daylight documentary photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a construction site temporary noise barrier with fold-A frame base and concrete ballast blocks, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of a single panel being lifted by 2-person crew showing quick-install design, industrial product photography, daylight, high detail",
+      "Photorealistic close-up of wheel-mounted temporary noise barrier on construction site, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Construction site barrier with fold-A base",
+      "Quick-install 2-person panel lift",
+      "Wheel-mounted construction barrier"
+    ],
+    "details": [
+      ["⏱️", "30-Minute Per-Panel Quick Install", "Modular panels with fold-A frame base install in 30 minutes per panel using a 2-person crew. No foundation, no waiting for concrete cure, no heavy equipment."],
+      ["♻️", "100+ Verified Reuse Cycles", "Hot-dip galvanized steel frame and high-density mineral wool core are verified to 100+ reuse cycles without acoustic or structural degradation, cutting project cost 70%."],
+      ["🚚", "Wheel or Ballast Base Options", "Choose wheel-mounted bases for daily relocation or concrete-ballast bases for long-term fixed deployment. Same panels, same performance."],
+      ["💰", "Zero Foundation Cost", "Eliminates $50K-$200K foundation cost per site. Panels are paid for once and reused across dozens of projects over 10-15 years."]
+    ],
+    "install_lead": "Zero-foundation deployment in under 30 minutes per panel. 2-person crew, no heavy equipment, no permits required for portable units.",
+    "install_steps": [
+      ["Site preparation and ballast placement", "Site Preparation", "Clear and level site, place concrete ballast blocks at 2m intervals per layout drawing.", "Photorealistic construction crew preparing site and placing concrete ballast blocks for a construction site temporary noise barrier, daylight documentary photography"],
+      ["Frame unfold and position", "Frame Unfold", "Unfold fold-A frame and position over ballast blocks. Lock with safety pin. Two-person crew.", "Photorealistic construction crew unfolding fold-A frame and positioning over ballast blocks for a construction site temporary noise barrier, daylight documentary photography"],
+      ["Panel mounting", "Panel Mounting", "Lift panel into frame slot, lock with security fasteners. Verify alignment and seal compression.", "Photorealistic construction crew lifting acoustic panel into frame slot of a construction site temporary noise barrier, daylight documentary photography"],
+      ["Inspection and relocation", "Inspection & Relocation", "Verify stability and acoustic seal. Document installation for future relocation reference.", "Photorealistic engineer inspecting completed construction site temporary noise barrier installation, daylight documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🚧", "EN 12811-1", "Temporary", "European standard for temporary works equipment performance.", "Temporary Certified"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Metro construction barrier project", "Metro Construction", "Beijing Metro Line 12 Construction", "Beijing, China", "4.2km construction site temporary noise barrier along metro construction corridor. 100+ reuse cycles achieved, 25dB reduction.", "Photorealistic construction site temporary noise barrier along an active metro construction corridor, urban background, daylight documentary photography"],
+      ["Highway expansion barrier project", "Highway Expansion", "M25 Highway Widening UK", "United Kingdom", "8.5km construction site temporary noise barrier along M25 widening project. Reused 12 times across project phases, 28dB reduction.", "Photorealistic construction site temporary noise barrier along an active highway expansion project, road construction equipment, daylight documentary photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized construction site temporary noise barriers with custom branding, color matching, and integrated safety signage for distinctive construction projects, professional documentary photography",
+    "customs": [
+      ["🎨", "Custom Branding & Color", "Project-specific RAL colors, custom logos, and safety signage integrated into panels for branded site appearance."],
+      ["📐", "Custom Panel Heights & Bases", "Custom heights 2-6m, choice of wheel, ballast, or anchor bases for site-specific deployment."],
+      ["⚙️", "Engineering Support for Construction Sites", "Site layout planning, cycle tracking, CAD drawings, and on-site installation guidance for construction site projects."]
+    ],
+    "faqs": [
+      ["What is a construction site temporary noise barrier?", "A construction site temporary noise barrier is a portable, reusable acoustic wall designed for active construction zones. Yukings temporary barriers deliver 20-30dB reduction with 100+ reuse cycles and zero-foundation installation."],
+      ["How much noise do construction site barriers reduce?", "Yukings construction site temporary barriers achieve 20-30dB reduction, sufficient to bring 90-100dB construction noise down to 60-80dB at the property line, meeting most municipal noise ordinances."],
+      ["How many times can construction site barriers be reused?", "Yukings construction site temporary barriers are verified to 100+ reuse cycles without acoustic or structural degradation. Typical project life is 10-15 years of regular reuse."],
+      ["How long does installation take?", "Yukings construction site temporary barriers install in 30 minutes per panel with a 2-person crew. No foundation, no concrete cure time, no heavy equipment, no permits for portable units."],
+      ["What is the minimum order quantity for construction site barriers?", "Yukings standard MOQ is 50 panels for construction site temporary noise barriers. Smaller projects negotiable with rental option available."],
+      ["Can construction site barriers be relocated during the project?", "Yes! Yukings offers wheel-mounted bases for daily relocation or quick-release ballast for relocation every few days. Same panels, same performance, no degradation."]
+    ],
+    "team_title": "24/7 Engineering Support for Construction Site Projects",
+    "team_text": "Our construction, logistics, and acoustic engineers respond within 24 hours with site layout planning, cycle tracking, CAD drawings, and on-site installation guidance for your construction site temporary noise barrier project.",
+    "related_title": "Related Construction Site Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for construction and industrial applications, engineered as complementary solutions to the construction site temporary noise barrier.",
+    "related": [
+      [9, "Factory Plant Noise Barrier", "Heavy-duty industrial barrier for factory perimeters.", "Photorealistic factory plant noise barrier around an industrial facility perimeter, modern industrial architecture, daylight industrial photography"],
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [2, "Aluminum Highway Noise Barrier", "Lightweight aluminum barrier for elevated sections.", "Close-up product photograph of a lightweight aluminum highway noise barrier panel with perforated pattern, clean white background, professional industrial photography"],
+      [3, "Louver Highway Noise Barrier", "Ventilated louver design for tunnels and depressed sections.", "Close-up product photograph of louver highway noise barrier panels with angled louvers for ventilation, clean industrial photography"]
+    ]
+  },
+  "13": {
+    "slug": "high-speed-rail-noise-barriers",
+    "name": "High-Speed Rail Noise Barrier",
+    "page_title": "High-Speed Rail Noise Barrier | Yukings",
+    "short_name": "High-Speed Rail Barrier",
+    "category": "High-Speed Rail Noise Barriers",
+    "description": "High-speed rail noise barrier with 30-40dB reduction. Anti-vibration, fatigue tested 2M+ cycles. EN 16272 rail standard. Designed for 350km/h high-speed rail lines.",
+    "og_description": "High-speed rail noise barrier. 30-40dB reduction. 2M+ cycle fatigue tested. EN 16272 compliant.",
+    "twitter_description": "High-speed rail noise barrier with 30-40dB reduction. Anti-vibration, fatigue tested 2M+ cycles. EN 16272 rail standard. Designed for 350km/h high-speed rail lines.",
+    "keywords": "high-speed rail noise barrier, HSR acoustic wall, rail noise barrier, EN 16272 barrier, railway sound wall",
+    "lead": "High-speed rail noise barrier with 30-40dB reduction, anti-vibration design fatigue-tested to 2M+ cycles, EN 16272 compliant for 350km/h high-speed rail lines.",
+    "h1": "High-Speed Rail Noise Barrier",
+    "h2_why": "Why High-Speed Rail Noise Barriers Meet EN 16272 and 2M+ Cycle Standards",
+    "h2_lead": "Yukings High-Speed Rail Noise Barriers deliver 30-40dB reduction with anti-vibration design fatigue-tested to 2M+ load cycles, EN 16272 compliant for 350km/h rail operations.",
+    "pain_points": [
+      ["🚄", "350km/h Aerodynamic Noise", "High-speed trains generate 90-105dB aerodynamic noise that penetrates standard acoustic panels, exceeding residential noise limits."],
+      ["🔄", "Vibration Fatigue Failure", "2M+ annual load cycles from passing trains cause standard barriers to fail at welded joints within 5-7 years."],
+      ["📜", "EN 16272 Rail Compliance", "European high-speed rail projects require EN 16272 compliance for noise reducing devices, which excludes standard highway barriers."],
+      ["🔥", "Fire Safety on Rail Corridors", "Rail tunnels and station approaches require Class A fire-rated barriers with low smoke emission for passenger safety."]
+    ],
+    "pain_image": "Photorealistic high-speed rail line with elegant noise barrier walls along the tracks, high-speed train in motion, daylight architectural photography",
+    "adv_image": "Photorealistic high-speed rail noise barrier with anti-vibration mount along high-speed rail track, EN 16272 compliant design, daylight industrial photography, sharp focus",
+    "values": [
+      ["30-40", "dB Reduction", "HSR Attenuation"],
+      ["2M+", "Cycle Tested", "Fatigue Rated"],
+      ["EN 16272", "Compliant", "EU Rail Standard"],
+      ["350", "km/h", "Operational Speed"],
+      ["30+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q355B Hot-Dip Galvanized Steel", "-"],
+      ["Panel Material", "Perforated Aluminum + 80mm Mineral Wool", "-"],
+      ["Panel Thickness", "100 / 120 / 150", "mm"],
+      ["Panel Height", "2500 - 5500 (above rail head]", "mm"],
+      ["Aerodynamic Shape", "Streamlined top to reduce drag", "-"],
+      ["Surface Treatment", "Hot-Dip Galvanized + PVDF Coating", "-"],
+      ["Anti-Vibration", "Spring isolators, 90% damping at 50Hz", "-"],
+      ["Fatigue Test", "2,000,000+ cycles per EN 16272", "cycles"],
+      ["Post Style", "H-Beam 250x250 with bolted base", "-"],
+      ["Fire Rating", "Class A (EN 13501-1], low smoke", "-"],
+      ["Noise Reduction", "30 - 40", "dB"],
+      ["Wind Resistance", "Grade 10 (1500 Pa]", "-"],
+      ["Temperature Range", "-40 to +60", "°C"],
+      ["Service Life", "30+", "Years"]
+    ],
+    "apps": [
+      ["🚄", "High-Speed Rail Lines", "300-350km/h mainline rail corridors", "#e6f0fa"],
+      ["🌉", "Rail Bridges", "Elevated rail bridge noise control", "#f0faeb"],
+      ["🚇", "Rail Tunnel Approaches", "Tunnel portal noise walls", "#fff3e6"],
+      ["🏘️", "Rail-Adjacent Communities", "Residential protection along rail lines", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a high-speed rail noise barrier showing streamlined top, spring isolator, EN 16272 compliance annotation, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of high-speed rail noise barriers installed at high-speed rail line, rail bridge, tunnel approach, and rail-adjacent community, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a high-speed rail noise barrier with streamlined aerodynamic top, EN 16272 compliant, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of a spring isolator mount connecting barrier to rail bridge structure, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of a high-speed rail barrier welded joint with fatigue-resistant detail, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "High-speed rail barrier streamlined top",
+      "Spring isolator mount on rail bridge",
+      "Fatigue-resistant welded joint detail"
+    ],
+    "details": [
+      ["🚄", "Aerodynamic 350km/h Streamlined Top", "Streamlined top profile reduces aerodynamic drag and noise generation at 300-350km/h operating speeds, preventing pressure-wave-induced structural fatigue."],
+      ["🔄", "2M+ Cycle Fatigue Tested", "Anti-vibration spring isolators and fatigue-resistant welded joints verified to 2,000,000+ load cycles per EN 16272, extending service life to 30+ years versus 5-7 years for standard barriers."],
+      ["📜", "EN 16272 Rail Standard Compliant", "Full EN 16272 compliance for European high-speed rail projects. Acoustic performance, aerodynamic load, and structural fatigue all verified by accredited laboratories."],
+      ["🔥", "Class A Fire Rated, Low Smoke", "Class A non-combustible rating with low-smoke emission per EN 13501-1, ensuring passenger safety on rail tunnels and station approaches."]
+    ],
+    "install_lead": "Specialized rail installation crew with bolted post-base system, no on-site welding required for fatigue-critical joints. Detailed installation manual per EN 16272.",
+    "install_steps": [
+      ["HSR barrier foundation", "Foundation Work", "Pour reinforced concrete foundations at 2m intervals per rail engineering drawing. Anchor bolt set to ±0.5mm tolerance.", "Photorealistic construction site showing reinforced concrete foundations with anchor bolts for a high-speed rail noise barrier along rail track, workers in safety helmets, daylight documentary photography"],
+      ["Post-base bolt installation", "Post-Base Bolting", "Bolt H-beam posts to anchor plates with high-strength friction-grip bolts. No on-site welding.", "Photorealistic construction crew bolting H-beam posts to anchor plates with high-strength bolts for a high-speed rail noise barrier, daylight industrial documentary photography"],
+      ["Spring isolator and panel mounting", "Isolator & Panel Mounting", "Mount spring isolators on posts, then slide acoustic panels into place. Lock with security fasteners.", "Photorealistic construction crew mounting spring isolators and acoustic panels for a high-speed rail noise barrier, daylight industrial documentary photography"],
+      ["Inspection and certification", "Inspection & Certification", "Perform aerodynamic, fatigue, and acoustic testing per EN 16272. Submit certification documentation.", "Photorealistic engineer performing aerodynamic and acoustic testing on a completed high-speed rail noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 16272", "Rail", "European standard for railway noise reducing devices. Mandatory for EU HSR projects.", "EU Rail Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🔥", "EN 13501-1", "Class A Fire", "Class A non-combustible fire rating for rail tunnel safety compliance.", "Fire Verified"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for aerodynamic, fatigue, and acoustic performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["HSR mainline barrier project", "HSR Mainline", "Beijing-Shanghai HSR Extension", "China", "16km high-speed rail noise barrier along Beijing-Shanghai HSR extension. 2M+ cycle fatigue tested, 38dB reduction achieved.", "Photorealistic high-speed rail noise barrier along a busy high-speed rail mainline with high-speed train in motion, modern rail architecture, daylight architectural photography"],
+      ["HSR bridge barrier project", "HSR Bridge", "Madrid-Barcelona HSR Bridge", "Spain", "6.5km high-speed rail noise barrier on HSR bridge section. Streamlined top reduced aerodynamic drag 25%, 35dB reduction.", "Photorealistic high-speed rail noise barrier on an elevated HSR bridge section with streamlined top, modern European rail architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized high-speed rail noise barriers with streamlined top, EN 16272 compliance marking, and rail corridor integration, professional architectural photography",
+    "customs": [
+      ["🎨", "Rail Authority Color Matching", "Rail authority RAL color matching and corporate livery integration. EN 16272 compliant finishes."],
+      ["📐", "Custom Heights & Streamlining", "Custom panel heights 2-6m, custom aerodynamic profiles for specific speed and climate conditions."],
+      ["⚙️", "Engineering Support for Rail Projects", "EN 16272 acoustic modeling, aerodynamic CFD, CAD drawings, and on-site installation guidance for rail projects."]
+    ],
+    "faqs": [
+      ["What is a high-speed rail noise barrier?", "A high-speed rail noise barrier is an aerodynamic acoustic wall designed for 300-350km/h high-speed rail lines. Yukings HSR barriers deliver 30-40dB reduction with anti-vibration design fatigue-tested to 2M+ cycles per EN 16272."],
+      ["How much noise do HSR barriers reduce?", "Yukings HSR barriers achieve 30-40dB reduction, sufficient to bring 90-105dB HSR aerodynamic noise down to 50-65dB at residential properties within 100m of rail lines."],
+      ["Are HSR barriers EN 16272 compliant?", "Yes! All Yukings HSR barriers are fully EN 16272 compliant for European high-speed rail projects. Acoustic, aerodynamic, and fatigue performance verified by accredited laboratories."],
+      ["What is the minimum order quantity for HSR barriers?", "Yukings standard MOQ is 200㎡ for HSR noise barriers. Rail corridor projects typically 5km+. Custom streamlining or branding may require 500㎡ minimum order quantity."],
+      ["How long do HSR barriers last?", "Yukings HSR barriers are designed for 30+ year service life, verified through 2,000,000+ cycle fatigue testing per EN 16272. Standard highway barriers last 5-7 years in the same HSR environment."],
+      ["Can HSR barriers be installed on rail bridges?", "Yes! Yukings HSR barriers are designed for ground-level and elevated bridge installation. Spring isolator mounts prevent vibration transfer to bridge structure."]
+    ],
+    "team_title": "24/7 Engineering Support for High-Speed Rail Projects",
+    "team_text": "Our rail, structural, and acoustic engineers respond within 24 hours with EN 16272 acoustic modeling, aerodynamic CFD analysis, CAD drawings, and on-site installation guidance for your high-speed rail noise barrier project.",
+    "related_title": "Related High-Speed Rail Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for rail and transit applications, engineered as complementary solutions to the high-speed rail noise barrier.",
+    "related": [
+      [14, "Metro Viaduct Noise Barrier", "Lightweight barrier for metro elevated sections.", "Photorealistic metro viaduct noise barrier on an elevated metro bridge section, modern transit architecture, daylight architectural photography"],
+      [15, "Railway Station Noise Barrier", "Maximum attenuation barrier for railway station zones.", "Photorealistic railway station noise barrier with maximum attenuation design, modern station architecture, daylight architectural photography"],
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"]
+    ]
+  },
+  "14": {
+    "slug": "metro-viaduct-noise-barriers",
+    "name": "Metro Viaduct Noise Barrier",
+    "page_title": "Metro Viaduct Noise Barrier | Yukings",
+    "short_name": "Metro Viaduct Barrier",
+    "category": "Metro Viaduct Noise Barriers",
+    "description": "Metro viaduct noise barrier with 25-35dB reduction. Lightweight aluminum 5052-H32, acid rain resistant coating. Designed for metro elevated bridge sections. CE certified.",
+    "og_description": "Metro viaduct noise barrier. 25-35dB reduction. Lightweight 5052 aluminum. Acid rain resistant.",
+    "twitter_description": "Metro viaduct noise barrier with 25-35dB reduction. Lightweight aluminum 5052-H32, acid rain resistant coating. Designed for metro elevated bridge sections. CE certified.",
+    "keywords": "metro viaduct noise barrier, light rail noise wall, aluminum metro barrier, elevated rail barrier, acid rain rail barrier",
+    "lead": "Metro viaduct noise barrier with 25-35dB reduction, lightweight 5052-H32 aluminum, acid rain resistant coating, designed for metro elevated bridge sections.",
+    "h1": "Metro Viaduct Noise Barrier",
+    "h2_why": "Why Metro Viaduct Noise Barriers Need Lightweight Aluminum Construction",
+    "h2_lead": "Yukings Metro Viaduct Noise Barriers deliver 25-35dB reduction with 5052-H32 lightweight aluminum, reducing bridge deck load 60% versus steel for metro elevated sections.",
+    "pain_points": [
+      ["🌉", "Bridge Deck Load Limits", "Standard steel barriers at 12-18kg/㎡ exceed load limits on aging metro viaduct decks, requiring expensive reinforcement."],
+      ["🌧️", "Acid Rain Corrosion", "Urban acid rain (pH 4-5] corrodes standard galvanized steel barriers in 8-10 years, requiring frequent replacement."],
+      ["🚇", "Metro Vibration Transfer", "Metro train vibration at 2-8Hz transmits through rigid steel barriers, amplifying noise at the receiver zone."],
+      ["🏙️", "Urban Aesthetic Standards", "Standard utilitarian barriers clash with urban architectural standards, prompting aesthetic objections from city planners."]
+    ],
+    "pain_image": "Photorealistic metro viaduct with elegant lightweight aluminum noise barriers on both sides, metro train passing, urban skyline background, daylight architectural photography",
+    "adv_image": "Photorealistic metro viaduct noise barrier on an elevated metro bridge section with lightweight aluminum panels, modern transit architecture, daylight architectural photography, sharp focus",
+    "values": [
+      ["25-35", "dB Reduction", "Metro Attenuation"],
+      ["60%", "Lighter", "vs Steel Panel"],
+      ["5052", "H32 Alloy", "Marine Grade"],
+      ["Acid", "Rain Rated", "Urban pH 4-5"],
+      ["25+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Material", "5052-H32 Marine-Grade Aluminum Alloy", "-"],
+      ["Panel Thickness", "0.8 / 1.0 / 1.2 / 1.5", "mm"],
+      ["Panel Length", "5000 (standard, custom up to 8000]", "mm"],
+      ["Panel Height", "2000 - 4000", "mm"],
+      ["Weight", "60% lighter than equivalent galvanized steel", "-"],
+      ["Surface Treatment", "Anodized / PVDF Coating / Powder Coated", "-"],
+      ["Acid Rain Resistance", "3000+ hours salt-spray ASTM B117", "-"],
+      ["Vibration Mount", "EPDM isolators, 2-8Hz metro vibration", "-"],
+      ["Post Style", "H-Beam Aluminum / I-Beam Aluminum", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "25 - 35", "dB"],
+      ["Wind Resistance", "Grade 8 (960 Pa]", "-"],
+      ["Temperature Range", "-50 to +80", "°C"],
+      ["Service Life", "25 - 30", "Years"]
+    ],
+    "apps": [
+      ["🚇", "Elevated Metro Lines", "Metro viaduct elevated sections", "#e6f0fa"],
+      ["🌉", "Metro Bridges", "Long-span metro bridge noise walls", "#f0faeb"],
+      ["🏙️", "Urban Transit Corridors", "City metro line corridors", "#fff3e6"],
+      ["🏘️", "Metro-Adjacent Communities", "Residential protection near metro lines", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a metro viaduct noise barrier showing 5052 aluminum panel, EPDM isolator, dimension lines and acid rain coating annotation, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of metro viaduct noise barriers installed at elevated metro line, metro bridge, urban transit corridor, and metro-adjacent community, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a metro viaduct noise barrier with 5052-H32 aluminum panel and acid rain resistant coating, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of EPDM isolator mount on metro viaduct barrier, tuned for 2-8Hz metro vibration, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of aluminum H-beam post and panel joint on metro viaduct barrier, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Metro viaduct barrier 5052 aluminum face",
+      "EPDM isolator mount detail",
+      "Aluminum post and panel joint"
+    ],
+    "details": [
+      ["🚇", "60% Lighter Than Steel", "5052-H32 aluminum alloy weighs 4-6kg/㎡, 60% lighter than equivalent steel, reducing metro viaduct deck load and eliminating the need for deck reinforcement on aging bridges."],
+      ["🌧️", "Acid Rain Resistant Coating", "PVDF or anodized coating survives 3000+ hours ASTM B117 salt-spray testing, maintaining integrity in urban acid rain (pH 4-5] environments for 25+ years."],
+      ["🔄", "2-8Hz Metro Vibration Isolators", "EPDM isolators tuned for 2-8Hz metro train vibration prevent structure-borne noise amplification, preserving 25-35dB reduction at receiver."],
+      ["🎨", "Urban Aesthetic Anodized Finishes", "Anodized aluminum finishes in bronze, silver, and black integrate with urban architecture. PVDF color options match city planning aesthetic standards."]
+    ],
+    "install_lead": "Lightweight aluminum panels install with 2-person crew and no heavy crane. Bolted connections to existing viaduct post anchors.",
+    "install_steps": [
+      ["Metro viaduct barrier foundation", "Foundation Work", "Verify existing viaduct post anchor locations. Drill and epoxy additional anchors if needed for retrofit.", "Photorealistic construction crew preparing viaduct post anchor locations for a metro viaduct noise barrier installation, daylight documentary photography"],
+      ["EPDM isolator and post installation", "Isolator & Post Installation", "Mount EPDM isolators on existing post anchors. Bolt aluminum H-beam posts to anchors.", "Photorealistic construction crew mounting EPDM isolators and aluminum H-beam posts on a metro viaduct, daylight industrial documentary photography"],
+      ["Aluminum panel mounting", "Panel Mounting", "Slide aluminum panels between posts using rubber isolation mounts. Lock with stainless fasteners.", "Photorealistic construction crew sliding aluminum panels into posts on a metro viaduct noise barrier installation, daylight industrial documentary photography"],
+      ["Inspection and certification", "Inspection & Certification", "Perform vibration and acoustic testing. Submit metro authority compliance documentation.", "Photorealistic engineer performing vibration and acoustic testing on a completed metro viaduct noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🌊", "ASTM B117", "3000h Salt", "3000+ hours salt-spray tested per ASTM B117 for urban acid rain environments.", "Acid Rain Rated"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, vibration, and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Elevated metro barrier project", "Elevated Metro", "Shanghai Metro Line 11 Viaduct", "Shanghai, China", "8.5km metro viaduct noise barrier on elevated metro section. 60% weight reduction, 30dB noise reduction achieved.", "Photorealistic metro viaduct noise barrier on an elevated metro section with urban skyline, modern Asian transit architecture, daylight architectural photography"],
+      ["Metro bridge barrier project", "Metro Bridge", "Singapore MRT Circle Line Bridge", "Singapore", "4.2km metro viaduct noise barrier on long-span metro bridge. Acid rain coating survived 8 years without maintenance.", "Photorealistic metro viaduct noise barrier on a long-span metro bridge with tropical vegetation, modern Asian transit architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized metro viaduct noise barriers with anodized finishes, acid rain coating, and lightweight aluminum construction for distinctive metro projects, professional architectural photography",
+    "customs": [
+      ["🎨", "Anodized Color Matching", "Full anodized RAL palette plus architectural bronze, silver, and black finishes for urban integration."],
+      ["📐", "Custom Lengths to 8000mm", "Custom panel lengths up to 8000mm for long-span metro bridge installations. CNC-formed curved panels available."],
+      ["⚙️", "Engineering Support for Metro Projects", "Vibration analysis, structural engineering, CAD drawings, and on-site installation guidance for metro projects."]
+    ],
+    "faqs": [
+      ["What is a metro viaduct noise barrier?", "A metro viaduct noise barrier is a lightweight acoustic wall designed for elevated metro bridge sections. Yukings metro viaduct barriers deliver 25-35dB reduction with 5052-H32 aluminum, reducing deck load 60% versus steel."],
+      ["How much do metro viaduct barriers weigh?", "Yukings metro viaduct barriers weigh 4-6kg/㎡ with 5052-H32 aluminum alloy, 60% lighter than equivalent steel. Reduces bridge deck load by 60%, eliminating reinforcement needs on aging viaducts."],
+      ["Are metro viaduct barriers resistant to acid rain?", "Yes! Yukings PVDF or anodized coating survives 3000+ hours ASTM B117 salt-spray testing, maintaining integrity in urban acid rain (pH 4-5] environments for 25+ years."],
+      ["What is the minimum order quantity for metro viaduct barriers?", "Yukings standard MOQ is 100㎡ for metro viaduct noise barriers. Custom lengths or colors may require 200㎡ minimum order quantity."],
+      ["Can metro viaduct barriers prevent vibration transfer?", "Yes! Yukings EPDM isolators are tuned for 2-8Hz metro train vibration, preventing structure-borne noise amplification and preserving 25-35dB reduction at receiver."],
+      ["Are metro viaduct barriers suitable for retrofit projects?", "Yes! Yukings metro viaduct barriers install on existing viaduct post anchors. Lightweight aluminum eliminates need for deck reinforcement, ideal for retrofit of aging metro bridges."]
+    ],
+    "team_title": "24/7 Engineering Support for Metro Viaduct Projects",
+    "team_text": "Our metro, structural, and acoustic engineers respond within 24 hours with vibration analysis, weight load calculation, CAD drawings, and on-site installation guidance for your metro viaduct noise barrier project.",
+    "related_title": "Related Metro Viaduct Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for metro and transit applications, engineered as complementary solutions to the metro viaduct noise barrier.",
+    "related": [
+      [13, "High-Speed Rail Noise Barrier", "Aerodynamic barrier for 350km/h high-speed rail lines.", "Photorealistic high-speed rail noise barrier along a busy high-speed rail mainline with high-speed train in motion, daylight architectural photography"],
+      [15, "Railway Station Noise Barrier", "Maximum attenuation barrier for railway station zones.", "Photorealistic railway station noise barrier with maximum attenuation design, modern station architecture, daylight architectural photography"],
+      [2, "Aluminum Highway Noise Barrier", "Lightweight aluminum barrier for elevated highways.", "Close-up product photograph of a lightweight aluminum highway noise barrier panel with perforated pattern, clean white background, professional industrial photography"],
+      [4, "Arc Top Highway Noise Barrier", "Curved profile for enhanced noise diffusion.", "Close-up of arc top highway noise barrier with curved steel frame and transparent PC panel, photorealistic industrial photography"]
+    ]
+  },
+  "15": {
+    "slug": "railway-station-noise-barriers",
+    "name": "Railway Station Noise Barrier",
+    "page_title": "Railway Station Noise Barrier | Yukings",
+    "short_name": "Railway Station Barrier",
+    "category": "Railway Station Noise Barriers",
+    "description": "Railway station noise barrier with 35-45dB reduction. Maximum attenuation for crowd safety, Class A fire rated. Designed for station platforms and approach zones. CE certified.",
+    "og_description": "Railway station noise barrier. 35-45dB reduction. Class A fire rated. Crowd safety design.",
+    "twitter_description": "Railway station noise barrier with 35-45dB reduction. Maximum attenuation for crowd safety, Class A fire rated. Designed for station platforms and approach zones. CE certified.",
+    "keywords": "railway station noise barrier, station acoustic wall, platform noise barrier, fire rated rail barrier, crowd protection barrier",
+    "lead": "Railway station noise barrier with 35-45dB reduction, Class A fire rated, designed for station platforms and approach zones with crowd-protection features.",
+    "h1": "Railway Station Noise Barrier",
+    "h2_why": "Why Railway Station Noise Barriers Need Maximum Attenuation and Fire Safety",
+    "h2_lead": "Yukings Railway Station Noise Barriers deliver 35-45dB reduction with Class A fire rating and crowd-protection design for busy station platforms and approach zones.",
+    "pain_points": [
+      ["👥", "Crowd Noise Announcements", "Station announcements at 75-85dB compete with train and crowd noise, causing missed information and passenger confusion."],
+      ["🔥", "Fire Safety on Platforms", "Station platforms require Class A fire-rated barriers with low smoke emission to protect passengers during emergencies."],
+      ["🚆", "Train Arr/Dep Noise Spikes", "Train arrival and departure generate 95-110dB noise spikes that propagate into waiting areas and adjacent buildings."],
+      ["🛡️", "Crowd Protection Requirements", "Station barriers must double as crowd control with anti-climb profiles and emergency egress integration."]
+    ],
+    "pain_image": "Photorealistic railway station platform with maximum attenuation noise barriers and crowd-protection features, modern station architecture, daylight architectural photography",
+    "adv_image": "Photorealistic railway station noise barrier with maximum attenuation design and Class A fire rating, modern station architecture, daylight architectural photography, sharp focus",
+    "values": [
+      ["35-45", "dB Reduction", "Station Attenuation"],
+      ["Class A", "Fire Rated", "EN 13501-1"],
+      ["Low", "Smoke", "EN 13501-1"],
+      ["Anti", "Climb", "Crowd Safety"],
+      ["30+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q355B Hot-Dip Galvanized Steel", "-"],
+      ["Panel Material", "Perforated Steel + 100mm Rock Wool", "-"],
+      ["Panel Thickness", "120 / 150 / 200", "mm"],
+      ["Panel Height", "2500 - 5000", "mm"],
+      ["Surface Treatment", "Hot-Dip Galvanized + PVDF Coating", "-"],
+      ["Anti-Climb Profile", "Smooth top, no handholds", "-"],
+      ["Emergency Egress", "Integrated panic-door ready", "-"],
+      ["Acoustic Infill", "Mineral Wool (100kg/m³]", "-"],
+      ["Post Style", "H-Beam 250x250 with anti-climb cap", "-"],
+      ["Fire Rating", "Class A (EN 13501-1], low smoke s1", "-"],
+      ["Noise Reduction", "35 - 45", "dB"],
+      ["Wind Resistance", "Grade 9 (1200 Pa]", "-"],
+      ["Temperature Range", "-30 to +70", "°C"],
+      ["Service Life", "30+", "Years"]
+    ],
+    "apps": [
+      ["🚆", "Station Platforms", "Mainline and metro station platforms", "#e6f0fa"],
+      ["🏛️", "Station Approach", "Station approach corridors and concourses", "#f0faeb"],
+      ["🛤️", "Platform Edge Walls", "Track-side platform edge walls", "#fff3e6"],
+      ["🏢", "Station-Adjacent Buildings", "Offices and residences near stations", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a railway station noise barrier showing perforated steel, rock wool core, anti-climb top, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of railway station noise barriers installed at station platform, station approach, platform edge wall, and station-adjacent building, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a railway station noise barrier with anti-climb smooth top and Class A fire rating, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of a railway station barrier with integrated emergency egress panic door ready, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of a railway station barrier acoustic panel with 100mm rock wool and perforated steel face, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Railway station barrier anti-climb top",
+      "Emergency egress panic door detail",
+      "Railway station barrier acoustic panel"
+    ],
+    "details": [
+      ["🚆", "35-45dB Maximum Attenuation", "100mm high-density rock wool core with perforated steel face achieves 35-45dB reduction, sufficient to bring 95-110dB train arrival noise down to 50-65dB at the platform waiting area."],
+      ["🔥", "Class A Fire Rated, Low Smoke", "EN 13501-1 Class A non-combustible rating with s1 low-smoke emission, ensuring passenger safety on platforms and station approaches during emergencies."],
+      ["🛡️", "Anti-Climb Crowd Safety", "Smooth anti-climb top profile eliminates handholds and footholds, preventing platform track intrusion. Integrated with crowd control and emergency egress design."],
+      ["🚪", "Integrated Emergency Egress", "Pre-engineered for integrated panic doors and emergency egress corridors, allowing rapid passenger evacuation in compliance with fire code and rail authority requirements."]
+    ],
+    "install_lead": "Detailed coordination with rail authority and station operator. Off-peak or night-shift installation to avoid service disruption. Bolted connections, no on-site welding.",
+    "install_steps": [
+      ["Station barrier planning and permit", "Planning & Permit", "Coordinate with rail authority for off-peak installation. Obtain platform closure permit and safety plan.", "Photorealistic construction planning meeting at a railway station with rail authority and contractor teams reviewing installation plans, daylight documentary photography"],
+      ["Foundation work", "Foundation Work", "Pour reinforced concrete foundations at 2m intervals during night-shift window. Curing during service hours.", "Photorealistic construction crew pouring reinforced concrete foundations at a railway station during night shift, daylight documentary photography"],
+      ["Post and panel installation", "Post & Panel Installation", "Mount H-beam posts with anti-climb caps. Slide acoustic panels between posts. Lock with security fasteners.", "Photorealistic construction crew installing H-beam posts with anti-climb caps and acoustic panels at a railway station, daylight industrial documentary photography"],
+      ["Final inspection and handover", "Inspection & Handover", "Perform fire, acoustic, and crowd-safety testing. Submit handover documentation to rail authority.", "Photorealistic engineer performing fire and acoustic testing on a completed railway station noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 13501-1", "Class A Fire", "Class A non-combustible fire rating with s1 low smoke emission for rail station safety.", "Fire Verified"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🚄", "EN 16272", "Rail", "European standard for railway noise reducing devices. Verified for station projects.", "EU Rail Standard"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, fire, and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Mainline station barrier project", "Mainline Station", "Beijing South Railway Station", "Beijing, China", "2.5km railway station noise barrier around platform and approach zones. 42dB reduction, Class A fire rated, anti-climb design.", "Photorealistic railway station noise barrier around platform and approach zones of a major Chinese mainline station, modern station architecture, daylight architectural photography"],
+      ["Metro station barrier project", "Metro Station", "Hong Kong West Kowloon Station", "Hong Kong", "1.8km railway station noise barrier on metro platform and concourse. Integrated emergency egress, 38dB reduction.", "Photorealistic railway station noise barrier on metro platform with integrated emergency egress doors, modern Asian station architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized railway station noise barriers with anti-climb design, integrated egress doors, and station branding for distinctive rail projects, professional architectural photography",
+    "customs": [
+      ["🎨", "Rail Authority Color & Branding", "Rail authority RAL color matching and station branding integration. Anti-graffiti coating available."],
+      ["📐", "Custom Heights & Egress", "Custom panel heights 2-6m, integrated panic doors, emergency egress corridors, and crowd control features."],
+      ["⚙️", "Engineering Support for Station Projects", "Acoustic modeling, fire engineering analysis, CAD drawings, and on-site installation guidance for station projects."]
+    ],
+    "faqs": [
+      ["What is a railway station noise barrier?", "A railway station noise barrier is a maximum-attenuation acoustic wall designed for station platforms and approach zones. Yukings station barriers deliver 35-45dB reduction with Class A fire rating and anti-climb design."],
+      ["How much noise do station barriers reduce?", "Yukings station barriers achieve 35-45dB reduction, sufficient to bring 95-110dB train arrival and crowd noise down to 50-65dB at the platform waiting area, improving announcement clarity and passenger comfort."],
+      ["Are station barriers fire rated?", "Yes! All Yukings station barriers meet EN 13501-1 Class A non-combustible rating with s1 low-smoke emission, ensuring passenger safety during emergencies."],
+      ["What is the minimum order quantity for station barriers?", "Yukings standard MOQ is 200㎡ for railway station noise barriers. Station projects typically 1km+. Custom egress or branding may require 500㎡ minimum order quantity."],
+      ["Can station barriers prevent crowd climbing?", "Yes! Yukings station barriers use smooth anti-climb top profile eliminating handholds and footholds, preventing track intrusion. Integrated with crowd control design per rail authority requirements."],
+      ["Can station barriers integrate emergency egress?", "Yes! Yukings station barriers are pre-engineered for integrated panic doors and emergency egress corridors, allowing rapid passenger evacuation in compliance with fire code and rail authority requirements."]
+    ],
+    "team_title": "24/7 Engineering Support for Railway Station Projects",
+    "team_text": "Our rail, fire, and acoustic engineers respond within 24 hours with fire engineering analysis, crowd safety modeling, CAD drawings, and on-site installation guidance for your railway station noise barrier project.",
+    "related_title": "Related Railway Station Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for rail and station applications, engineered as complementary solutions to the railway station noise barrier.",
+    "related": [
+      [13, "High-Speed Rail Noise Barrier", "Aerodynamic barrier for 350km/h high-speed rail lines.", "Photorealistic high-speed rail noise barrier along a busy high-speed rail mainline, daylight architectural photography"],
+      [14, "Metro Viaduct Noise Barrier", "Lightweight barrier for metro elevated sections.", "Photorealistic metro viaduct noise barrier on an elevated metro bridge section, modern transit architecture, daylight architectural photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"],
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"]
+    ]
+  },
+  "16": {
+    "slug": "residential-noise-barriers",
+    "name": "Residential Community Noise Barrier",
+    "page_title": "Residential Community Noise Barrier | Yukings",
+    "short_name": "Residential Barrier",
+    "category": "Residential Community Noise Barriers",
+    "description": "Residential community noise barrier with 20-30dB reduction. Decorative, multiple color options, privacy screen features. Designed for residential streets and community boundaries. CE certified.",
+    "og_description": "Residential community noise barrier. 20-30dB reduction. Decorative colors. Privacy screen design.",
+    "twitter_description": "Residential community noise barrier with 20-30dB reduction. Decorative, multiple color options, privacy screen features. Designed for residential streets and community boundaries. CE certified.",
+    "keywords": "residential noise barrier, community sound wall, decorative noise wall, privacy screen barrier, neighborhood acoustic wall",
+    "lead": "Residential community noise barrier with 20-30dB reduction, decorative colors, privacy screen features, designed for residential streets and community boundaries.",
+    "h1": "Residential Community Noise Barrier",
+    "h2_why": "Why Residential Community Noise Barriers Combine Aesthetics and Privacy",
+    "h2_lead": "Yukings Residential Community Noise Barriers deliver 20-30dB reduction with decorative colors, privacy screen design, and eco-friendly materials for residential streets.",
+    "pain_points": [
+      ["🏘️", "Traffic Noise into Homes", "Residential streets generate 65-75dB noise that penetrates open windows, disrupting sleep and reducing property values 5-10%."],
+      ["👁️", "Loss of Privacy", "Standard barriers fail to provide visual privacy for street-level homes, exposing living areas to passing traffic."],
+      ["🎨", "Aesthetic Mismatch", "Industrial-grade barriers clash with residential architecture, prompting homeowner association objections and zoning rejections."],
+      ["🌿", "Eco-Compliance Requirements", "Municipal projects require eco-friendly materials with low VOC emissions and EPD certification for residential proximity."]
+    ],
+    "pain_image": "Photorealistic residential community with elegant decorative noise barriers along the street, modern residential architecture, daylight architectural photography",
+    "adv_image": "Photorealistic residential community noise barrier with decorative color finish and privacy screen design along a residential street, daylight architectural photography, sharp focus",
+    "values": [
+      ["20-30", "dB Reduction", "Residential Attenuation"],
+      ["Privacy", "Screen", "Visual Barrier"],
+      ["RAL", "Palette", "Decorative Colors"],
+      ["EPD", "Certified", "Eco-Compliance"],
+      ["25+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q235 Hot-Dip Galvanized Steel + Aluminum", "-"],
+      ["Panel Material", "Perforated Aluminum + 50mm Mineral Wool", "-"],
+      ["Panel Thickness", "80 / 100", "mm"],
+      ["Panel Height", "2000 - 3500", "mm"],
+      ["Surface Treatment", "PVDF / Powder Coating / Wood-Grain Finish", "-"],
+      ["Color Options", "Full RAL palette + wood-grain + stone texture", "-"],
+      ["Privacy Screen", "Optional 80% visual blocking", "-"],
+      ["Acoustic Infill", "Mineral Wool (50kg/m³]", "-"],
+      ["Post Style", "Aluminum H-Beam / Decorative post cap", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "20 - 30", "dB"],
+      ["Wind Resistance", "Grade 7 (720 Pa]", "-"],
+      ["Temperature Range", "-30 to +60", "°C"],
+      ["Service Life", "20 - 25", "Years"]
+    ],
+    "apps": [
+      ["🏘️", "Residential Streets", "Suburban residential street boundaries", "#e6f0fa"],
+      ["🏘️", "Community Boundaries", "Gated community perimeter walls", "#f0faeb"],
+      ["🏡", "Single-Family Homes", "Individual home boundary noise walls", "#fff3e6"],
+      ["🌳", "Park-Adjacent Streets", "Park edge residential noise walls", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a residential community noise barrier showing perforated aluminum, decorative coating, privacy screen option, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of residential community noise barriers installed at residential street, community boundary, single-family home, and park-adjacent street, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a residential community noise barrier with wood-grain PVDF finish and decorative post cap, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of residential barrier privacy screen section with 80% visual blocking, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of residential barrier decorative color options displayed in showroom, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Residential barrier wood-grain finish",
+      "Privacy screen 80% visual blocking",
+      "Residential barrier color showroom"
+    ],
+    "details": [
+      ["🏘️", "20-30dB Traffic Noise Reduction", "Perforated aluminum face with 50mm mineral wool core delivers 20-30dB reduction, reducing 65-75dB street traffic noise to 35-55dB inside homes, restoring sleep quality."],
+      ["👁️", "Privacy Screen 80% Visual Blocking", "Optional privacy screen section blocks 80% of visual sight lines from street to home, providing visual privacy for ground-floor living areas and rear gardens."],
+      ["🎨", "Wood-Grain & Stone-Texture Finishes", "PVDF and powder-coat finishes available in full RAL palette plus wood-grain (oak, walnut, teak] and stone-texture (sandstone, slate] options for residential architecture integration."],
+      ["🌿", "EPD Eco-Compliance Certified", "Environmental Product Declaration (EPD] certified with low-VOC powder coating and recyclable aluminum. Compliant with LEED v4 and BREEAM residential standards."]
+    ],
+    "install_lead": "Pre-finished decorative panels install with 2-person crew and standard tools. No specialized equipment needed. HOA-friendly installation with minimal site disruption.",
+    "install_steps": [
+      ["Residential barrier foundation", "Foundation Work", "Pour concrete foundations at 2m intervals per HOA-approved layout. Standard depth 1m.", "Photorealistic construction crew pouring concrete foundations for a residential community noise barrier along a residential street, daylight documentary photography"],
+      ["Decorative post installation", "Decorative Post Installation", "Mount aluminum H-beam posts with decorative caps. Two-person crew.", "Photorealistic construction crew installing aluminum H-beam posts with decorative caps for a residential community noise barrier, daylight industrial documentary photography"],
+      ["Decorative panel mounting", "Panel Mounting", "Slide pre-finished panels between posts. Lock with stainless fasteners. Verify decorative alignment.", "Photorealistic construction crew sliding pre-finished decorative panels into aluminum posts for a residential community noise barrier, daylight industrial documentary photography"],
+      ["Privacy screen and inspection", "Privacy & Inspection", "Install privacy screen sections per layout. Final inspection verifies decorative finish and acoustic seals.", "Photorealistic engineer inspecting residential community noise barrier installation with privacy screen sections, daylight documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🌿", "EPD / LEED", "EPD", "Environmental Product Declaration certified. LEED v4 and BREEAM residential compliance.", "Eco-Compliance"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, environmental, and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Community boundary barrier project", "Community Boundary", "Beijing Yayuncun Residential Community", "Beijing, China", "3.2km residential community noise barrier along community boundary. Wood-grain finish, privacy screen, 25dB reduction.", "Photorealistic residential community noise barrier with wood-grain finish and privacy screen along a Beijing residential community boundary, modern Chinese residential architecture, daylight architectural photography"],
+      ["Single-family home barrier project", "Single-Family Home", "Orange County Estate Walls", "California, USA", "1.5km residential community noise barrier along estate walls. Stone-texture finish, 22dB reduction, 0 HOA objections.", "Photorealistic residential community noise barrier with stone-texture finish along California estate walls, luxury residential architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized residential community noise barriers with wood-grain finishes, privacy screens, and decorative post caps for distinctive residential projects, professional architectural photography",
+    "customs": [
+      ["🎨", "Wood-Grain & Stone-Texture", "Premium wood-grain (oak, walnut, teak] and stone-texture (sandstone, slate, granite] finishes for premium residential integration."],
+      ["📐", "Privacy Screen Customization", "Custom privacy screen ratios 50%-90%, decorative post caps, integrated planters and lighting options."],
+      ["⚙️", "Engineering Support for Residential Projects", "HOA coordination, acoustic modeling, CAD drawings, and on-site installation guidance for residential projects."]
+    ],
+    "faqs": [
+      ["What is a residential community noise barrier?", "A residential community noise barrier is a decorative acoustic wall designed for residential streets and community boundaries. Yukings residential barriers deliver 20-30dB reduction with wood-grain and stone-texture finishes plus optional privacy screens."],
+      ["How much noise do residential barriers reduce?", "Yukings residential community barriers achieve 20-30dB reduction, sufficient to bring 65-75dB street traffic noise down to 35-55dB inside homes, restoring sleep quality and conversation comfort."],
+      ["Do residential barriers provide privacy?", "Yes! Yukings residential barriers offer optional privacy screen sections that block 80% of visual sight lines, providing visual privacy for ground-floor living areas and rear gardens."],
+      ["What color and finish options are available?", "Full RAL palette plus premium wood-grain (oak, walnut, teak] and stone-texture (sandstone, slate, granite] PVDF and powder-coat finishes for residential architecture integration."],
+      ["Are residential barriers eco-friendly?", "Yes! Yukings residential barriers are EPD certified with low-VOC powder coating and recyclable aluminum. Compliant with LEED v4 and BREEAM residential standards."],
+      ["What is the minimum order quantity for residential barriers?", "Yukings standard MOQ is 50㎡ for residential community noise barriers. Custom wood-grain or stone-texture finishes may require 100㎡ minimum order quantity."]
+    ],
+    "team_title": "24/7 Engineering Support for Residential Projects",
+    "team_text": "Our residential, acoustic, and design engineers respond within 24 hours with HOA coordination support, acoustic modeling, color consultation, CAD drawings, and on-site installation guidance for your residential community noise barrier project.",
+    "related_title": "Related Residential Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for residential and municipal applications, engineered as complementary solutions to the residential community noise barrier.",
+    "related": [
+      [17, "School Campus Noise Barrier", "Eco-friendly barrier for school and campus zones.", "Photorealistic school noise barrier with eco-friendly finish around a school campus, modern educational architecture, daylight architectural photography"],
+      [18, "Hospital Quiet Zone Noise Barrier", "Quiet-zone barrier for hospital and clinic zones.", "Photorealistic hospital noise barrier around a hospital and clinic zone, modern medical architecture, daylight architectural photography"],
+      [4, "Arc Top Highway Noise Barrier", "Curved profile for enhanced noise diffusion.", "Close-up of arc top highway noise barrier with curved steel frame and transparent PC panel, photorealistic industrial photography"],
+      [6, "PC Transparent Highway Noise Barrier", "Transparent panel for scenic preservation.", "Photorealistic PC transparent highway noise barrier with clear polycarbonate panel, clean industrial photography"]
+    ]
+  },
+  "17": {
+    "slug": "school-noise-barriers",
+    "name": "School Campus Noise Barrier",
+    "page_title": "School Campus Noise Barrier | Yukings",
+    "short_name": "School Barrier",
+    "category": "School Campus Noise Barriers",
+    "description": "School campus noise barrier with 25-35dB reduction. Non-toxic materials, child-safe rounded edges, EPD eco-certification. Designed for school perimeters and playgrounds. CE certified.",
+    "og_description": "School campus noise barrier. 25-35dB reduction. Child-safe design. EPD eco-certified.",
+    "twitter_description": "School campus noise barrier with 25-35dB reduction. Non-toxic materials, child-safe rounded edges, EPD eco-certification. Designed for school perimeters and playgrounds. CE certified.",
+    "keywords": "school noise barrier, campus acoustic wall, child safe noise wall, school perimeter barrier, eco-friendly school barrier",
+    "lead": "School campus noise barrier with 25-35dB reduction, non-toxic materials, child-safe rounded edges, EPD eco-certification, designed for school perimeters and playgrounds.",
+    "h1": "School Campus Noise Barrier",
+    "h2_why": "Why School Campus Noise Barriers Must Be Child-Safe and Eco-Certified",
+    "h2_lead": "Yukings School Campus Noise Barriers deliver 25-35dB reduction with non-toxic materials, child-safe rounded edges, and EPD eco-certification for school perimeters and playgrounds.",
+    "pain_points": [
+      ["🚌", "School Drop-Off Noise", "School drop-off and pick-up generate 75-85dB noise that disrupts classroom learning and playground activities."],
+      ["🚸", "Child Safety Concerns", "Standard barriers have sharp edges and pinch points that pose injury risks to children at playground height."],
+      ["☣️", "Material Toxicity", "Conventional barrier coatings release VOCs that affect children's respiratory health in school proximity."],
+      ["📚", "Classroom Disruption", "Exterior traffic noise above 50dB disrupts reading comprehension and concentration in classrooms within 50m of busy roads."]
+    ],
+    "pain_image": "Photorealistic school campus with eco-friendly noise barriers and child-safe rounded edges around the perimeter, modern educational architecture, daylight architectural photography",
+    "adv_image": "Photorealistic school campus noise barrier with child-safe rounded edges and eco-friendly finish around a school playground, daylight architectural photography, sharp focus",
+    "values": [
+      ["25-35", "dB Reduction", "Campus Attenuation"],
+      ["R10", "Edge Radius", "Child-Safe"],
+      ["Zero", "VOC", "Non-Toxic"],
+      ["EPD", "Certified", "Eco-Compliance"],
+      ["25+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q235 Hot-Dip Galvanized Steel + Aluminum", "-"],
+      ["Panel Material", "Perforated Aluminum + 50mm Mineral Wool", "-"],
+      ["Panel Thickness", "80 / 100", "mm"],
+      ["Panel Height", "2000 - 3500", "mm"],
+      ["Edge Treatment", "R10 rounded edge, no sharp corners", "mm"],
+      ["Surface Treatment", "Zero-VOC Powder Coating / Anodized", "-"],
+      ["Color Options", "Full RAL palette + school colors", "-"],
+      ["Acoustic Infill", "Mineral Wool (50kg/m³]", "-"],
+      ["Post Style", "Aluminum H-Beam with rounded cap", "-"],
+      ["Fire Rating", "Class A (EN 13501-1]", "-"],
+      ["Noise Reduction", "25 - 35", "dB"],
+      ["Wind Resistance", "Grade 7 (720 Pa]", "-"],
+      ["Temperature Range", "-30 to +60", "°C"],
+      ["Service Life", "25 - 30", "Years"]
+    ],
+    "apps": [
+      ["🏫", "School Perimeter", "K-12 school boundary walls", "#e6f0fa"],
+      ["🚌", "Drop-Off Zone", "School drop-off and pick-up zones", "#f0faeb"],
+      ["🏃", "Playground Boundary", "School playground perimeter walls", "#fff3e6"],
+      ["🎓", "University Campus", "Higher education campus boundaries", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a school campus noise barrier showing rounded edges, zero-VOC coating, perforated aluminum, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of school campus noise barriers installed at school perimeter, drop-off zone, playground boundary, and university campus, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a school campus noise barrier with R10 rounded child-safe edge, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of school barrier zero-VOC powder coating color samples, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of school barrier post with rounded cap and tamper-resistant fastener, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "School barrier R10 child-safe edge",
+      "School barrier zero-VOC color samples",
+      "School barrier post with rounded cap"
+    ],
+    "details": [
+      ["🚸", "R10 Child-Safe Rounded Edges", "All edges and corners feature R10 minimum rounded radius, eliminating sharp edges and pinch points that pose injury risks to children at playground height."],
+      ["☣️", "Zero-VOC Non-Toxic Coating", "Zero-VOC powder coating contains no volatile organic compounds, certified safe for children's respiratory health. Complies with EN 71-3 toy safety standard for school proximity."],
+      ["📚", "25-35dB Classroom Protection", "Perforated aluminum face with 50mm mineral wool reduces 75-85dB drop-off noise to 40-60dB at classroom windows, improving reading comprehension and concentration."],
+      ["🎨", "School Color Customization", "Custom RAL color matching to school identity, including primary color schemes and team colors. School logos and mascots can be incorporated into panel design."]
+    ],
+    "install_lead": "Child-safe installation during school holidays or off-hours. No on-site welding. Tamper-resistant fasteners prevent unauthorized disassembly.",
+    "install_steps": [
+      ["School barrier planning and permit", "Planning & Permit", "Coordinate with school administration for off-hours installation. Obtain safety and fire permits.", "Photorealistic construction planning meeting at a school with school administration and contractor team reviewing installation plans, daylight documentary photography"],
+      ["Foundation work", "Foundation Work", "Pour concrete foundations at 2m intervals during school holiday window. Standard depth 1m.", "Photorealistic construction crew pouring concrete foundations for a school campus noise barrier during school holiday, daylight documentary photography"],
+      ["Post and panel installation", "Post & Panel Installation", "Mount aluminum posts with rounded caps. Slide pre-finished panels between posts. Lock with tamper-resistant fasteners.", "Photorealistic construction crew installing aluminum posts with rounded caps and pre-finished panels for a school campus noise barrier, daylight industrial documentary photography"],
+      ["Inspection and handover", "Inspection & Handover", "Verify child-safe edges, zero-VOC certification, and acoustic performance. Submit handover documentation to school.", "Photorealistic engineer inspecting child-safe edges and acoustic performance of a completed school campus noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🧸", "EN 71-3", "Toy Safe", "Toy safety standard for migration of certain elements. Safe for school and child proximity.", "Child Safe"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🌿", "EPD / LEED", "EPD", "Environmental Product Declaration certified. LEED v4 Schools compliant.", "Eco-Compliance"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, environmental, and safety performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["K-12 school barrier project", "K-12 School", "Beijing No. 4 Middle School", "Beijing, China", "1.5km school campus noise barrier around K-12 campus. Zero-VOC coating, R10 child-safe edges, 30dB reduction.", "Photorealistic school campus noise barrier with zero-VOC finish and child-safe edges around a Beijing K-12 school campus, modern Chinese educational architecture, daylight architectural photography"],
+      ["University campus barrier project", "University", "Tsinghua University Campus Wall", "Beijing, China", "3.5km school campus noise barrier around university campus perimeter. School color customization, 28dB reduction.", "Photorealistic school campus noise barrier with school color customization around a major Chinese university perimeter, modern educational architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized school campus noise barriers with school colors, child-safe edges, and integrated educational graphics for distinctive school projects, professional architectural photography",
+    "customs": [
+      ["🎨", "School Color & Logo Customization", "Custom school colors, logos, and educational graphics integrated into panel design. Anti-graffiti coating available."],
+      ["📐", "Custom Heights & Play Integration", "Custom panel heights 1.8-3.5m, integrated planters, seating, and playground equipment coordination."],
+      ["⚙️", "Engineering Support for School Projects", "Acoustic modeling, child-safety certification, CAD drawings, and on-site installation guidance for school projects."]
+    ],
+    "faqs": [
+      ["What is a school campus noise barrier?", "A school campus noise barrier is a child-safe acoustic wall designed for school perimeters and playgrounds. Yukings school barriers deliver 25-35dB reduction with R10 rounded edges and zero-VOC non-toxic coating."],
+      ["Are school barriers safe for children?", "Yes! Yukings school barriers use R10 minimum rounded edge radius eliminating sharp edges and pinch points. Tamper-resistant fasteners prevent unauthorized disassembly. EN 71-3 toy safety certified."],
+      ["Are school barrier coatings non-toxic?", "Yes! Yukings school barriers use zero-VOC powder coating containing no volatile organic compounds. Certified safe for children's respiratory health and compliant with EN 71-3 toy safety standard."],
+      ["How much noise do school barriers reduce?", "Yukings school campus barriers achieve 25-35dB reduction, sufficient to bring 75-85dB drop-off and pick-up noise down to 40-60dB at classroom windows, improving reading comprehension and concentration."],
+      ["Can school barriers use school colors?", "Yes! Yukings school barriers support custom RAL color matching to school identity, including primary color schemes, team colors, and integrated school logos and mascots in panel design."],
+      ["What is the minimum order quantity for school barriers?", "Yukings standard MOQ is 100㎡ for school campus noise barriers. Custom school colors or logos may require 200㎡ minimum order quantity."]
+    ],
+    "team_title": "24/7 Engineering Support for School Campus Projects",
+    "team_text": "Our school, acoustic, and child-safety engineers respond within 24 hours with acoustic modeling, child-safety certification, color consultation, CAD drawings, and on-site installation guidance for your school campus noise barrier project.",
+    "related_title": "Related School Campus Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for educational and municipal applications, engineered as complementary solutions to the school campus noise barrier.",
+    "related": [
+      [16, "Residential Community Noise Barrier", "Decorative barrier for residential communities.", "Photorealistic residential community noise barrier with wood-grain finish along a residential community boundary, modern Chinese residential architecture, daylight architectural photography"],
+      [18, "Hospital Quiet Zone Noise Barrier", "Quiet-zone barrier for hospital and clinic zones.", "Photorealistic hospital noise barrier around a hospital and clinic zone, modern medical architecture, daylight architectural photography"],
+      [4, "Arc Top Highway Noise Barrier", "Curved profile for enhanced noise diffusion.", "Close-up of arc top highway noise barrier with curved steel frame and transparent PC panel, photorealistic industrial photography"],
+      [6, "PC Transparent Highway Noise Barrier", "Transparent panel for scenic preservation.", "Photorealistic PC transparent highway noise barrier with clear polycarbonate panel, clean industrial photography"]
+    ]
+  },
+  "18": {
+    "slug": "hospital-noise-barriers",
+    "name": "Hospital Quiet Zone Noise Barrier",
+    "page_title": "Hospital Quiet Zone Noise Barrier | Yukings",
+    "short_name": "Hospital Barrier",
+    "category": "Hospital Quiet Zone Noise Barriers",
+    "description": "Hospital quiet zone noise barrier with 30-40dB reduction. Medical-grade quiet zone, EPD eco-certification, no sharp edges. Designed for hospital perimeters and clinic zones. CE certified.",
+    "og_description": "Hospital quiet zone noise barrier. 30-40dB reduction. Medical-grade quiet. EPD eco-certified.",
+    "twitter_description": "Hospital quiet zone noise barrier with 30-40dB reduction. Medical-grade quiet zone, EPD eco-certification, no sharp edges. Designed for hospital perimeters and clinic zones. CE certified.",
+    "keywords": "hospital noise barrier, medical quiet zone, clinic acoustic wall, healthcare noise barrier, hospital perimeter barrier",
+    "lead": "Hospital quiet zone noise barrier with 30-40dB reduction, medical-grade quiet zone, EPD eco-certification, designed for hospital perimeters and clinic zones.",
+    "h1": "Hospital Quiet Zone Noise Barrier",
+    "h2_why": "Why Hospital Quiet Zone Noise Barriers Protect Patient Recovery",
+    "h2_lead": "Yukings Hospital Quiet Zone Noise Barriers deliver 30-40dB reduction with medical-grade acoustic design, EPD eco-certification, and anti-bacterial coating for patient recovery zones.",
+    "pain_points": [
+      ["🏥", "Patient Recovery Disruption", "Exterior traffic noise above 40dB disrupts patient sleep, extends hospital stays by 1-2 days, and slows recovery rates by 20%."],
+      ["🦠", "Hospital Hygiene Standards", "Standard barriers with porous surfaces harbor bacteria and pathogens, violating hospital hygiene protocols in patient zones."],
+      ["🔇", "Medical Equipment Sensitivity", "Hospital imaging equipment is sensitive to vibration and acoustic interference, requiring vibration-isolated barrier design."],
+      ["🌿", "Eco-Compliance for Healthcare", "Healthcare facilities require EPD-certified, low-VOC materials and recyclable construction for LEED Healthcare compliance."]
+    ],
+    "pain_image": "Photorealistic hospital with medical-grade quiet zone noise barriers and anti-bacterial coating around the perimeter, modern medical architecture, daylight architectural photography",
+    "adv_image": "Photorealistic hospital quiet zone noise barrier with anti-bacterial coating and medical-grade acoustic design around a hospital perimeter, daylight architectural photography, sharp focus",
+    "values": [
+      ["30-40", "dB Reduction", "Hospital Attenuation"],
+      ["Anti", "Bacterial", "ISO 22196"],
+      ["Zero", "VOC", "Non-Toxic"],
+      ["EPD", "Certified", "Eco-Compliance"],
+      ["30+", "Years", "Service Life"]
+    ],
+    "specs": [
+      ["Frame Material", "Q235 Hot-Dip Galvanized Steel + Aluminum", "-"],
+      ["Panel Material", "Perforated Aluminum + 80mm Mineral Wool", "-"],
+      ["Panel Thickness", "100 / 120", "mm"],
+      ["Panel Height", "2500 - 4000", "mm"],
+      ["Edge Treatment", "R10 rounded edge, no sharp corners", "mm"],
+      ["Surface Treatment", "Anti-bacterial + Zero-VOC Powder Coating", "-"],
+      ["Anti-Bacterial", "ISO 22196 certified, 99.9% bacterial reduction", "%"],
+      ["Acoustic Infill", "Mineral Wool (64kg/m³]", "-"],
+      ["Vibration Mount", "Medical-grade isolators, MRI/Imaging compatible", "-"],
+      ["Post Style", "Aluminum H-Beam with rounded cap", "-"],
+      ["Fire Rating", "Class A (EN 13501-1], low smoke", "-"],
+      ["Noise Reduction", "30 - 40", "dB"],
+      ["Wind Resistance", "Grade 8 (960 Pa]", "-"],
+      ["Temperature Range", "-30 to +60", "°C"],
+      ["Service Life", "30+", "Years"]
+    ],
+    "apps": [
+      ["🏥", "Hospital Perimeter", "Main hospital boundary walls", "#e6f0fa"],
+      ["🩺", "Clinic Zone", "Outpatient clinic and consultation zones", "#f0faeb"],
+      ["🚑", "Emergency Department", "ED entrance and ambulance bay walls", "#fff3e6"],
+      ["🔬", "Imaging Center", "MRI/CT imaging center perimeter", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering cross-section blueprint of a hospital quiet zone noise barrier showing anti-bacterial coating, 80mm rock wool, medical-grade isolator, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of hospital quiet zone noise barriers installed at hospital perimeter, clinic zone, emergency department, and imaging center, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a hospital quiet zone noise barrier with anti-bacterial coating and rounded child-safe edge, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of hospital barrier medical-grade vibration isolator, MRI-compatible design, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of hospital barrier anti-bacterial surface with ISO 22196 certification mark, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Hospital barrier anti-bacterial coating",
+      "Medical-grade vibration isolator",
+      "Hospital barrier anti-bacterial surface"
+    ],
+    "details": [
+      ["🏥", "30-40dB Patient Recovery Protection", "Perforated aluminum face with 80mm mineral wool reduces 70-80dB traffic noise to 30-50dB at patient rooms, improving sleep quality and reducing hospital stay duration."],
+      ["🦠", "ISO 22196 Anti-Bacterial Coating", "Anti-bacterial powder coating certified to ISO 22196 achieves 99.9% bacterial reduction on panel surface, meeting hospital hygiene protocols for patient zones."],
+      ["🔇", "MRI/Imaging Vibration Isolators", "Medical-grade vibration isolators prevent acoustic and structure-borne interference with sensitive MRI, CT, and ultrasound imaging equipment in adjacent zones."],
+      ["🌿", "EPD Eco-Compliance for Healthcare", "Environmental Product Declaration certified with zero-VOC coating and recyclable aluminum. LEED v4 Healthcare compliant. Cradle-to-Cradle certified materials available."]
+    ],
+    "install_lead": "Coordinated with hospital facilities team for off-hours installation. Anti-bacterial coating applied in clean-room environment. No disruption to patient care.",
+    "install_steps": [
+      ["Hospital barrier planning and permit", "Planning & Permit", "Coordinate with hospital facilities for off-hours installation. Obtain infection control and fire permits.", "Photorealistic construction planning meeting at a hospital with hospital facilities and infection control teams reviewing installation plans, daylight documentary photography"],
+      ["Foundation work", "Foundation Work", "Pour concrete foundations at 2m intervals during night-shift window. Curing during patient hours.", "Photorealistic construction crew pouring concrete foundations for a hospital quiet zone noise barrier during night shift, daylight documentary photography"],
+      ["Post and panel installation", "Post & Panel Installation", "Mount aluminum posts with medical-grade isolators and rounded caps. Slide pre-finished panels between posts. Lock with security fasteners.", "Photorealistic construction crew installing aluminum posts with medical-grade isolators and pre-finished anti-bacterial panels for a hospital quiet zone noise barrier, daylight industrial documentary photography"],
+      ["Inspection and handover", "Inspection & Handover", "Verify anti-bacterial coating, vibration isolation, and acoustic performance. Submit handover documentation to hospital facilities.", "Photorealistic engineer inspecting anti-bacterial coating and acoustic performance of a completed hospital quiet zone noise barrier installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🦠", "ISO 22196", "Anti-Bacterial", "Anti-bacterial surface certified to ISO 22196. 99.9% bacterial reduction for hospital hygiene.", "Hygiene Verified"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🌿", "EPD / LEED", "EPD Healthcare", "Environmental Product Declaration certified. LEED v4 Healthcare compliant.", "Eco-Compliance"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic, hygiene, and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["General hospital barrier project", "General Hospital", "Peking Union Medical College Hospital", "Beijing, China", "2.2km hospital quiet zone noise barrier around main hospital perimeter. Anti-bacterial coating, 35dB reduction, zero VOC emissions.", "Photorealistic hospital quiet zone noise barrier with anti-bacterial coating around a major Beijing hospital perimeter, modern Chinese medical architecture, daylight architectural photography"],
+      ["Imaging center barrier project", "Imaging Center", "Shanghai Ruijin Imaging Center", "Shanghai, China", "1.2km hospital quiet zone noise barrier around MRI/CT imaging center. Medical-grade vibration isolators, 38dB reduction.", "Photorealistic hospital quiet zone noise barrier with medical-grade vibration isolators around an MRI/CT imaging center, modern medical architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized hospital quiet zone noise barriers with anti-bacterial coating, medical-grade isolators, and hospital branding for distinctive healthcare projects, professional architectural photography",
+    "customs": [
+      ["🎨", "Hospital Color & Branding", "Hospital authority RAL color matching and healthcare branding integration. Anti-graffiti and anti-bacterial coatings standard."],
+      ["📐", "Custom Heights & Imaging Compatibility", "Custom panel heights 2-4.5m, MRI-compatible vibration isolators, integrated emergency egress and access doors."],
+      ["⚙️", "Engineering Support for Hospital Projects", "Acoustic modeling, infection control coordination, CAD drawings, and on-site installation guidance for hospital projects."]
+    ],
+    "faqs": [
+      ["What is a hospital quiet zone noise barrier?", "A hospital quiet zone noise barrier is a medical-grade acoustic wall designed for hospital perimeters and clinic zones. Yukings hospital barriers deliver 30-40dB reduction with ISO 22196 anti-bacterial coating and MRI-compatible vibration isolators."],
+      ["How much noise do hospital barriers reduce?", "Yukings hospital quiet zone barriers achieve 30-40dB reduction, sufficient to bring 70-80dB traffic noise down to 30-50dB at patient rooms, improving sleep quality and reducing hospital stay duration."],
+      ["Are hospital barriers anti-bacterial?", "Yes! Yukings hospital barriers use ISO 22196 certified anti-bacterial coating achieving 99.9% bacterial reduction on panel surface, meeting hospital hygiene protocols for patient zones."],
+      ["Are hospital barriers MRI-compatible?", "Yes! Yukings hospital barriers use medical-grade vibration isolators that prevent acoustic and structure-borne interference with sensitive MRI, CT, and ultrasound imaging equipment in adjacent zones."],
+      ["Are hospital barrier coatings non-toxic?", "Yes! Yukings hospital barriers use zero-VOC powder coating containing no volatile organic compounds. EPD certified, LEED v4 Healthcare compliant, with Cradle-to-Cradle certified material options."],
+      ["What is the minimum order quantity for hospital barriers?", "Yukings standard MOQ is 100㎡ for hospital quiet zone noise barriers. Custom anti-bacterial coating or MRI-compatible isolators may require 200㎡ minimum order quantity."]
+    ],
+    "team_title": "24/7 Engineering Support for Hospital Quiet Zone Projects",
+    "team_text": "Our medical, acoustic, and infection-control engineers respond within 24 hours with acoustic modeling, infection-control coordination, CAD drawings, and on-site installation guidance for your hospital quiet zone noise barrier project.",
+    "related_title": "Related Hospital Quiet Zone Noise Barrier Options",
+    "related_lead": "Explore our complete range of related noise barrier systems for healthcare and municipal applications, engineered as complementary solutions to the hospital quiet zone noise barrier.",
+    "related": [
+      [16, "Residential Community Noise Barrier", "Decorative barrier for residential communities.", "Photorealistic residential community noise barrier with wood-grain finish along a residential community boundary, modern Chinese residential architecture, daylight architectural photography"],
+      [17, "School Campus Noise Barrier", "Child-safe barrier for school campus zones.", "Photorealistic school campus noise barrier with zero-VOC finish and child-safe edges around a school campus, modern educational architecture, daylight architectural photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"],
+      [4, "Arc Top Highway Noise Barrier", "Curved profile for enhanced noise diffusion.", "Close-up of arc top highway noise barrier with curved steel frame and transparent PC panel, photorealistic industrial photography"]
+    ]
+  },
+  "19": {
+    "slug": "custom-noise-barrier-system",
+    "name": "Custom Modular Noise Barrier System",
+    "page_title": "Custom Modular Noise Barrier System | Yukings",
+    "short_name": "Custom Modular System",
+    "category": "Custom Modular Noise Barrier Systems",
+    "description": "Custom modular noise barrier system for non-standard projects. Any shape, color, size, material. Free 3D modeling and design service. 18+ years engineering experience. CE certified.",
+    "og_description": "Custom modular noise barrier. Any shape, color, size, material. Free 3D design service.",
+    "twitter_description": "Custom modular noise barrier system for non-standard projects. Any shape, color, size, material. Free 3D modeling and design service. 18+ years engineering experience. CE certified.",
+    "keywords": "custom noise barrier, modular acoustic system, non-standard sound wall, bespoke noise barrier, custom shape noise wall",
+    "lead": "Custom modular noise barrier system for non-standard projects. Any shape, color, size, material. Free 3D modeling, design service, and engineering support. 18+ years experience.",
+    "h1": "Custom Modular Noise Barrier System",
+    "h2_why": "Why Custom Modular Noise Barrier Systems Solve Non-Standard Projects",
+    "h2_lead": "Yukings Custom Modular Noise Barrier Systems deliver bespoke acoustic solutions for non-standard projects with any shape, color, size, and material, plus free 3D modeling service.",
+    "pain_points": [
+      ["🧩", "Non-Standard Project Geometry", "Curved bridges, irregular facades, and unique architectural features cannot use standard noise barrier panels and dimensions."],
+      ["🎨", "Architectural Color Matching", "Standard RAL colors clash with landmark architecture, requiring custom color matching and special finishes."],
+      ["📐", "Variable Site Conditions", "Sloped terrain, retrofit scenarios, and integrated features require site-specific engineering and bespoke design."],
+      ["💼", "Long Engineering Lead Times", "Custom projects typically require 3-6 months of engineering, delaying project timelines and increasing cost overruns."]
+    ],
+    "pain_image": "Photorealistic custom-shaped noise barrier with unique architectural geometry and special color finish at a landmark project, modern architectural photography",
+    "adv_image": "Photorealistic custom modular noise barrier system with unique architectural shape and special color finish, modern architectural photography, sharp focus",
+    "values": [
+      ["Any", "Shape", "Custom Geometry"],
+      ["Any", "Color", "RAL + Special"],
+      ["Any", "Size", "Bespoke Dimensions"],
+      ["Free", "3D Design", "Modeling Service"],
+      ["18+", "Years", "Engineering"]
+    ],
+    "spec_mode": "custom_options",
+    "custom_options": [
+      ["Material", "Hot-Dip Galvanized Steel · 5052 Aluminum · Stainless Steel 304 · FRP Cladding · PC Transparent · Tempered Glass · Wood-Grain Composite · Recycled Composite"],
+      ["Shape", "Standard Flat · Curved Arc (R150-R800] · Multi-Angle Polygon · Wave / Undulating · Tapered Height · Stepped Tier · Perforated Pattern · Custom CAD Geometry"],
+      ["Color & Finish", "Full RAL Palette · Anodized Bronze / Silver / Black · Wood-Grain (Oak / Walnut / Teak] · Stone-Texture (Sandstone / Slate / Granite] · Anti-Graffiti · Anti-Bacterial (ISO 22196] · PVDF Super Durable · Custom Sample Match"],
+      ["Size Range", "Height 500 - 10000 mm · Width 300 - 8000 mm · Thickness 50 - 250 mm · Post Span 1500 - 6000 mm · Custom CAD from drawings"],
+      ["Acoustic Performance", "15 - 50 dB Reduction · Mass-Loaded for Low Frequency · Reflective / Absorptive / Hybrid · Class A Fire Rated · Anti-Vibration Mounts · STC 25 - 45 Verified"],
+      ["Engineering Add-ons", "Free 3D CAD Modeling · Acoustic Simulation · Wind Load Calculation · Structural FEA Analysis · On-Site Survey · Installation Supervision"]
+    ],
+    "apps": [
+      ["🏛️", "Landmark Architecture", "Custom geometric barriers for signature buildings", "#e6f0fa"],
+      ["🌉", "Curved Bridges", "CNC-formed curved panels for bridge alignment", "#f0faeb"],
+      ["🎭", "Cultural Venues", "Theatrical and concert hall perimeter design", "#fff3e6"],
+      ["🌆", "Urban Plazas", "Integrated plaza boundary with lighting and seating", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering design drawing of a custom modular noise barrier with curved geometry and special finish, dimension lines, clean white background, professional CAD style technical illustration",
+    "apps_image": "Photorealistic panoramic composite of custom modular noise barrier systems at landmark architecture, curved bridge, cultural venue, and urban plaza, daylight architectural photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of a custom-shaped noise barrier with unique curved geometry and special architectural finish, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of custom noise barrier with wood-grain composite finish, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of custom noise barrier CAD model and 3D print prototype on desk, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "Custom barrier curved geometry detail",
+      "Custom barrier wood-grain finish",
+      "Custom barrier CAD model and prototype"
+    ],
+    "details": [
+      ["🧩", "Any Shape, Size, Material Combination", "CNC-formed panels accept any curve radius, polygon angle, or wave geometry. Mix materials within a single project (steel + aluminum + PC + FRP] for unique architectural integration."],
+      ["🎨", "Any Color and Special Finish", "Full RAL palette, anodized bronze/silver, wood-grain (oak, walnut, teak], stone-texture (sandstone, slate, granite], anti-graffiti, anti-bacterial, and custom color matching to architectural samples."],
+      ["📐", "Free 3D Modeling and Design Service", "Free 3D CAD modeling from architectural drawings or site survey. Acoustic simulation, wind load calculation, and structural FEA analysis included. Project timeline reduced from 3-6 months to 4-8 weeks."],
+      ["💼", "18+ Years Engineering Experience", "Yukings has delivered 500+ custom noise barrier projects across 30+ countries. Engineering team responds within 24 hours with feasibility study, cost estimate, and timeline for any non-standard requirement."]
+    ],
+    "install_lead": "Free on-site survey, custom engineering package, and installation supervision. Project timeline typically 4-8 weeks from drawing to installation.",
+    "install_steps": [
+      ["Custom project consultation", "Consultation", "Submit drawings or site specifications. Free feasibility study and acoustic recommendation within 48 hours.", "Photorealistic engineering consultation meeting for a custom noise barrier project with architect and contractor team reviewing drawings, daylight documentary photography"],
+      ["3D modeling and design", "3D Design", "Free 3D CAD modeling from drawings. Acoustic simulation, wind load, and structural FEA included.", "Photorealistic engineer working on 3D CAD modeling of a custom noise barrier system at a workstation with multiple displays, daylight documentary photography"],
+      ["Prototype and approval", "Prototype", "Optional 3D-printed prototype for shape approval before mass production. Sample color and finish for matching.", "Photorealistic engineer reviewing 3D-printed prototype and color sample of a custom noise barrier for client approval, daylight documentary photography"],
+      ["Manufacturing and installation", "Manufacturing & Install", "Mass production after approval. On-site installation supervision by Yukings engineering team.", "Photorealistic engineer supervising on-site installation of a custom noise barrier system with crane and construction crew, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🏛️", "Custom Engineered", "Bespoke", "Bespoke engineering package including 3D CAD, acoustic simulation, and structural FEA.", "Bespoke Engineering"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for acoustic and structural performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Landmark custom barrier project", "Landmark", "Beijing National Stadium (Bird's Nest] Acoustic Walls", "Beijing, China", "1.8km custom modular noise barrier with curved steel geometry matching Bird's Nest architecture. Free 3D design, 35dB reduction.", "Photorealistic custom modular noise barrier with curved steel geometry matching Bird's Nest stadium architecture, modern stadium architecture, daylight architectural photography"],
+      ["Curved bridge custom barrier project", "Curved Bridge", "Hong Kong Stonecutters Bridge", "Hong Kong", "2.5km custom modular noise barrier with CNC-formed R400 curved panels following bridge alignment. Anti-climb design, 32dB reduction.", "Photorealistic custom modular noise barrier with CNC-formed curved panels following a long-span cable-stayed bridge alignment, modern bridge architecture, daylight architectural photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized modular noise barrier systems with unique architectural geometry, special finishes, and integrated features for distinctive landmark projects, professional architectural photography",
+    "customs": [
+      ["🎨", "Any Material, Shape, Color", "Steel, aluminum, stainless, FRP, PC, glass, wood-grain, stone-texture, recycled composite — any shape, any color, any finish."],
+      ["📐", "Free 3D Modeling & Engineering", "Free 3D CAD modeling, acoustic simulation, wind load, structural FEA, and on-site installation supervision."],
+      ["⚙️", "Bespoke Project Management", "Dedicated project manager, weekly progress reports, sample approvals, and post-installation monitoring."]
+    ],
+    "faqs": [
+      ["What is a custom modular noise barrier system?", "A custom modular noise barrier system is a bespoke acoustic solution for non-standard projects. Yukings custom systems deliver any shape, color, size, and material combination with free 3D modeling and design service."],
+      ["What custom materials are available?", "Yukings offers hot-dip galvanized steel, 5052 aluminum, stainless steel 304, FRP cladding, PC transparent, tempered glass, wood-grain composite, and recycled composite — any combination."],
+      ["What custom shapes are possible?", "Any shape is possible: standard flat, curved arc (R150-R800], multi-angle polygon, wave/undulating, tapered height, stepped tier, perforated pattern, or fully custom CAD geometry."],
+      ["Is the 3D design service really free?", "Yes! Free 3D CAD modeling from architectural drawings or site survey. Acoustic simulation, wind load calculation, and structural FEA analysis included at no charge."],
+      ["What is the minimum order quantity for custom systems?", "Yukings custom noise barrier systems start at 100㎡. Smaller custom projects negotiable. Free feasibility study provided for any requirement."],
+      ["How long does a custom project take?", "Yukings custom projects typically take 4-8 weeks from drawing to installation, including 3D modeling, prototype, manufacturing, and on-site installation. 50% faster than industry average 3-6 months."]
+    ],
+    "team_title": "24/7 Engineering Support for Custom Noise Barrier Projects",
+    "team_text": "Our custom, structural, and acoustic engineers respond within 24 hours with feasibility study, 3D modeling, cost estimate, and project timeline for your custom noise barrier system.",
+    "related_title": "Related Custom Noise Barrier System Options",
+    "related_lead": "Explore our complete range of related noise barrier systems, engineered as complementary solutions to the custom modular noise barrier system for landmark and non-standard projects.",
+    "related": [
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.", "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [4, "Arc Top Highway Noise Barrier", "Curved profile for enhanced noise diffusion.", "Close-up of arc top highway noise barrier with curved steel frame and transparent PC panel, photorealistic industrial photography"],
+      [5, "Full Enclosure Highway Noise Barrier", "Maximum attenuation enclosure for sensitive zones.", "Photorealistic full enclosure highway noise barrier tunnel with steel structure and sound-absorbing panels, clean industrial photography"],
+      [6, "PC Transparent Highway Noise Barrier", "Transparent panel for scenic preservation.", "Photorealistic PC transparent highway noise barrier with clear polycarbonate panel, clean industrial photography"]
+    ]
+  },
+  "20": {
+    "slug": "noise-barrier-accessories",
+    "name": "Noise Barrier Accessories",
+    "page_title": "Noise Barrier Accessories | Yukings",
+    "short_name": "Noise Barrier Accessories",
+    "category": "Noise Barrier Accessories",
+    "description": "Noise barrier accessories: posts, bolts, gaskets, brackets, drainage, acoustic infill. Universal fit across all Yukings barrier systems. Original manufacturer parts with full warranty.",
+    "og_description": "Noise barrier accessories. Posts, bolts, gaskets, brackets, drainage, infill. Universal fit. Original parts.",
+    "twitter_description": "Noise barrier accessories: posts, bolts, gaskets, brackets, drainage, acoustic infill. Universal fit across all Yukings barrier systems. Original manufacturer parts with full warranty.",
+    "keywords": "noise barrier accessories, barrier posts, barrier bolts, acoustic infill, barrier gaskets, barrier brackets",
+    "lead": "Noise barrier accessories: posts, bolts, gaskets, brackets, drainage, acoustic infill. Universal fit across all Yukings barrier systems. Original manufacturer parts with full warranty.",
+    "h1": "Noise Barrier Accessories",
+    "h2_why": "Why Original Noise Barrier Accessories Ensure Universal Fit and Warranty",
+    "h2_lead": "Yukings noise barrier accessories are original manufacturer parts designed for universal fit across our full barrier system range, with same quality and warranty as main products.",
+    "pain_points": [
+      ["🔩", "Non-Universal Aftermarket Parts", "Third-party accessories often do not match barrier tolerances, causing installation delays and acoustic seal failures."],
+      ["📉", "Warranty Voided", "Using non-original accessories typically voids the main barrier system warranty, exposing projects to full replacement risk."],
+      ["⏱️", "Long Lead Times for Replacements", "Custom accessories from third parties take 4-8 weeks to manufacture, delaying maintenance and repair schedules."],
+      ["💰", "Hidden Total Cost", "Cheap aftermarket accessories fail 2-3x faster, multiplying replacement and labor cost over project life."]
+    ],
+    "pain_image": "Photorealistic display of original Yukings noise barrier accessories arranged in a clean industrial catalog layout, posts, bolts, gaskets, brackets, drainage components, professional industrial photography",
+    "adv_image": "Photorealistic display of noise barrier accessories including hot-dip galvanized posts, stainless steel bolts, EPDM gaskets, brackets, and drainage components arranged on a workshop bench, professional industrial photography, sharp focus",
+    "values": [
+      ["Universal", "Fit", "All Yukings Systems"],
+      ["Original", "Parts", "Manufacturer Warranty"],
+      ["48h", "Shipping", "Stocked Globally"],
+      ["100%", "Match", "Barrier Tolerances"],
+      ["30+", "Years", "Service Life"]
+    ],
+    "spec_mode": "accessories",
+    "accessory_categories": [
+      ["🔩", "Posts & H-Beams", "Hot-dip galvanized H-beam posts in 100x100, 150x150, 200x200, 250x250, 300x300mm sizes. Aluminum H-beam options. Custom lengths to 10m. Anti-corrosion coating. Universal fit."],
+      ["🔧", "Bolts, Nuts & Fasteners", "Stainless steel A2-70 / A4-80 bolts, M8-M24 sizes. High-strength 8.8/10.9 grade carbon steel options. Security tamper-resistant variants. Galvanized and coated finishes."],
+      ["🛡️", "EPDM Gaskets & Seals", "EPDM rubber gaskets for panel joints, perimeter seals, and EPDM isolator mounts. UV-stabilized, ozone-resistant, 25+ year service life. Custom profiles available."],
+      ["🔗", "Brackets & Clamps", "Post-to-panel mounting brackets, panel-to-panel clamps, anti-vibration clamps. Hot-dip galvanized steel, stainless steel, and aluminum options. Universal fit."],
+      ["🌧️", "Drainage & Weatherproofing", "Integrated drainage gutters, downspouts, weep holes, weather caps. Stainless steel and PVC options. EPDM weather seals. Anti-ponding design."],
+      ["🔊", "Acoustic Infill Materials", "Mineral wool (50-128 kg/m³], glass wool, rock wool, and recycled PET acoustic infill. Custom cut to barrier dimensions. Class A fire rated. NRC 0.85-0.95."]
+    ],
+    "apps": [
+      ["🏗️", "New Installation", "All new barrier projects from 100㎡ to 50km+", "#e6f0fa"],
+      ["🔧", "Maintenance & Repair", "Replacement of damaged or worn accessories", "#f0faeb"],
+      ["♻️", "System Upgrade", "Upgrade to higher-spec accessories for performance boost", "#fff3e6"],
+      ["📦", "Bulk Procurement", "Stockpiling for project pipeline and emergency repair", "#fae6f0"]
+    ],
+    "spec_image": "Technical engineering catalog layout of noise barrier accessories showing posts, bolts, gaskets, brackets, drainage, and acoustic infill with dimensions, clean white background, professional catalog illustration",
+    "apps_image": "Photorealistic panoramic composite of noise barrier accessories used in new installation, maintenance and repair, system upgrade, and bulk procurement scenarios, daylight industrial photography",
+    "details_image_prompts": [
+      "Photorealistic close-up of original Yukings hot-dip galvanized H-beam post with mounting holes and anti-corrosion coating, technical industrial photography, clean background, high detail",
+      "Photorealistic close-up of stainless steel bolt set and security fastener pack for noise barrier installation, industrial product photography, clean white background, high detail",
+      "Photorealistic close-up of EPDM gasket and weather seal components for noise barrier joints, industrial product photography, clean background, high detail"
+    ],
+    "details_image_alts": [
+      "H-beam post with anti-corrosion coating",
+      "Stainless steel bolt and security fastener set",
+      "EPDM gasket and weather seal components"
+    ],
+    "details": [
+      ["🔩", "Universal Fit Across All Barrier Systems", "Original manufacturer accessories designed to exact tolerances of every Yukings barrier system. Posts, bolts, gaskets, and brackets guaranteed to fit first time, every time, with no field modification."],
+      ["📦", "48-Hour Global Shipping", "All standard accessories stocked in regional warehouses for 48-hour shipping to project sites worldwide. Emergency replacement parts available for urgent maintenance."],
+      ["💰", "Same Warranty as Main Products", "Original accessories carry the same 25+ year warranty as the main barrier system. No warranty voiding, no risk of incompatibility, no hidden total cost of ownership."],
+      ["🔧", "Engineering Support for Custom Accessories", "Custom accessories for non-standard projects: special post sizes, custom bracket geometry, project-specific drainage, and tailored acoustic infill. Engineering team responds within 24 hours."]
+    ],
+    "install_lead": "Drop-in replacement parts for all Yukings barrier systems. Detailed installation manuals and video tutorials for every accessory category.",
+    "install_steps": [
+      ["Accessory selection and order", "Selection & Order", "Select accessories by barrier model and application. Online catalog with detailed specifications. 48-hour global shipping.", "Photorealistic engineer selecting noise barrier accessories from a comprehensive online catalog at a workstation, daylight documentary photography"],
+      ["Post and bracket installation", "Installation Prep", "Verify post spacing, bolt patterns, and bracket positions against installation manual. Mark any retrofit locations.", "Photorealistic engineer verifying post spacing and bolt patterns for noise barrier accessory installation, daylight industrial documentary photography"],
+      ["Bolt and fastener torquing", "Bolt Torquing", "Torque all bolts to specification using calibrated wrench. Verify EPDM gasket compression at every joint.", "Photorealistic engineer torquing bolts to specification with calibrated wrench for noise barrier accessory installation, daylight industrial documentary photography"],
+      ["Final inspection and testing", "Inspection & Testing", "Verify seal compression, drainage flow, and acoustic performance. Submit maintenance records for warranty.", "Photorealistic engineer performing final inspection of noise barrier accessory installation, daylight industrial documentary photography"]
+    ],
+    "certs": [
+      ["🇪🇺", "EN 14388", "CE", "European Conformity Certified for road traffic noise reducing devices.", "EU Mandatory Standard"],
+      ["🏆", "ISO 9001:2015", "ISO 9001", "Quality Management System ensuring consistent product excellence.", "Since 2008"],
+      ["🔩", "ISO 4014 / 4032", "Bolt Standards", "Hexagon bolt and nut standards. Full material certification and traceability.", "Hardware Certified"],
+      ["🔬", "CMA / CNAS", "CMA/CNAS", "Third-party tested for material, finish, and load performance.", "Lab Verified"]
+    ],
+    "projects": [
+      ["Highway retrofit accessory project", "Highway Retrofit", "M1 Motorway UK Accessory Upgrade", "United Kingdom", "Replacement of 8,500 bolts and 1,200 EPDM gaskets across 12km M1 motorway. 48-hour shipping, zero installation delays.", "Photorealistic noise barrier accessory upgrade project on UK M1 motorway with replacement bolts and gaskets, modern highway infrastructure, daylight documentary photography"],
+      ["Bulk procurement accessory project", "Bulk Procurement", "Saudi Arabia NEOM Project Accessory Stockpile", "Saudi Arabia", "Bulk procurement of 50,000+ original accessories for NEOM project. Same 25+ year warranty as main products.", "Photorealistic bulk noise barrier accessories stockpiled in a Saudi Arabia warehouse for NEOM project, professional industrial logistics, daylight documentary photography"]
+    ],
+    "custom_image": "Photorealistic composite showing customized noise barrier accessories for new installation, maintenance, system upgrade, and bulk procurement scenarios, professional industrial photography",
+    "customs": [
+      ["🎨", "Custom Post & Bracket Sizes", "Custom post sizes, custom bracket geometry, and project-specific accessories manufactured to drawing."],
+      ["📐", "Project-Specific Drainage", "Custom drainage gutters, downspouts, and weather caps tailored to local rainfall and project geometry."],
+      ["⚙️", "Engineering Support for Maintenance", "Spare parts planning, maintenance schedule, lifecycle cost analysis, and field engineer support."]
+    ],
+    "faqs": [
+      ["Are Yukings accessories universal across barrier systems?", "Yes! All Yukings noise barrier accessories are designed to exact tolerances of every barrier system in our catalog. Universal fit with no field modification required."],
+      ["Do accessories carry the same warranty as main products?", "Yes! Original Yukings accessories carry the same 25+ year warranty as the main barrier system. No warranty voiding, no risk of incompatibility."],
+      ["How fast can I get replacement accessories?", "Standard accessories ship within 48 hours from regional warehouses worldwide. Custom accessories typically 2-4 weeks. Emergency expedited shipping available."],
+      ["What is the minimum order quantity for accessories?", "Yukings accessories have no minimum order quantity for stocked items. Custom accessories typically require 100-piece minimum for cost-effective production."],
+      ["Can I use third-party accessories with Yukings barriers?", "Technically yes, but this voids the main barrier warranty. Yukings strongly recommends original accessories to maintain warranty coverage and ensure exact fit, finish, and performance."],
+      ["Do you provide installation guidance for accessories?", "Yes! Yukings provides detailed installation manuals, video tutorials, and on-call engineering support for all accessory categories. Field engineer dispatch available for complex projects."]
+    ],
+    "team_title": "24/7 Engineering Support for Noise Barrier Accessories",
+    "team_text": "Our accessory and spare parts engineers respond within 24 hours with selection guidance, custom accessory design, lifecycle cost analysis, and field engineer support for your noise barrier accessories project.",
+    "related_title": "Related Noise Barrier Accessories",
+    "related_lead": "Explore our complete range of related noise barrier systems and accessories, engineered as complementary solutions for barrier installation, maintenance, and upgrade projects.",
+    "related": [
+      [1, "Galvanized Steel Highway Noise Barrier", "Standard barrier for highway noise reduction.",
+       "Close-up product photograph of a galvanized steel highway noise barrier panel with perforated pattern, clean industrial photography"],
+      [9, "Factory Plant Noise Barrier", "Heavy-duty industrial barrier for factory perimeters.",
+       "Photorealistic factory plant noise barrier around an industrial facility perimeter, modern industrial architecture, daylight industrial photography"],
+      [12, "Construction Site Temporary Noise Barrier", "Modular reusable barrier for construction sites.",
+       "Photorealistic construction site temporary noise barrier with modular portable panels around an active construction site, daylight documentary photography"],
+      [19, "Custom Modular Noise Barrier System", "Bespoke barrier system for non-standard projects.",
+       "Photorealistic custom modular noise barrier system with unique architectural shape and special color finish, modern architectural photography"]
+    ]
+  }
+}
