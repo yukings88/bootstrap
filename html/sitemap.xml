@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.yukings.net/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.yukings.net/"/>
+    <image:image>
+      <image:loc>https://www.yukings.net/img/yukings-home-og.webp</image:loc>
+      <image:title>Yukings Noise Barrier Manufacturer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/products.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/products.html"/>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/solutions.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/solutions.html"/>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/projects.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/projects.html"/>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/blog.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/blog.html"/>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/about.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/about.html"/>
+  </url>
+  <url>
+    <loc>https://www.yukings.net/contact.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yukings.net/contact.html"/>
+  </url>
+</urlset>
