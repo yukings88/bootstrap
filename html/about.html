@@ -256,8 +256,18 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
 .rsb-chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .rsb-chip{padding:8px 16px;background:rgba(8,36,87,.05);color:var(--blue);border:1px solid rgba(8,36,87,.1);border-radius:50px;font-size:13px;font-weight:600;cursor:pointer;transition:all .25s ease}
 .rsb-chip:hover{background:var(--orange);color:var(--white);border-color:var(--orange);transform:translateY(-2px)}
+.rsb-tabs-nav{background:var(--white);border-bottom:1px solid var(--gray-200);position:sticky;top:80px;z-index:40;box-shadow:var(--shadow-sm)}
+.rsb-tabs{display:flex;justify-content:center;flex-wrap:wrap;gap:0;max-width:var(--max-width);margin:0 auto;padding:0 24px}
+.rsb-tab{padding:20px 28px;font-weight:700;font-size:15px;color:var(--gray-700);border-bottom:3px solid transparent;transition:all .25s ease;cursor:pointer;text-decoration:none;letter-spacing:.3px;white-space:nowrap}
+.rsb-tab:hover{color:var(--orange);transform:translateY(-1px)}
+:root:has(#tab-company:target) .rsb-tab[href="#tab-company"],:root:has(#tab-factory:target) .rsb-tab[href="#tab-factory"],:root:has(#tab-certifications:target) .rsb-tab[href="#tab-certifications"],:root:has(#tab-team:target) .rsb-tab[href="#tab-team"]{color:var(--orange);border-bottom-color:var(--orange)}
+.rsb-tab-panel{display:none;animation:rsbFadeIn .5s ease}
+.rsb-tab-panel:target{display:block}
+:root .rsb-tab-panel:first-of-type{display:block}
+:root:has(.rsb-tab-panel:target) .rsb-tab-panel:first-of-type:not(:target){display:none}
+@keyframes rsbFadeIn{0%{opacity:0;transform:translateY(10px)}100%{opacity:1;transform:translateY(0)}}
 @media (max-width:1024px){.rsb-hero h1{font-size:46px}.rsb-section__head h2{font-size:32px}.rsb-section{padding:72px 0}.rsb-split,.rsb-split--reverse{grid-template-columns:1fr;gap:36px;margin-bottom:60px;direction:ltr}.rsb-split__body h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs{grid-template-columns:repeat(2,1fr)}.rsb-team{grid-template-columns:repeat(2,1fr)}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:repeat(2,1fr)}.rsb-footer__grid{grid-template-columns:1fr 1fr;gap:36px}.rsb-table{font-size:13px}.rsb-table th,.rsb-table td{padding:12px 14px}.rsb-form__grid{grid-template-columns:1fr}}
-@media (max-width:768px){.rsb-nav{display:none}.rsb-hero{min-height:auto;padding:70px 0 60px}.rsb-hero h1{font-size:34px}.rsb-hero p.lede{font-size:15.5px}.rsb-hero__actions .rsb-btn{width:100%}.rsb-section{padding:60px 0}.rsb-section__head{margin-bottom:42px}.rsb-section__head h2,.rsb-cta h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs,.rsb-team,.rsb-grid--2{grid-template-columns:1fr}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:1fr 1fr;gap:14px}.rsb-cta{padding:70px 0}.rsb-footer__grid{grid-template-columns:1fr}.rsb-table thead{display:none}.rsb-table,.rsb-table tbody,.rsb-table tr,.rsb-table td{display:block;width:100%}.rsb-table tr{margin-bottom:14px;border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden}.rsb-table td{padding:10px 16px;border-bottom:none}.rsb-table td:first-child{background:var(--blue);color:var(--white);border-right:none;font-size:13px;letter-spacing:.5px;text-transform:uppercase}.rsb-cookie{flex-direction:column;align-items:stretch;gap:12px;text-align:center;left:10px;right:10px;padding:16px}.rsb-cookie button{width:100%}.rsb-topbar__links{gap:10px;font-size:12px}.rsb-form{padding:26px}}
+@media (max-width:768px){.rsb-nav{display:none}.rsb-hero{min-height:auto;padding:70px 0 60px}.rsb-hero h1{font-size:34px}.rsb-hero p.lede{font-size:15.5px}.rsb-hero__actions .rsb-btn{width:100%}.rsb-section{padding:60px 0}.rsb-section__head{margin-bottom:42px}.rsb-section__head h2,.rsb-cta h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs,.rsb-team,.rsb-grid--2{grid-template-columns:1fr}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:1fr 1fr;gap:14px}.rsb-cta{padding:70px 0}.rsb-footer__grid{grid-template-columns:1fr}.rsb-table thead{display:none}.rsb-table,.rsb-table tbody,.rsb-table tr,.rsb-table td{display:block;width:100%}.rsb-table tr{margin-bottom:14px;border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden}.rsb-table td{padding:10px 16px;border-bottom:none}.rsb-table td:first-child{background:var(--blue);color:var(--white);border-right:none;font-size:13px;letter-spacing:.5px;text-transform:uppercase}.rsb-cookie{flex-direction:column;align-items:stretch;gap:12px;text-align:center;left:10px;right:10px;padding:16px}.rsb-cookie button{width:100%}.rsb-topbar__links{gap:10px;font-size:12px}.rsb-form{padding:26px}.rsb-tabs-nav{top:70px}.rsb-tab{padding:14px 16px;font-size:13.5px}}
 @media (max-width:480px){.rsb-container{padding:0 16px}.rsb-hero h1{font-size:30px}.rsb-section__head h2,.rsb-cta h2{font-size:24px}.rsb-btn--lg{padding:14px 24px;font-size:14px;width:100%}.rsb-header__inner{height:70px}.rsb-logo{font-size:18px}}
 
 </style>
@@ -313,9 +323,8 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
       <div class="rsb-hero__stats"><div class="rsb-hero__stat"><strong>2006</strong><span>founded</span></div><div class="rsb-hero__stat"><strong>42,000 m2</strong><span>factory floor</span></div><div class="rsb-hero__stat"><strong>18+</strong><span>years in business</span></div><div class="rsb-hero__stat"><strong>60+</strong><span>export countries</span></div></div>
     </div>
   </div>
-</section><section class="rsb-section rsb-section--gray">
-  <div class="rsb-container">
-    <div class="rsb-section__head">
+</section><nav class="rsb-tabs-nav" aria-label="About Us navigation"><div class="rsb-tabs" role="tablist"><a href="#tab-company" class="rsb-tab" role="tab">Company Profile</a><a href="#tab-factory" class="rsb-tab" role="tab">Factory Tour</a><a href="#tab-certifications" class="rsb-tab" role="tab">Certifications</a><a href="#tab-team" class="rsb-tab" role="tab">R&D & Team</a></div></nav>
+<article id="tab-company" class="rsb-tab-panel" role="tabpanel" aria-label="Company profile"><section class="rsb-section rsb-section--gray"><div class="rsb-container"><div class="rsb-section__head">
   <span class="rsb-eyebrow">Who We Are</span>
   <h2>A manufacturer of acoustic barriers with engineering at our core</h2>
   <div class="rsb-divider rsb-divider--center"></div>
@@ -323,39 +332,14 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
 </div>
     <div class="rsb-split">
   <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-manufacturer-shenzhen-office-front&image_size=landscape_16_9')"></div></div>
-  <div class="rsb-split__body">
+<div class="rsb-split__body">
     <span class="rsb-split__eyebrow">Company Profile</span>
     <h2>Yukings is a Shenzhen, China-based noise barrier manufacturer with a 42,000 m² purpose-built factory, 18+ years of manufacturing history and a team of 120+ employees, of whom 40 are engineers.</h2>
     <div class="rsb-divider"></div>
     <p>We supply noise barrier products and solutions to 60+ countries across North America, Europe, Australia, Southeast Asia and the Middle East. Yukings noise barriers are certified to EN 1793, EN 1794, ASTM E90, ASTM C423 and GB/T 34509.</p><p>Yukings is privately owned, privately managed, and debt-free. Our business has grown organically through investment in new panel tooling, extended R&D, and a strong export capability.</p>
     <ul class="rsb-split__list"><li>Founded: 2006 in Shenzhen, Guangdong, China</li><li>Business: Privately-owned noise barrier manufacturer</li><li>Facility: 42,000 m2 purpose-built factory</li><li>Employees: 120+ employees, including 40+ engineers</li></ul>
     <div class="rsb-split__actions"><a href="get-quote.html" class="rsb-btn rsb-btn--primary">Download the Yukings company profile</a><a href="contact.html" class="rsb-btn rsb-btn--ghost-alt">Email our Managing Director</a></div>
-  </div>
-</div>
-    <div class="rsb-split rsb-split--reverse">
-  <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-factory-production-line&image_size=landscape_16_9')"></div></div>
-  <div class="rsb-split__body">
-    <span class="rsb-split__eyebrow">Our Factory</span>
-    <h2>In-house roll-forming, CNC perforation, powder coating and acoustic testing under one roof.</h2>
-    <div class="rsb-divider"></div>
-    <p>Yukings operates a 42,000 m2 purpose-built noise barrier factory in Shenzhen, Guangdong, China. The facility houses roll-forming lines, CNC punching and perforation lines, electrostatic powder coating, hot-dip galvanizing and an in-house acoustic laboratory.</p><p>The factory is managed under ISO 9001, ISO 14001 and ISO 45001 and has clean, controlled materials handling, rigorous inspection of raw-material inventory control, and a dedicated R&D team.</p>
-    <ul class="rsb-split__list"><li>42,000 m2 facility (452,084 sq. ft.)</li><li>ISO 9001 / 14001 / 45001 certified</li><li>In-house acoustic test lab</li><li>Roll-forming, CNC punching, laser cutting, powder coating lines</li></ul>
-    <div class="rsb-split__actions"><a href="contact.html" class="rsb-btn rsb-btn--primary">Take a Virtual Tour</a><a href="get-quote.html" class="rsb-btn rsb-btn--ghost-alt">Download Factory Dossier</a></div>
-  </div>
-</div>
-    <div class="rsb-split">
-  <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-rd-team-engineering&image_size=landscape_16_9')"></div></div>
-  <div class="rsb-split__body">
-    <span class="rsb-split__eyebrow">Our R&D and Engineering</span>
-    <h2>A 40-person engineering team, backed by Harbin Institute of Technology (HIT) R&D partnership.</h2>
-    <div class="rsb-divider"></div>
-    <p>Yukings has a 40-person in-house engineering team, plus a long-standing research collaboration with the Harbin Institute of Technology (HIT), one of China's top technical universities. We hold 109+ noise barrier related patents.</p><p>Our engineering scope covers acoustic simulation, structural calculation, CAD / BIM, factory process engineering, and project site engineering.</p>
-    <ul class="rsb-split__list"><li>40+ in-house engineers</li><li>109+ noise barrier related patents</li><li>HIT research collaboration</li><li>Acoustic simulation, structural calculation, CAD / BIM</li></ul>
-    <div class="rsb-split__actions"><a href="contact.html" class="rsb-btn rsb-btn--primary">Talk to Engineering</a><a href="get-quote.html" class="rsb-btn rsb-btn--ghost-alt">Our Patents & Research</a></div>
-  </div>
-</div>
-  </div>
-</section><section class="rsb-section">
+  </div></div></div></section><section class="rsb-section">
   <div class="rsb-container">
     <div class="rsb-section__head">
   <span class="rsb-eyebrow">Our Timeline</span>
@@ -396,7 +380,26 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
       </div>
     </div>
   </div>
-</section><section class="rsb-section rsb-section--gray">
+</section></article><article id="tab-factory" class="rsb-tab-panel" role="tabpanel" aria-label="Factory tour"><section class="rsb-section rsb-section--gray"><div class="rsb-container"><div class="rsb-split rsb-split--reverse">
+  <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-factory-production-line&image_size=landscape_16_9')"></div></div>
+  <div class="rsb-split__body">
+    <span class="rsb-split__eyebrow">Our Factory</span>
+    <h2>In-house roll-forming, CNC perforation, powder coating and acoustic testing under one roof.</h2>
+    <div class="rsb-divider"></div>
+    <p>Yukings operates a 42,000 m2 purpose-built noise barrier factory in Shenzhen, Guangdong, China. The facility houses roll-forming lines, CNC punching and perforation lines, electrostatic powder coating, hot-dip galvanizing and an in-house acoustic laboratory.</p><p>The factory is managed under ISO 9001, ISO 14001 and ISO 45001 and has clean, controlled materials handling, rigorous inspection of raw-material inventory control, and a dedicated R&D team.</p>
+    <ul class="rsb-split__list"><li>42,000 m2 facility (452,084 sq. ft.)</li><li>ISO 9001 / 14001 / 45001 certified</li><li>In-house acoustic test lab</li><li>Roll-forming, CNC punching, laser cutting, powder coating lines</li></ul>
+    <div class="rsb-split__actions"><a href="contact.html" class="rsb-btn rsb-btn--primary">Take a Virtual Tour</a><a href="get-quote.html" class="rsb-btn rsb-btn--ghost-alt">Download Factory Dossier</a></div>
+  </div></div></div></section><section class="rsb-section">
+  <div class="rsb-container">
+    <div class="rsb-section__head">
+  <span class="rsb-eyebrow">At a Glance</span>
+  <h2>Manufacturing capacity, quality data and export footprint</h2>
+  <div class="rsb-divider rsb-divider--center"></div>
+  <p>Numbers matter in industrial procurement. Here is a transparent overview of Yukings capacity, certifications, experience and global reach to support your due diligence.</p>
+</div>
+    <div class="rsb-stats"><div class="rsb-stat"><strong>2006</strong><span>founded</span></div><div class="rsb-stat"><strong>42,000 m2</strong><span>factory floor</span></div><div class="rsb-stat"><strong>109+</strong><span>patents</span></div><div class="rsb-stat"><strong>60+</strong><span>export countries</span></div></div>
+  </div>
+</section></article><article id="tab-certifications" class="rsb-tab-panel" role="tabpanel" aria-label="Certifications"><section class="rsb-section rsb-section--gray">
   <div class="rsb-container">
     <div class="rsb-section__head">
   <span class="rsb-eyebrow">Certifications</span>
@@ -413,7 +416,16 @@ E90</div><h3>ASTM E90 / ASTM C423</h3><p>ASTM E90 laboratory measurement of airb
 1793</div><h3>EN 1793 Acoustic Performance</h3><p>EN 1793-1 / 1793-2 / 1793-5 acoustic performance for road traffic noise reducing devices.</p></div><div class="rsb-cert"><div class="rsb-cert__badge">EN
 1794</div><h3>EN 1794 Mechanical Performance</h3><p>EN 1794-1 / 1794-2 mechanical performance and durability of road traffic noise reducing devices.</p></div></div>
   </div>
-</section><section class="rsb-section">
+</section></article><article id="tab-team" class="rsb-tab-panel" role="tabpanel" aria-label="R and D team"><section class="rsb-section rsb-section--gray"><div class="rsb-container"><div class="rsb-split">
+  <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-engineering-lab-cad-design&image_size=landscape_16_9')"></div></div>
+  <div class="rsb-split__body">
+    <span class="rsb-split__eyebrow">Our R&D and Engineering</span>
+    <h2>A 40-person engineering team, backed by Harbin Institute of Technology (HIT) R&D partnership.</h2>
+    <div class="rsb-divider"></div>
+    <p>Yukings has a 40-person in-house engineering team, plus a long-standing research collaboration with the Harbin Institute of Technology (HIT), one of China's top technical universities. We hold 109+ noise barrier related patents.</p><p>Our engineering scope covers acoustic simulation, structural calculation, CAD / BIM, factory process engineering, and project site engineering.</p>
+    <ul class="rsb-split__list"><li>40+ in-house engineers</li><li>109+ noise barrier related patents</li><li>HIT research collaboration</li><li>Acoustic simulation, structural calculation, CAD / BIM</li></ul>
+    <div class="rsb-split__actions"><a href="contact.html" class="rsb-btn rsb-btn--primary">Talk to Engineering</a><a href="get-quote.html" class="rsb-btn rsb-btn--ghost-alt">Our Patents & Research</a></div>
+  </div></div></div></section><section class="rsb-section">
   <div class="rsb-container">
     <div class="rsb-section__head">
   <span class="rsb-eyebrow">Meet the Team</span>
@@ -458,17 +470,7 @@ E90</div><h3>ASTM E90 / ASTM C423</h3><p>ASTM E90 laboratory measurement of airb
 </div>
     </div>
   </div>
-</section><section class="rsb-section">
-  <div class="rsb-container">
-    <div class="rsb-section__head">
-  <span class="rsb-eyebrow">At a Glance</span>
-  <h2>Manufacturing capacity, quality data and export footprint</h2>
-  <div class="rsb-divider rsb-divider--center"></div>
-  <p>Numbers matter in industrial procurement. Here is a transparent overview of Yukings capacity, certifications, experience and global reach to support your due diligence.</p>
-</div>
-    <div class="rsb-stats"><div class="rsb-stat"><strong>2006</strong><span>founded</span></div><div class="rsb-stat"><strong>42,000 m2</strong><span>factory floor</span></div><div class="rsb-stat"><strong>109+</strong><span>patents</span></div><div class="rsb-stat"><strong>60+</strong><span>export countries</span></div></div>
-  </div>
-</section><section class="rsb-cta">
+</section></article><section class="rsb-cta">
   <div class="rsb-container">
     <div class="rsb-cta__inner">
       <span class="rsb-eyebrow">Ready to Take the Next Step?</span>
