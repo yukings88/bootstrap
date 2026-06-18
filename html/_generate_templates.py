@@ -1,0 +1,237 @@
+import os, json
+
+OUT = "/workspace/html"
+
+# ---------- Shared CSS (stripped-down but complete styling) ----------
+CSS = r'''<style>
+:root{--blue:#082457;--blue-light:#0d3a8a;--blue-dark:#051a3e;--orange:#E4662A;--orange-light:#f28a55;--orange-dark:#c04e18;--white:#ffffff;--gray-50:#f8f9fb;--gray-100:#eef1f6;--gray-200:#d8dde8;--gray-300:#b4bcd0;--gray-500:#6b7a94;--gray-700:#3d4f6a;--text-primary:#1a1a2e;--text-secondary:#4a5568;--shadow-sm:0 1px 3px rgba(8,36,87,.08);--shadow-md:0 4px 16px rgba(8,36,87,.10);--shadow-lg:0 8px 32px rgba(8,36,87,.12);--radius:6px;--radius-lg:12px;--max-width:1200px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{font-family:Arial,Helvetica,sans-serif;color:var(--text-secondary);line-height:1.65;background:var(--white);-webkit-font-smoothing:antialiased;font-size:15.5px}
+img{max-width:100%;display:block;transition:transform .6s ease}img:hover{transform:scale(1.05)}
+a{color:inherit;text-decoration:none;transition:color .25s ease,opacity .25s ease}
+h1,h2,h3,h4,h5,h6{font-family:Arial,Helvetica,sans-serif;color:var(--text-primary);font-weight:700;line-height:1.2;letter-spacing:-.3px}
+.rsb-container{max-width:var(--max-width);margin:0 auto;padding:0 24px;width:100%}
+.rsb-divider{width:50px;height:3px;background:var(--orange);margin:14px 0 22px;border-radius:2px}
+.rsb-divider--center{margin-left:auto;margin-right:auto}
+.rsb-eyebrow{display:inline-block;color:var(--orange);font-weight:700;font-size:12.5px;letter-spacing:2.4px;text-transform:uppercase;margin-bottom:10px}
+.rsb-topbar{background:var(--blue-dark);color:var(--gray-200);font-size:13px;padding:9px 0}
+.rsb-topbar__inner{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.rsb-topbar a{color:var(--gray-200);display:inline-flex;align-items:center;gap:6px}
+.rsb-topbar a:hover{color:var(--orange-light)}
+.rsb-topbar__links{display:flex;gap:18px;flex-wrap:wrap}
+.rsb-header{background:var(--white);box-shadow:var(--shadow-sm);position:sticky;top:0;z-index:50}
+.rsb-header__inner{display:flex;align-items:center;justify-content:space-between;height:80px;gap:18px}
+.rsb-logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:22px;color:var(--blue);letter-spacing:.5px}
+.rsb-logo__mark{width:42px;height:42px;background:linear-gradient(135deg,var(--blue) 0%,var(--blue-light) 100%);color:var(--white);display:flex;align-items:center;justify-content:center;border-radius:8px;font-weight:800;font-size:20px;position:relative;box-shadow:0 4px 14px rgba(8,36,87,.18);cursor:pointer;transition:transform .3s ease}
+.rsb-logo__mark:hover{transform:translateY(-2px)}
+.rsb-logo__mark::after{content:"";position:absolute;right:-4px;bottom:-4px;width:14px;height:14px;background:var(--orange);border-radius:50%;border:2px solid var(--white)}
+.rsb-logo__name{display:flex;flex-direction:column;line-height:1.05}
+.rsb-logo__name small{font-size:10px;font-weight:500;color:var(--gray-500);letter-spacing:1.4px;text-transform:uppercase}
+.rsb-nav{display:flex;align-items:center;gap:2px;flex-wrap:wrap}
+.rsb-nav__item{padding:10px 14px;font-size:14px;font-weight:600;color:var(--text-primary);border-radius:var(--radius);position:relative;cursor:pointer}
+.rsb-nav__item:hover{color:var(--orange);background:var(--gray-50)}
+.rsb-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 32px;font-family:Arial,Helvetica,sans-serif;font-weight:600;font-size:14.5px;border-radius:var(--radius);border:none;cursor:pointer;transition:all .3s ease;letter-spacing:.3px;text-decoration:none;color:var(--white);text-align:center;white-space:nowrap}
+.rsb-btn--primary{background:var(--orange);color:var(--white)}
+.rsb-btn--primary:hover{background:var(--orange-dark);transform:translateY(-2px);box-shadow:0 8px 22px rgba(228,102,42,.4)}
+.rsb-btn--ghost{background:transparent;color:var(--white);border:1.5px solid rgba(255,255,255,.55)}
+.rsb-btn--ghost:hover{background:var(--white);color:var(--blue);transform:translateY(-2px);border-color:var(--white)}
+.rsb-btn--ghost-alt{background:transparent;color:var(--blue);border:1.5px solid var(--blue)}
+.rsb-btn--ghost-alt:hover{background:var(--blue);color:var(--white);transform:translateY(-2px)}
+.rsb-btn--sm{padding:9px 20px;font-size:13px}
+.rsb-btn--lg{padding:16px 38px;font-size:15.5px}
+.rsb-breadcrumb{background:var(--gray-50);padding:14px 0;border-bottom:1px solid var(--gray-200)}
+.rsb-breadcrumb__list{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--gray-500);flex-wrap:wrap;list-style:none;padding:0}
+.rsb-breadcrumb__list a{color:var(--gray-700);font-weight:500}
+.rsb-breadcrumb__list a:hover{color:var(--orange)}
+.rsb-breadcrumb__sep{color:var(--gray-300)}
+.rsb-breadcrumb__current{color:var(--orange);font-weight:600}
+.rsb-hero{position:relative;min-height:560px;color:var(--white);overflow:hidden;background:var(--blue-dark);display:flex;align-items:center;padding:90px 0 80px}
+.rsb-hero__bg{position:absolute;inset:0;background-size:cover;background-position:center;z-index:0;animation:rsbPan 24s ease-in-out infinite alternate}
+@keyframes rsbPan{0%{transform:scale(1.04) translateX(0)}100%{transform:scale(1.07) translateX(-1.2%)}}
+.rsb-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(105deg,rgba(5,26,62,.96) 0%,rgba(5,26,62,.72) 50%,rgba(5,26,62,.35) 100%);z-index:1}
+.rsb-hero__content{position:relative;z-index:2;max-width:820px}
+.rsb-hero__eyebrow{display:inline-flex;align-items:center;gap:10px;padding:6px 16px;background:rgba(228,102,42,.18);border:1px solid rgba(228,102,42,.4);color:var(--orange-light);border-radius:50px;font-size:12px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:24px}
+.rsb-hero__eyebrow::before{content:"";width:6px;height:6px;background:var(--orange);border-radius:50%;animation:rsbPulse 2s ease-in-out infinite}
+@keyframes rsbPulse{0%,100%{opacity:1}50%{opacity:.4}}
+.rsb-hero h1{color:var(--white);font-size:62px;line-height:1.08;margin-bottom:22px;letter-spacing:-1px;font-weight:800}
+.rsb-hero h1 span{color:var(--orange-light);font-style:italic;font-weight:600}
+.rsb-hero p.lede{font-size:18px;color:rgba(255,255,255,.88);max-width:680px;margin-bottom:34px;line-height:1.7}
+.rsb-hero__actions{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:48px}
+.rsb-hero__quick{display:flex;flex-wrap:wrap;gap:10px;padding-top:24px;border-top:1px solid rgba(255,255,255,.18)}
+.rsb-hero__chip{padding:8px 16px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);color:var(--white);border-radius:50px;font-size:13px;font-weight:500;letter-spacing:.3px;transition:all .3s ease}
+.rsb-hero__chip:hover{background:var(--orange);border-color:var(--orange);color:var(--white);transform:translateY(-2px)}
+.rsb-hero__stats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:48px;padding-top:32px;border-top:1px solid rgba(255,255,255,.18)}
+.rsb-hero__stat strong{display:block;color:var(--orange-light);font-size:32px;font-weight:800;margin-bottom:4px;letter-spacing:-.5px}
+.rsb-hero__stat span{font-size:12px;color:rgba(255,255,255,.7);letter-spacing:.5px;text-transform:uppercase;font-weight:500}
+.rsb-section{padding:96px 0;scroll-margin-top:120px}
+.rsb-section--gray{background:var(--gray-50)}
+.rsb-section__head{max-width:760px;margin:0 auto 60px;text-align:center}
+.rsb-section__head .rsb-divider{margin:14px auto 22px}
+.rsb-section__head h2{font-size:42px;margin-bottom:14px;line-height:1.15}
+.rsb-section__head p{font-size:16.5px;color:var(--text-secondary);line-height:1.7;max-width:640px;margin:0 auto}
+.rsb-grid{display:grid;gap:24px}
+.rsb-grid--3{grid-template-columns:repeat(3,1fr)}
+.rsb-card{background:var(--white);border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm);transition:all .35s ease;cursor:pointer;display:flex;flex-direction:column}
+.rsb-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--orange-light)}
+.rsb-card__media{position:relative;aspect-ratio:16/10;background:var(--gray-200);overflow:hidden}
+.rsb-card__img{width:100%;height:100%;background-size:cover;background-position:center;transition:transform .6s ease}
+.rsb-card:hover .rsb-card__img{transform:scale(1.08)}
+.rsb-card__tag{position:absolute;top:16px;left:16px;background:var(--orange);color:var(--white);padding:6px 14px;border-radius:50px;font-size:11.5px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;z-index:2;box-shadow:0 4px 12px rgba(228,102,42,.4)}
+.rsb-card__body{padding:24px;flex:1;display:flex;flex-direction:column}
+.rsb-card__meta{font-size:12.5px;color:var(--orange);font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:10px}
+.rsb-card__title{font-size:20px;margin-bottom:10px;color:var(--text-primary);font-weight:700;line-height:1.3}
+.rsb-card__text{font-size:14.5px;color:var(--text-secondary);line-height:1.6;margin-bottom:18px;flex:1}
+.rsb-card__link{color:var(--blue);font-weight:700;font-size:14px;cursor:pointer}
+.rsb-card__link:hover{color:var(--orange)}
+.rsb-split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center;margin-bottom:80px}
+.rsb-split__media{position:relative;aspect-ratio:4/3;border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-md);background:var(--gray-200)}
+.rsb-split__img{width:100%;height:100%;background-size:cover;background-position:center;transition:transform .8s ease}
+.rsb-split__eyebrow{color:var(--orange);font-weight:700;font-size:12.5px;letter-spacing:2.4px;text-transform:uppercase;margin-bottom:14px;display:block}
+.rsb-split__body h2{font-size:36px;margin-bottom:14px;line-height:1.2}
+.rsb-split__body > p{font-size:16px;line-height:1.7;margin-bottom:20px}
+.rsb-split__list{list-style:none;padding:0;margin:0 0 26px}
+.rsb-split__list li{padding:10px 0 10px 26px;position:relative;font-size:15px;border-bottom:1px dashed var(--gray-200)}
+.rsb-split__list li::before{content:"\2713";position:absolute;left:0;top:10px;color:var(--orange);font-weight:800;font-size:16px}
+.rsb-split__actions{display:flex;gap:12px;flex-wrap:wrap}
+.rsb-tablewrap{background:var(--white);border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm);margin-bottom:30px}
+.rsb-table{width:100%;border-collapse:collapse;font-size:14px}
+.rsb-table thead{background:var(--blue-dark);color:var(--white)}
+.rsb-table th{text-align:left;padding:16px 20px;font-weight:700;font-size:13px;letter-spacing:.5px;text-transform:uppercase;border-right:1px solid rgba(255,255,255,.1)}
+.rsb-table th:last-child{border-right:none}
+.rsb-table th:first-child{background:var(--blue);width:24%}
+.rsb-table td{padding:16px 20px;border-bottom:1px solid var(--gray-100);color:var(--text-secondary);vertical-align:top;line-height:1.6}
+.rsb-table tbody tr:last-child td{border-bottom:none}
+.rsb-table td:first-child{font-weight:700;color:var(--text-primary);background:var(--gray-50);border-right:1px solid var(--gray-200)}
+.rsb-table-head{padding:20px 24px;border-bottom:1px solid var(--gray-200);background:var(--gray-50)}
+.rsb-table-head h3{font-size:18px;color:var(--blue);margin-bottom:6px}
+.rsb-table-head p{font-size:14px;color:var(--text-secondary)}
+.rsb-table-body{padding:0 24px 24px}
+.rsb-features{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}
+.rsb-feature{background:var(--white);padding:28px 24px;border-radius:var(--radius-lg);border:1px solid var(--gray-200);box-shadow:var(--shadow-sm);transition:all .35s ease}
+.rsb-feature:hover{transform:translateY(-4px);box-shadow:var(--shadow-md);border-color:var(--orange-light)}
+.rsb-feature__icon{width:56px;height:56px;border-radius:50%;background:linear-gradient(135deg,rgba(228,102,42,.12),rgba(228,102,42,.04));color:var(--orange);display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;margin-bottom:18px;font-style:normal;border:1px solid rgba(228,102,42,.25);transition:all .35s ease}
+.rsb-feature:hover .rsb-feature__icon{background:var(--orange);color:var(--white);border-color:var(--orange)}
+.rsb-feature h3{font-size:18px;margin-bottom:10px;color:var(--text-primary)}
+.rsb-feature p{font-size:14px;color:var(--text-secondary);line-height:1.65}
+.rsb-faq{max-width:920px;margin:0 auto;display:grid;gap:14px}
+.rsb-faq__item{border:1px solid var(--gray-200);border-radius:var(--radius-lg);background:var(--white);padding:22px 26px;transition:all .3s ease}
+.rsb-faq__item:hover{border-color:var(--orange);box-shadow:var(--shadow-sm)}
+.rsb-faq__q{font-size:16px;font-weight:700;color:var(--text-primary);margin-bottom:8px;display:flex;align-items:flex-start;gap:12px}
+.rsb-faq__q::before{content:"Q";flex-shrink:0;width:28px;height:28px;background:var(--orange);color:var(--white);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;margin-top:-2px}
+.rsb-faq__a{font-size:14.5px;color:var(--text-secondary);line-height:1.7;padding-left:40px}
+.rsb-cta{position:relative;padding:110px 0;background:linear-gradient(105deg,rgba(5,26,62,.96) 0%,rgba(5,26,62,.82) 100%),var(--blue-dark);background-size:cover,cover;background-position:center,center;color:var(--white);text-align:center}
+.rsb-cta__inner{position:relative;z-index:2;max-width:820px;margin:0 auto}
+.rsb-cta__inner .rsb-eyebrow{color:var(--orange-light);margin-bottom:14px}
+.rsb-cta h2{color:var(--white);font-size:46px;margin-bottom:18px;line-height:1.15}
+.rsb-cta h2 span{color:var(--orange-light);font-style:italic;font-weight:600}
+.rsb-cta p{font-size:17px;color:rgba(255,255,255,.85);line-height:1.7;margin-bottom:32px;max-width:640px;margin-left:auto;margin-right:auto}
+.rsb-cta__actions{display:flex;justify-content:center;gap:16px;flex-wrap:wrap;margin-bottom:48px}
+.rsb-cta__contacts{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding-top:42px;border-top:1px solid rgba(255,255,255,.18);text-align:left;max-width:1024px;margin:0 auto}
+.rsb-cta__contact{display:flex;align-items:center;gap:14px}
+.rsb-cta__contact i{width:48px;height:48px;background:rgba(228,102,42,.18);border:1px solid rgba(228,102,42,.4);color:var(--orange-light);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px;font-style:normal;flex-shrink:0}
+.rsb-cta__contact strong{display:block;color:rgba(255,255,255,.65);font-size:12px;font-weight:500;letter-spacing:1px;margin-bottom:4px;text-transform:uppercase}
+.rsb-cta__contact span{font-size:14.5px;color:var(--white);font-weight:600}
+.rsb-form{max-width:820px;margin:0 auto;background:var(--white);border-radius:var(--radius-lg);padding:40px;border:1px solid var(--gray-200);box-shadow:var(--shadow-md)}
+.rsb-form h3{font-size:24px;margin-bottom:10px;text-align:center}
+.rsb-form > p{text-align:center;margin-bottom:28px;font-size:15px}
+.rsb-form__grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 18px;margin-bottom:18px}
+.rsb-form__field{display:flex;flex-direction:column;gap:6px;text-align:left}
+.rsb-form__field--full{grid-column:1/-1}
+.rsb-form__field label{font-size:12.5px;color:var(--gray-700);font-weight:600;letter-spacing:.5px;text-transform:uppercase}
+.rsb-form__field input,.rsb-form__field textarea{padding:12px 14px;background:var(--white);border:1px solid var(--gray-200);border-radius:var(--radius);color:var(--text-primary);font-family:inherit;font-size:14px}
+.rsb-form__field input:focus,.rsb-form__field textarea:focus{outline:none;border-color:var(--orange)}
+.rsb-form__field textarea{min-height:120px;resize:vertical;line-height:1.6}
+.rsb-form__submit{display:block;width:100%;margin-top:10px}
+.rsb-footer{background:var(--blue-dark);color:rgba(255,255,255,.72);padding:72px 0 0;font-size:14.5px}
+.rsb-footer__grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1.2fr;gap:48px;padding-bottom:48px}
+.rsb-footer h4{color:var(--white);font-size:16px;margin-bottom:20px;letter-spacing:.5px;font-weight:700;position:relative;padding-bottom:12px}
+.rsb-footer h4::after{content:"";position:absolute;left:0;bottom:0;width:30px;height:2px;background:var(--orange);border-radius:2px}
+.rsb-footer__about p{color:rgba(255,255,255,.68);line-height:1.7;margin-bottom:12px;font-size:14px}
+.rsb-footer__logo{margin-bottom:18px;display:flex;align-items:center;gap:12px;color:var(--white);font-weight:800;font-size:21px}
+.rsb-footer ul{list-style:none;padding:0}
+.rsb-footer ul li{margin-bottom:10px}
+.rsb-footer ul li a{color:rgba(255,255,255,.65);font-size:14px}
+.rsb-footer ul li a:hover{color:var(--orange-light)}
+.rsb-footer__contact li{display:flex;gap:10px;align-items:flex-start;margin-bottom:14px;color:rgba(255,255,255,.7);line-height:1.6;font-size:14px;list-style:none}
+.rsb-footer__contact li i{color:var(--orange);flex-shrink:0;margin-top:3px;font-style:normal;font-weight:700}
+.rsb-footer__bottom{padding:22px 0;border-top:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;font-size:13px;color:rgba(255,255,255,.55)}
+.rsb-cookie{position:fixed;bottom:20px;left:20px;right:20px;max-width:520px;margin:0 auto;background:var(--blue-dark);border:1px solid var(--orange);border-radius:var(--radius-lg);padding:20px 22px;color:var(--white);box-shadow:var(--shadow-lg);z-index:200;font-size:13.5px;line-height:1.55;display:flex;align-items:center;gap:14px}
+.rsb-cookie p{flex:1;color:rgba(255,255,255,.9)}
+.rsb-cookie p a{color:var(--orange-light);font-weight:600;text-decoration:underline}
+.rsb-cookie button{padding:10px 20px;background:var(--orange);color:var(--white);border:none;border-radius:var(--radius);font-weight:700;font-size:13px;cursor:pointer;flex-shrink:0}
+.rsb-nav__item{position:relative}.rsb-nav__dropdown{display:inline-flex;align-items:center}.rsb-nav__link{text-decoration:none;color:inherit}.rsb-dropdown{position:absolute;top:100%;left:0;background:var(--white);border-radius:var(--radius-lg);box-shadow:0 12px 40px rgba(8,36,87,.18);min-width:280px;padding:8px;opacity:0;visibility:hidden;transform:translateY(10px);transition:all .3s ease;z-index:100;border:1px solid var(--gray-200);margin-top:2px}.rsb-nav__item:hover .rsb-dropdown{opacity:1;visibility:visible;transform:translateY(0)}.rsb-dropdown__item{display:block;padding:12px 16px;font-size:14px;color:var(--text-primary);border-radius:var(--radius);font-weight:500;text-decoration:none}.rsb-dropdown__item:hover{background:var(--gray-50);color:var(--orange)}
+@media (max-width:1024px){.rsb-hero h1{font-size:46px}.rsb-section__head h2{font-size:32px}.rsb-section{padding:72px 0}.rsb-split{grid-template-columns:1fr;gap:36px;margin-bottom:60px}.rsb-split__body h2{font-size:28px}.rsb-grid--3,.rsb-features{grid-template-columns:repeat(2,1fr)}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:repeat(2,1fr)}.rsb-footer__grid{grid-template-columns:1fr 1fr;gap:36px}.rsb-table{font-size:13px}.rsb-table th,.rsb-table td{padding:12px 14px}.rsb-form__grid{grid-template-columns:1fr}}
+@media (max-width:768px){.rsb-nav{display:none}.rsb-hero{min-height:auto;padding:70px 0 60px}.rsb-hero h1{font-size:34px}.rsb-hero p.lede{font-size:15.5px}.rsb-section{padding:60px 0}.rsb-section__head{margin-bottom:42px}.rsb-section__head h2,.rsb-cta h2{font-size:28px}.rsb-grid--3,.rsb-features{grid-template-columns:1fr}.rsb-footer__grid{grid-template-columns:1fr}.rsb-table thead{display:none}.rsb-table,.rsb-table tbody,.rsb-table tr,.rsb-table td{display:block;width:100%}.rsb-table tr{margin-bottom:14px;border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden}.rsb-table td{padding:10px 16px;border-bottom:none}.rsb-table td:first-child{background:var(--blue);color:var(--white);font-size:13px;letter-spacing:.5px;text-transform:uppercase}.rsb-cookie{flex-direction:column;gap:12px;padding:16px}.rsb-cookie button{width:100%}.rsb-topbar__links{gap:10px;font-size:12px}.rsb-form{padding:26px}}
+@media (max-width:480px){.rsb-container{padding:0 16px}.rsb-hero h1{font-size:30px}.rsb-section__head h2,.rsb-cta h2{font-size:24px}.rsb-btn--lg{padding:14px 24px;font-size:14px;width:100%}.rsb-header__inner{height:70px}.rsb-logo{font-size:18px}}
+</style>
+'''
+
+ORG = r'''<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Shenzhen Yukings Industrial Co., Ltd.","alternateName":"Yukings","url":"https://www.yukings.net","logo":"https://www.yukings.net/img/yukings-logo.svg","slogan":"Engineered Acoustic Barriers for a Quieter World","telephone":"+86-755-86366707","email":"weilai04525@163.com","address":{"@type":"PostalAddress","streetAddress":"Room 1405, Building B2, Yunzhi Tech Park, Guangming District","addressLocality":"Shenzhen","addressRegion":"Guangdong","postalCode":"518106","addressCountry":"CN"}}
+</script>
+'''
+
+TOPBAR_HEADER = r'''<div class="rsb-topbar">
+  <div class="rsb-container">
+    <div class="rsb-topbar__inner">
+      <div class="rsb-topbar__links">
+        <a href="tel:+8675586366707">&#9742; +86-755-86366707</a>
+        <a href="mailto:weilai04525@163.com">&#9993; weilai04525@163.com</a>
+        <span>&#9881; Mon-Sat 8:30-18:30 (Beijing Time)</span>
+      </div>
+      <div class="rsb-topbar__links">
+        <a href="faqs.html">FAQs</a>
+        <a href="get-quote.html">Request a Quote &rarr;</a>
+        <span>&#127758; EN / Ship to Worldwide</span>
+      </div>
+    </div>
+  </div>
+</div>
+<header class="rsb-header">
+  <div class="rsb-container">
+    <div class="rsb-header__inner">
+      <a href="index.html" class="rsb-logo"><span class="rsb-logo__mark">Y</span><span class="rsb-logo__name">Yukings<small>Noise Barrier Manufacturer</small></span></a>
+      <nav class="rsb-nav"><a href="index.html" class="rsb-nav__item">Home</a><span class="rsb-nav__item rsb-nav__dropdown"><a href="products.html" class="rsb-nav__link">Products</a><div class="rsb-dropdown"><a href="railway-noise-barriers.html">Railway Noise Barriers</a><a href="highway-noise-barriers.html">Highway Noise Barriers</a><a href="solar-noise-barriers.html">Solar Noise Barriers</a><a href="industrial-noise-barriers.html">Industrial Noise Barriers</a><a href="residential-noise-barriers.html">Residential Noise Barriers</a></div></span><a href="solutions.html" class="rsb-nav__item">Solutions</a><a href="projects.html" class="rsb-nav__item">Projects</a><a href="about.html" class="rsb-nav__item">About</a><a href="contact.html" class="rsb-nav__item">Contact</a></nav>
+      <a href="get-quote.html" class="rsb-btn rsb-btn--primary rsb-btn--sm">Get a Quote</a>
+    </div>
+  </div>
+</header>
+'''
+
+FOOTER_COOKIE = r'''<footer class="rsb-footer">
+  <div class="rsb-container">
+    <div class="rsb-footer__grid">
+      <div class="rsb-footer__about">
+        <div class="rsb-footer__logo"><span class="rsb-logo__mark">Y</span><span>Yukings</span></div>
+        <p>Shenzhen Yukings Industrial Co., Ltd. is a professional manufacturer of noise barriers, sound walls and acoustic barriers. 42,000 m2 factory, 18+ years OEM experience, ISO 9001 / ISO 14001 / CE certified. Exported to 60+ countries across North America, Europe, Australia, Southeast Asia and the Middle East.</p>
+        <p>Room 1405, Building B2, Yunzhi Tech Park, Guangming District, Shenzhen, Guangdong, China</p>
+      </div>
+      <div><h4>Products</h4><ul>
+        <li><a href="railway-noise-barriers.html">Railway Noise Barriers</a></li>
+        <li><a href="highway-noise-barriers.html">Highway Noise Barriers</a></li>
+        <li><a href="solar-noise-barriers.html">Solar Noise Barriers</a></li>
+        <li><a href="industrial-noise-barriers.html">Industrial Noise Barriers</a></li>
+        <li><a href="residential-noise-barriers.html">Residential Noise Barriers</a></li>
+        <li><a href="products.html">All Product Lines</a></li>
+      </ul></div>
+      <div><h4>Solutions &amp; Projects</h4><ul>
+        <li><a href="railway-noise-reduction.html">Railway Noise Reduction</a></li>
+        <li><a href="highway-noise-control.html">Highway Noise Control</a></li>
+        <li><a href="industrial-factory-noise-barriers.html">Industrial Factory Solutions</a></li>
+        <li><a href="residential-community-noise-protection.html">Residential Community Protection</a></li>
+        <li><a href="solar-energy-noise-barrier-solutions.html">PV / Solar Noise Barriers</a></li>
+        <li><a href="projects.html">Project Case Studies</a></li>
+      </ul></div>
+      <div><h4>Contact Yukings</h4><ul class="rsb-footer__contact">
+        <li><i>&#9742;</i><span>Tel: +86-755-86366707</span></li>
+        <li><i>&#9993;</i><span>Email: weilai04525@163.com</span></li>
+        <li><i>&#9990;</i><span>Miss Tang (Sales): +86 17727812004</span></li>
+        <li><i>&#9990;</i><span>Mr. Yu (Engineering): +86 13828819804</span></li>
+      </ul></div>
+    </div>
+    <div class="rsb-footer__bottom">
+      <span>&copy; 2006-2026 Shenzhen Yukings Industrial Co., Ltd. Noise Barrier Manufacturer. ISO 9001/14001/45001. CE. EN 14388.</span>
+    </div>
+  </div>
+</footer>
+<div class="rsb-cookie"><p>Yukings.net uses cookies to improve your browsing experience and analyze anonymized traffic. By continuing to use this site you agree to our <a href="privacy-policy.html">privacy policy</a> and <a href="terms-of-service.html">terms</a>.</p><button type="button">Accept</button></div>
+'''
