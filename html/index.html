@@ -124,6 +124,12 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
 .rsb-split__list li{padding:10px 0 10px 26px;position:relative;font-size:15px;border-bottom:1px dashed var(--gray-200)}
 .rsb-split__list li::before{content:"\2713";position:absolute;left:0;top:10px;color:var(--orange);font-weight:800;font-size:16px}
 .rsb-split__actions{display:flex;gap:12px;flex-wrap:wrap}
+.rsb-pain-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:24px 0 28px}
+.rsb-pain{background:var(--white);border:1px solid var(--gray-200);border-left:3px solid #d94545;border-radius:var(--radius-md);padding:18px 20px;transition:all .3s ease;box-shadow:0 2px 6px rgba(0,0,0,.04)}
+.rsb-pain:hover{border-color:#d94545;box-shadow:0 6px 18px rgba(217,69,69,.12);transform:translateY(-3px)}
+.rsb-pain__num{display:inline-block;font-size:13px;font-weight:800;color:#d94545;letter-spacing:1.2px;margin-bottom:8px}
+.rsb-pain__title{font-size:15.5px;font-weight:700;color:var(--text-primary);margin-bottom:8px;line-height:1.35}
+.rsb-pain__desc{font-size:13.5px;color:var(--text-secondary);line-height:1.6}
 .rsb-tablewrap{background:var(--white);border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm);margin-bottom:30px}
 .rsb-tablewrap:last-child{margin-bottom:0}
 .rsb-table{width:100%;border-collapse:collapse;font-size:14px}
@@ -262,7 +268,7 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
 .rsb-chip{padding:8px 16px;background:rgba(8,36,87,.05);color:var(--blue);border:1px solid rgba(8,36,87,.1);border-radius:50px;font-size:13px;font-weight:600;cursor:pointer;transition:all .25s ease}
 .rsb-chip:hover{background:var(--orange);color:var(--white);border-color:var(--orange);transform:translateY(-2px)}
 @media (max-width:1024px){.rsb-hero h1{font-size:46px}.rsb-section__head h2{font-size:32px}.rsb-section{padding:72px 0}.rsb-split,.rsb-split--reverse{grid-template-columns:1fr;gap:36px;margin-bottom:60px;direction:ltr}.rsb-split__body h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs{grid-template-columns:repeat(2,1fr)}.rsb-team{grid-template-columns:repeat(2,1fr)}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:repeat(2,1fr)}.rsb-footer__grid{grid-template-columns:1fr 1fr;gap:36px}.rsb-table{font-size:13px}.rsb-table th,.rsb-table td{padding:12px 14px}.rsb-form__grid{grid-template-columns:1fr}}
-@media (max-width:768px){.rsb-nav{display:none}.rsb-hero{min-height:auto;padding:70px 0 60px}.rsb-hero h1{font-size:34px}.rsb-hero p.lede{font-size:15.5px}.rsb-hero__actions .rsb-btn{width:100%}.rsb-section{padding:60px 0}.rsb-section__head{margin-bottom:42px}.rsb-section__head h2,.rsb-cta h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs,.rsb-team,.rsb-grid--2{grid-template-columns:1fr}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:1fr 1fr;gap:14px}.rsb-cta{padding:70px 0}.rsb-footer__grid{grid-template-columns:1fr}.rsb-table thead{display:none}.rsb-table,.rsb-table tbody,.rsb-table tr,.rsb-table td{display:block;width:100%}.rsb-table tr{margin-bottom:14px;border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden}.rsb-table td{padding:10px 16px;border-bottom:none}.rsb-table td:first-child{background:var(--blue);color:var(--white);border-right:none;font-size:13px;letter-spacing:.5px;text-transform:uppercase}.rsb-cookie{flex-direction:column;align-items:stretch;gap:12px;text-align:center;left:10px;right:10px;padding:16px}.rsb-cookie button{width:100%}.rsb-topbar__links{gap:10px;font-size:12px}.rsb-form{padding:26px}}
+@media (max-width:768px){.rsb-nav{display:none}.rsb-hero{min-height:auto;padding:70px 0 60px}.rsb-hero h1{font-size:34px}.rsb-hero p.lede{font-size:15.5px}.rsb-hero__actions .rsb-btn{width:100%}.rsb-section{padding:60px 0}.rsb-section__head{margin-bottom:42px}.rsb-section__head h2,.rsb-cta h2{font-size:28px}.rsb-grid--3,.rsb-grid--4,.rsb-features,.rsb-stats,.rsb-certs,.rsb-team,.rsb-grid--2,.rsb-pain-grid{grid-template-columns:1fr}.rsb-hero__stats,.rsb-cta__contacts{grid-template-columns:1fr 1fr;gap:14px}.rsb-cta{padding:70px 0}.rsb-footer__grid{grid-template-columns:1fr}.rsb-table thead{display:none}.rsb-table,.rsb-table tbody,.rsb-table tr,.rsb-table td{display:block;width:100%}.rsb-table tr{margin-bottom:14px;border:1px solid var(--gray-200);border-radius:var(--radius-lg);overflow:hidden}.rsb-table td{padding:10px 16px;border-bottom:none}.rsb-table td:first-child{background:var(--blue);color:var(--white);border-right:none;font-size:13px;letter-spacing:.5px;text-transform:uppercase}.rsb-cookie{flex-direction:column;align-items:stretch;gap:12px;text-align:center;left:10px;right:10px;padding:16px}.rsb-cookie button{width:100%}.rsb-topbar__links{gap:10px;font-size:12px}.rsb-form{padding:26px}}
 @media (max-width:480px){.rsb-container{padding:0 16px}.rsb-hero h1{font-size:30px}.rsb-section__head h2,.rsb-cta h2{font-size:24px}.rsb-btn--lg{padding:14px 24px;font-size:14px;width:100%}.rsb-header__inner{height:70px}.rsb-logo{font-size:18px}}
 
 .rsb-nav__item{position:relative}.rsb-nav__dropdown{display:inline-flex;align-items:center}.rsb-nav__link{text-decoration:none;color:inherit}.rsb-dropdown{position:absolute;top:100%;left:0;background:var(--white);border-radius:var(--radius-lg);box-shadow:0 12px 40px rgba(8,36,87,.18);min-width:280px;padding:8px;opacity:0;visibility:hidden;transform:translateY(10px);transition:all .3s ease;z-index:100;border:1px solid var(--gray-200);margin-top:2px}.rsb-nav__item:hover .rsb-dropdown,.rsb-nav__item:focus-within .rsb-dropdown{opacity:1;visibility:visible;transform:translateY(0)}.rsb-dropdown__item{display:block;padding:12px 16px;font-size:14px;color:var(--text-primary);border-radius:var(--radius);font-weight:500;text-decoration:none;transition:all .2s ease}.rsb-dropdown__item:hover{background:var(--gray-50);color:var(--orange);padding-left:22px}</style>
@@ -315,7 +321,44 @@ h1,h2,h3,h4,h5,h6{font-family:'Archivo',sans-serif;color:var(--text-primary);fon
       <p class="lede">Yukings designs and manufactures performance-rated noise barriers for highways, railways, solar farms, industrial plants and residential communities. Up to 45 dB insertion loss, modular panels, fully custom engineered.</p>
       <div class="rsb-hero__actions"><a href="get-quote.html" class="rsb-btn rsb-btn--primary rsb-btn--lg">Request a Free Quote</a><a href="products.html" class="rsb-btn rsb-btn--ghost rsb-btn--lg">Browse Our Products</a></div>
       <div class="rsb-hero__quick"><span class="rsb-hero__chip">ISO 9001 / CE Certified</span><span class="rsb-hero__chip">18+ Years OEM Experience</span><span class="rsb-hero__chip">42,000 m² Factory</span><span class="rsb-hero__chip">60+ Export Countries</span></div>
-      <div class="rsb-hero__stats"><div class="rsb-hero__stat"><strong>45 dB</strong><span>Max Insertion Loss</span></div><div class="rsb-hero__stat"><strong>42,000 m²</strong><span>Factory Floor</span></div><div class="rsb-hero__stat"><strong>109+</strong><span>Barrier Patents</span></div><div class="rsb-hero__stat"><strong>60+</strong><span>Export Countries</span></div></div>
+      <div class="rsb-hero__stats"><div class="rsb-hero__stat"><strong>45 dB</strong><span>Max Insertion Loss</span></div><div class="rsb-hero__stat"><strong>42,000 m²</strong><span>Factory Floor</span></div><div class="rsb-hero__stat"><strong>109+</strong><span>Barrier Patents</span></div><div<span class="rsb-hero__stat"><strong>60+</strong><span>Export Countries</span></div></div>
+    </div>
+  </div>
+</section><section class="rsb-section rsb-section--gray">
+  <div class="rsb-container">
+    <div class="rsb-section__head">
+  <span class="rsb-eyebrow">Industry Challenges</span>
+  <h2>4 common noise-barrier pain points we solve for your project</h2>
+  <div class="rsb-divider rsb-divider--center"></div>
+  <p>From highway infrastructure to solar farm developers, project teams worldwide face the same four challenges when sourcing acoustic barriers. Yukings products and engineering services are purpose-built to resolve them.</p>
+</div>
+    <div class="rsb-split">
+      <div class="rsb-split__body">
+  <span class="rsb-split__eyebrow">Why projects fail</span>
+  <h2>Generic, un-tested suppliers can cost your project dearly.</h2>
+  <div class="rsb-pain-grid">
+    <div class="rsb-pain">
+  <span class="rsb-pain__num">01 &middot; PERFORMANCE</span>
+  <h3 class="rsb-pain__title">Under-performing acoustic panels</h3>
+  <p class="rsb-pain__desc">Low-cost, un-tested barrier panels that barely reach 20 dB insertion loss &mdash; missing regulatory targets, producing post-installation complaints and costly retrofit.</p>
+</div><div class="rsb-pain">
+  <span class="rsb-pain__num">02 &middot; LIFESPAN</span>
+  <h3 class="rsb-pain__title">Corrosion &amp; short product lifespan</h3>
+  <p class="rsb-pain__desc">Thin metal gauges, poor galvanizing and no UV protection lead to rust, coating failure and structural degradation in 3&ndash;5 years &mdash; well below the intended design life.</p>
+</div><div class="rsb-pain">
+  <span class="rsb-pain__num">03 &middot; ENGINEERING</span>
+  <h3 class="rsb-pain__title">No engineering or simulation support</h3>
+  <p class="rsb-pain__desc">Suppliers offering &ldquo;off-the-shelf&rdquo; panels without acoustic simulation, structural calculations or BIM integration leave consultants blind to real-world performance.</p>
+</div><div class="rsb-pain">
+  <span class="rsb-pain__num">04 &middot; DELIVERY</span>
+  <h3 class="rsb-pain__title">Unreliable supply &amp; long lead times</h3>
+  <p class="rsb-pain__desc">Small fabricators with limited capacity struggle with large orders, custom projects and export logistics &mdash; delayed delivery, inconsistent quality, missing documents.</p>
+</div>
+  </div>
+  <p>Yukings solves these problems with a vertically-integrated 42,000 m&sup2; factory, a dedicated engineering team, full CE and ISO certification, and 18+ years of export experience.</p>
+  <div class="rsb-split__actions"><a href="get-quote.html" class="rsb-btn rsb-btn--primary">Request a Project Review</a><a href="certifications.html" class="rsb-btn rsb-btn--ghost">View Certifications</a></div>
+</div>
+      <div class="rsb-split__media"><div class="rsb-split__img" style="background-image:url('https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=rusted-old-noise-barrier-failed-corrosion-urban-highway&image_size=landscape_16_9')"></div></div>
     </div>
   </div>
 </section><section class="rsb-section">
