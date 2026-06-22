@@ -1,0 +1,346 @@
+==========================================================================================
+YUKINGS NOISE BARRIER WEBSITE — COMPLETE IMAGE SIZE REPORT
+==========================================================================================
+Total HTML files scanned: 56
+Total image references found: 293
+Unique image URLs: 35
+
+
+URL: certifications-assets/cert-aaa-trustworthy-enterprise.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: rsb-cert-card
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-ce-marking.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: Scanned certificates and test reports from our archive
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-ciet-group-standard.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: rsb-cert-card
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-cma-cnas-acoustic-test.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: rsb-cert-card
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-gbt-34509.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: Scanned certificates and test reports from our archive
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-iso-14001.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: Scanned certificates and test reports from our archive
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-iso-45001.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: Scanned certificates and test reports from our archive
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-iso-9001.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: Scanned certificates and test reports from our archive
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: certifications-assets/cert-patent-summary.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: certifications.html
+  Sections: rsb-cert-card
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/01-factory-hq-facade.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/02-factory-hq-office.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/03-factory-meeting-room.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/04-factory-entrance.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/05-factory-steel-structure.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/06-factory-raw-material.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/07-factory-laser-cutting.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/08-factory-cnc-bending.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: Sixteen views of how Yukings noise barriers are made
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/09-factory-perforation-line.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/10-factory-hot-dip-galvanizing.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/11-factory-column-welding.jpg
+  Category: Local
+  Occurrences: 2 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-hero, rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/12-factory-panel-assembly.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/13-factory-welding-line-2.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/14-factory-powder-coating.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/15-factory-acoustic-lab.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 1368 × 768
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/16-factory-quality-control.jpg
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: factory-tour.html
+  Sections: rsb-gallery__overlay
+  Actual size: 800 × 500
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-01.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-02.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-03.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-04.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-05.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-06.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-07.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: factory-assets/factory-08.webp
+  Category: Local
+  Occurrences: 1 in 1 files
+  Files: index.html
+  Sections: Manufacturing capacity, quality data and export footprint
+  Actual size: File not found
+  CSS/HTML size hints: responsive (auto)
+
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image
+  Category: API Generated
+  Occurrences: 4 in 1 files
+  Files: index.html
+  Sections: Browse Products by Category
+  Actual size: Fetch failed: HTTP Error 404: Not Found
+  CSS/HTML size hints: responsive (auto)
+
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image
+  Category: API Generated
+  Occurrences: 255 in 54 files
+  Files: solar-noise-barriers.html, solutions.html, residential-community-noise-protection.html, aluminum-noise-barriers.html, railway-noise-barriers-rail.html...
+  Sections: Yukings Concrete Noise Barriers, Yukings Railway Noise Barriers, Two decades of engineering, manufacturing and exporting nois, Five engineered acoustic barrier categories, Yukings Residential Noise Barriers...
+  Actual size: 1832 × 1832
+  CSS/HTML size hints: height:3.0px
+
+==========================================================================================
+SUMMARY BY CATEGORY
+==========================================================================================
+
+Local images: 33
+  certifications-assets/cert-aaa-trustworthy-enterprise.jpg  →  NOT FOUND
+  certifications-assets/cert-ce-marking.jpg  →  NOT FOUND
+  certifications-assets/cert-ciet-group-standard.jpg  →  NOT FOUND
+  certifications-assets/cert-cma-cnas-acoustic-test.jpg  →  NOT FOUND
+  certifications-assets/cert-gbt-34509.jpg  →  NOT FOUND
+  certifications-assets/cert-iso-14001.jpg  →  NOT FOUND
+  certifications-assets/cert-iso-45001.jpg  →  NOT FOUND
+  certifications-assets/cert-iso-9001.jpg  →  NOT FOUND
+  certifications-assets/cert-patent-summary.jpg  →  NOT FOUND
+  factory-assets/01-factory-hq-facade.jpg  →  800 × 500
+  factory-assets/02-factory-hq-office.jpg  →  800 × 500
+  factory-assets/03-factory-meeting-room.jpg  →  800 × 500
+  factory-assets/04-factory-entrance.jpg  →  800 × 500
+  factory-assets/05-factory-steel-structure.jpg  →  800 × 500
+  factory-assets/06-factory-raw-material.webp  →  800 × 500
+  factory-assets/07-factory-laser-cutting.jpg  →  800 × 500
+  factory-assets/08-factory-cnc-bending.jpg  →  800 × 500
+  factory-assets/09-factory-perforation-line.webp  →  800 × 500
+  factory-assets/10-factory-hot-dip-galvanizing.webp  →  800 × 500
+  factory-assets/11-factory-column-welding.jpg  →  800 × 500
+  factory-assets/12-factory-panel-assembly.jpg  →  800 × 500
+  factory-assets/13-factory-welding-line-2.jpg  →  800 × 500
+  factory-assets/14-factory-powder-coating.webp  →  800 × 500
+  factory-assets/15-factory-acoustic-lab.webp  →  1368 × 768
+  factory-assets/16-factory-quality-control.jpg  →  800 × 500
+  factory-assets/factory-01.webp  →  NOT FOUND
+  factory-assets/factory-02.webp  →  NOT FOUND
+  factory-assets/factory-03.webp  →  NOT FOUND
+  factory-assets/factory-04.webp  →  NOT FOUND
+  factory-assets/factory-05.webp  →  NOT FOUND
+  factory-assets/factory-06.webp  →  NOT FOUND
+  factory-assets/factory-07.webp  →  NOT FOUND
+  factory-assets/factory-08.webp  →  NOT FOUND
+
+API-generated images: 2
+  https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image  →  Fetch failed
+  https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image  →  1832 × 1832
+
+External images: 0
+
+==========================================================================================
+IMAGE SIZE RECOMMENDATIONS FOR REPLACEMENT
+==========================================================================================
+
+When replacing images, maintain these aspect ratios for best results:
+
+1. Hero/Banner images: 1920 × 520 (3.69:1)
+2. Factory gallery (carousel): 16:9 (e.g., 1280 × 720)
+3. Product/service cards: 4:3 or 1:1
+4. Feature/advantage images: 4:3
+5. Split section images: 4:3 or 16:9 depending on layout
+
+All images should be WebP format, compressed for web, and include loading="lazy" attribute.
