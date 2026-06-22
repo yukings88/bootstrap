@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=neighborhood-acoustic-fence-transparent-window-residential&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 259525
+Downloaded: 2026-06-22 06:05:41
+File Size: 259525 bytes
+
+Date: Mon, 22 Jun 2026 06:05:41 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "489e14907d11e97b697f8fc250a48e61"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/d4d6fa2666dbfd1d975af43a149e1239.jpeg
+X-Tos-Hash-Crc64ecma: 2204215946802001024
+X-Tos-Request-Id: 98d5a438d0b556d66a38d0b5-a922eab-a2e311d
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:41 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:920::44
+x-request-ip: fdbd:dc01:28:829::12
+x-response-cache: miss
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142e39c3feb3cdf344fab14ac80eaa48ce2d3e9b5b891864fe870e8832262448c063fc3e104de5a4ee0dcc2631da765bed6f211b02d52893e48bf18421f0269d58aa46b91270ddac7ec755e77550743c32f
+x-tt-trace-id: 00-260622140541CD61AF25FCD91BF6F80E-5C97612E67944096-00
+Server: TLB
+X-TT-LOGID: 20260622140541CD61AF25FCD91BF6F80E
+X-Cache-Lookup: Cache Miss
+Last-Modified: Thu, 18 Jun 2026 05:51:16 GMT
+Cache-Control: max-age=2592000
+Content-Length: 259525
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 9265076406703653188
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=69
+server-timing: cdn-cache;desc=miss, edge;dur=2, origin;dur=360
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.241
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

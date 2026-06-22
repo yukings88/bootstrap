@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=urban-city-road-noise-barrier-residential-street-green-wall&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 265891
+Downloaded: 2026-06-22 06:05:08
+File Size: 265891 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 265891
+Connection: close
+Date: Mon, 22 Jun 2026 06:05:08 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "956bf297b3a2ae0ee997e9100be60203"
+Last-Modified: Thu, 18 Jun 2026 05:38:16 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/45ee2c097715f3914874ec0b1abb49bf.jpeg
+X-Tos-Hash-Crc64ecma: 2264884239573141340
+X-Tos-Request-Id: 7576b538d093d1886a38d093-fdbdgdc01gdg418gg31-ace1766
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:08 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc01:b:275::37, cache38.l2cn7769[211,211,200-0,M], cache12.l2cn7769[212,0], ens-cache35.cn8519[243,243,200-0,M], ens-cache21.cn8519[247,0]
+x-request-ip: fdbd:dc01:29:522::103
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc01:29:522::103
+x-response-cache: miss
+server-timing: inner; dur=79
+x-tt-trace-host: 015afd27d37b45b0f8d5359100ccf82fde782bbdaed44ae295eacd105a676095cc57e9716d14b1e749c781688244d357ef2634e9e9c2daf47cdb6ea1350ab00600d54c6774fea1acdeda3e5d130a2182e9a922d046b9d3ecad0b931da1f8b39694
+x-tt-trace-id: 00-2606221405079F45BE5D8B6519F359A3-1C4EC8C585DF5E9A-00
+X-TT-LOGID: 202606221405079F45BE5D8B6519F359A3
+Age: 1
+Ali-Swift-Global-Savetime: 1782108308
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:05:08 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d2917821083078042430e

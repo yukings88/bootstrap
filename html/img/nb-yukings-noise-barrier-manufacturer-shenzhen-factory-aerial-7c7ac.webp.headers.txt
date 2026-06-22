@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-manufacturer-shenzhen-factory-aerial&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 349544
+Downloaded: 2026-06-22 06:04:48
+File Size: 349544 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 349544
+Connection: close
+Date: Mon, 22 Jun 2026 06:04:48 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "76f3a5344a4e6ce766a2df92552e12e8"
+Last-Modified: Wed, 17 Jun 2026 00:37:21 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/af75cafe3550a3dfe7bfa657bd167d32.jpeg
+X-Tos-Hash-Crc64ecma: 11975115373392743210
+X-Tos-Request-Id: 8e933938d0806e326a38d080-a909a48-a2ea54f
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:04:48 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:b02::45, cache35.l2cn7769[210,209,200-0,M], cache5.l2cn7769[212,0], ens-cache22.cn8519[238,238,200-0,M], ens-cache17.cn8519[240,0]
+x-request-ip: fdbd:dc03:4:479::166
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc03:4:479::166
+x-response-cache: miss
+server-timing: inner; dur=65
+x-tt-trace-host: 01bf21f47ed3d1e93a18775d55b2991e68a7a8e1a2123790ee1fc089a040416b204c5adc81fc624029be543c7020b4ab59ecf9cdc30a3c766f62b38a41d20c1651b361ac029a32c8aa5b9d56529a5de47251348b8ab072e029d139ee1f91b09399
+x-tt-trace-id: 00-260622140448D1DFF9275F5464996C6E-009329F7C8636692-00
+X-TT-LOGID: 20260622140448D1DFF9275F5464996C6E
+Age: 0
+Ali-Swift-Global-Savetime: 1782108288
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:04:48 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d2517821082884194428e

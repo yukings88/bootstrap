@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barrier-product-bifacial-pv&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 245933
+Downloaded: 2026-06-22 06:05:30
+File Size: 245933 bytes
+
+Date: Mon, 22 Jun 2026 06:05:30 GMT
+Content-Type: image/jpeg
+Age: 1
+Etag: "04f604b5e71013addebd28377fc00e1c"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/0c74e2b8e62d81de70b0cf90c4739510.jpeg
+X-Tos-Hash-Crc64ecma: 5491148753941125177
+X-Tos-Request-Id: 7f09d38d0a94d106a38d0a9-ac38719-ace10c9
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:30 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc01:d:412::19
+x-request-ip: fdbd:dc03:14:116::145
+x-response-cache: miss
+x-tt-trace-host: 015afd27d37b45b0f8d5359100ccf82fde19c2a2fea66ce56fb219f53782aecc507be8dd8ae541cdff5ecaa402ee12d0297cb95e418bee6e1bafd407a06e8a59a669c7642eae6f045ee67ee653d08dc8998aa77433fed1cc566dff264587112143
+x-tt-trace-id: 00-260622140529342E4E553148122420DA-783385CF9852D002-00
+Server: TLB
+X-TT-LOGID: 20260622140529342E4E553148122420DA
+X-Cache-Lookup: Cache Miss
+Last-Modified: Wed, 17 Jun 2026 00:51:14 GMT
+Cache-Control: max-age=2592000
+Content-Length: 245933
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 11983674363336021057
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=164
+server-timing: cdn-cache;desc=miss, edge;dur=56, origin;dur=471
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 180.184.77.101
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

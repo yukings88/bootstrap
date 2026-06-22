@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barriers-power-plant&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 304890
+Downloaded: 2026-06-22 06:05:25
+File Size: 304890 bytes
+
+Date: Mon, 22 Jun 2026 06:05:24 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "f6657af2d4688495eda3aed28eaa0f57"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/b820d2a89dfc0b36172f5cb7a0c130e0.jpeg
+X-Tos-Hash-Crc64ecma: 6523518804689284957
+X-Tos-Request-Id: 157d6438d0a421076a38d0a4-fdbdgdc03geg543gg52-a86e063
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:24 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc03:f:946::13
+x-request-ip: fdbd:dc03:14:104::27
+x-response-cache: miss
+x-tt-trace-host: 0122d0048140fb36927842891b5715258001b09ccd2d3ceaf7b677cc34130324190b3b0a689479230bf304d562a61d25695e24a070293585937ffb552aa2cbc52c485f0cf0010d14219b8aaef8941de91735fcbf244ffa929397e7ff37f3f9e36b
+x-tt-trace-id: 00-260622140524D3BFC0CA56AC111297BA-5669532C6FD0D7F8-00
+Server: TLB
+X-TT-LOGID: 20260622140524D3BFC0CA56AC111297BA
+X-Cache-Lookup: Cache Miss
+Last-Modified: Tue, 16 Jun 2026 09:02:45 GMT
+Cache-Control: max-age=2592000
+Content-Length: 304890
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 4016990006853971183
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=62
+server-timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=393
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.205
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

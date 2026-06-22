@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=rusted-old-noise-barrier-failed-corrosion-urban-highway&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 370985
+Downloaded: 2026-06-22 06:05:19
+File Size: 370985 bytes
+
+Date: Mon, 22 Jun 2026 06:05:19 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "c7ac98075be9c984f5f720ed2d29796d"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/79edfea142e12be1b48d832754f6309b.jpeg
+X-Tos-Hash-Crc64ecma: 12449451545527559869
+X-Tos-Request-Id: 88dc3638d09fec666a38d09f-a9e8c90-a2ea553
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:19 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:928::36
+x-request-ip: fdbd:dc03:8:579::159
+x-response-cache: miss
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142861deba88a5d3bacb364a9a78943e6d20fceb53e401e332175bb580d6c8f5cf487435858c5bf675cf330aab768aa309faf72641b325f6f814e2978959890fb0c3aeea3178679d35aa68c9db78f6b676d
+x-tt-trace-id: 00-2606221405194E94D9D8217E7E278E29-521B1185D43F2F36-00
+Server: TLB
+X-TT-LOGID: 202606221405194E94D9D8217E7E278E29
+X-Cache-Lookup: Cache Miss
+Last-Modified: Thu, 18 Jun 2026 09:51:28 GMT
+Cache-Control: max-age=2592000
+Content-Length: 370985
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 6888759017293422159
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=65
+server-timing: cdn-cache;desc=miss, edge;dur=2, origin;dur=398
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.241
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

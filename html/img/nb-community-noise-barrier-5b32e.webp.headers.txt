@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=community-noise-barrier&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 230854
+Downloaded: 2026-06-22 06:05:08
+File Size: 230854 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 230854
+Connection: close
+Date: Mon, 22 Jun 2026 06:05:08 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "6d0f129706c2fbb61df8bfd620452513"
+Last-Modified: Thu, 18 Jun 2026 05:38:16 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/965311c44a715627079329b9a9f4fa27.jpeg
+X-Tos-Hash-Crc64ecma: 6540243818462528947
+X-Tos-Request-Id: 901b4a38d09404066a38d094-a814817-a8047dc
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:08 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc03:f:946::12, cache26.l2cn7769[166,166,200-0,M], cache42.l2cn7769[169,0], ens-cache16.cn8519[197,200,200-0,M], ens-cache6.cn8519[229,0]
+x-request-ip: fdbd:dc03:8:579::159
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc03:8:579::159
+x-response-cache: miss
+server-timing: inner; dur=54
+x-tt-trace-host: 0122d0048140fb36927842891b5715258027cc781c311c8eb291139345143029f14d448db218088e1eee6e3222a3cc2f4f10b6d9db083e164d4d7f4dc365eaa5cad66c4b03c92b312f544a0574e2512dfdeb3bb263fc5dac90aeff9565a460a244
+x-tt-trace-id: 00-2606221405084E06296645E70926069B-0A3FAA07CDAE4B88-00
+X-TT-LOGID: 202606221405084E06296645E70926069B
+Age: 0
+Ali-Swift-Global-Savetime: 1782108308
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:05:08 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d1a17821083085901822e

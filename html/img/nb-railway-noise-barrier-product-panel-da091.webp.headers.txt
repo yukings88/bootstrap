@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-product-panel&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 343527
+Downloaded: 2026-06-22 06:05:28
+File Size: 343527 bytes
+
+Date: Mon, 22 Jun 2026 06:05:28 GMT
+Content-Type: image/jpeg
+Age: 7751
+Etag: "a326498f01904741666e682935678b4f"
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/b525574334170a52faf74a7eb196f0dd.jpeg
+X-Tos-Hash-Crc64ecma: 15808073797153570394
+X-Tos-Request-Id: accfea38b2611af86a38b261-a8c82a2-fdbdgdc03g0g512gg51
+X-Tos-Response-Time: Mon, 22 Jun 2026 03:56:17 GMT
+X-Tos-Storage-Class: STANDARD
+via: n132-055-206
+x-request-ip: fdbd:dc03:11:686::94
+x-response-cache: edge_hit
+x-tt-trace-host: 0122d0048140fb36927842891b57152580781c8b2bbd37adaf1583074750f6c259d4b750833f97fad253c523b3ed8a6097a9a5431e8321e85bcfb3b39302faa2be1ca0fd9ca9b36e145de7c9d9dc8b989d2736f8ad11160ca74ef42e0dd938d29f
+x-tt-trace-id: 00-260622140528680C3C5761A5C0209E80-0967811A6B8421D0-00
+Server: TLB
+X-TT-LOGID: 20260622140528680C3C5761A5C0209E80
+X-Cache-Lookup: Cache Miss
+Last-Modified: Wed, 17 Jun 2026 00:51:10 GMT
+Cache-Control: max-age=2592000
+Content-Length: 343527
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 2111252136885483786
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=3
+server-timing: cdn-cache;desc=miss, edge;dur=2, origin;dur=284
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.205
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

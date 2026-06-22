@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-acoustic-barrier-community-garden&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 357243
+Downloaded: 2026-06-22 06:05:24
+File Size: 357243 bytes
+
+Date: Mon, 22 Jun 2026 06:05:24 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "e5b0dd463fb23cb439cdf94514db4175"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/192b5d31e8ac6d3e1b1e1191bdda5310.jpeg
+X-Tos-Hash-Crc64ecma: 11389085989981794767
+X-Tos-Request-Id: c7b07e38d0a4df366a38d0a4-a8d41a1-fdbdgdc03g0g514gg34
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:24 GMT
+X-Tos-Storage-Class: STANDARD
+via: n133-099-229
+x-request-ip: fdbd:dc01:28:829::12
+x-response-cache: miss
+x-tt-trace-host: 0122d0048140fb36927842891b57152580a3115c9a34a80f3bce8cccd08fe0262ffeb81e43e4c5b305930477f6d5f9422cca11ed6ef7b11068e16a40e8e473e8757a09195004106a69077f29d5830af96a3b572d096f96048c171e24e496e31e64
+x-tt-trace-id: 00-2606221405245D5CF443B9B3A3E1E357-59DE2B21900AA6E6-00
+Server: TLB
+X-TT-LOGID: 202606221405245D5CF443B9B3A3E1E357
+X-Cache-Lookup: Cache Miss
+Last-Modified: Tue, 16 Jun 2026 09:03:39 GMT
+Cache-Control: max-age=2592000
+Content-Length: 357243
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 15367501769019265870
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=68
+server-timing: cdn-cache;desc=miss, edge;dur=3, origin;dur=387
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.205
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=global-noise-barrier-market-eu-usa-australia-southeast-asia&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 209837
+Downloaded: 2026-06-22 06:05:00
+File Size: 209837 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 209837
+Connection: close
+Date: Mon, 22 Jun 2026 06:05:00 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "6c44b991a10cd2009e143e8bc4ce0318"
+Last-Modified: Tue, 16 Jun 2026 10:10:21 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/34e5f9b5ef8da4f9aa97932be42f3d99.jpeg
+X-Tos-Hash-Crc64ecma: 9145672925594313195
+X-Tos-Request-Id: aa8f2c38d08c60756a38d08c-ac26e25-ac3692f
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:00 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc01:b:529::19, cache34.l2cn7769[223,222,200-0,M], cache49.l2cn7769[224,0], ens-cache33.cn8519[253,253,200-0,M], ens-cache9.cn8519[258,0]
+x-request-ip: fdbd:dc01:27:81::24
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc01:27:81::24
+x-response-cache: miss
+server-timing: inner; dur=64
+x-tt-trace-host: 015afd27d37b45b0f8d5359100ccf82fde8291d8454cdfce58e9772b252d361491269519bcabc29d6dc550bc6649e3b67cfdf026d632441a22c03eb2413f8bea57061b5be41b2e872d706db887b6140a2d7aadcf061212b37612aa750671d5ca4e
+x-tt-trace-id: 00-2606221405009318A1976879B1DBE9B2-259CB47B860E7CF7-00
+X-TT-LOGID: 202606221405009318A1976879B1DBE9B2
+Age: 0
+Ali-Swift-Global-Savetime: 1782108300
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:05:00 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d1d17821083000385506e

@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-polycarbonate-noise-barrier-highway-clear-panel&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 157498
+Downloaded: 2026-06-22 06:04:55
+File Size: 157498 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 157498
+Connection: close
+Date: Mon, 22 Jun 2026 06:04:55 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "25b3512f861f6538b4bf7559e0f74718"
+Last-Modified: Thu, 18 Jun 2026 05:45:46 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/88c77e456b88f932a9f03bd0bcb3e3f7.jpeg
+X-Tos-Hash-Crc64ecma: 9735695156208008251
+X-Tos-Request-Id: 3f2f9238d08703906a38d087-fdbdgdc02gdg274gg38-a2ea552
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:04:55 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:928::36, cache13.l2cn7769[196,196,200-0,M], cache12.l2cn7769[197,0], ens-cache13.cn8519[222,221,200-0,M], ens-cache7.cn8519[225,0]
+x-request-ip: fdbd:dc03:8:568::232
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc03:8:568::232
+x-response-cache: miss
+server-timing: inner; dur=55
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142643db9564f5d40aa62e32e150dfefea2515a6b6a4ccd6d31dc3bfe8e021265a9372f3ca87d274c6b343e63133537f74cb78a9826ec8a684a303043d7455cbec755de08be72d344207d3ed79fcddaa559
+x-tt-trace-id: 00-260622140455C1F8A8376691B91B4179-37FEBC1280B82FDB-00
+X-TT-LOGID: 20260622140455C1F8A8376691B91B4179
+Age: 0
+Ali-Swift-Global-Savetime: 1782108295
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:04:55 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d1b17821082951107491e

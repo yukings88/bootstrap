@@ -1,0 +1,32 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barrier-perimeter&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 222887
+Downloaded: 2026-06-22 06:05:46
+File Size: 222887 bytes
+
+Etag: "b3095df06a1835c55639eed334e95f88"
+Content-Type: image/jpeg
+x-tt-trace-host: 01dbf33ef8b11bde12aab038ad45adc51bc176443f59907fa8d9ae50e1f14de70e816719eb571d983516488bb78ab2711b0e46097a10d8f1356298fbaca51109878bc120e43c73403926b9e24498b95d6e7b222a032216451e2fc45611591ae45f
+Server: Lego Server
+Date: Mon, 22 Jun 2026 06:05:46 GMT
+X-Cache-Lookup: Cache Hit
+Last-Modified: Tue, 16 Jun 2026 09:01:54 GMT
+Cache-Control: max-age=2592000
+Content-Length: 222887
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 13292151616174669853
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: cdn-cache;desc=hit, edge;dur=80
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 180.184.77.101
+X-cdn-cache: Hit from cdn
+x-tt-trace-tag: id=11;cdn-cache=hit;type=static

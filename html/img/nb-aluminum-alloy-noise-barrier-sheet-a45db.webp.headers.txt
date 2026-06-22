@@ -1,0 +1,32 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-sheet&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 226794
+Downloaded: 2026-06-22 06:05:32
+File Size: 226794 bytes
+
+Etag: "0ffd1a0bf8cf887c1af6b6188d6af50e"
+Content-Type: image/jpeg
+x-tt-trace-host: 01dbf33ef8b11bde12aab038ad45adc51b551f4fce155b5b4f6fdf4546d6b56d2217ec5a5c8743074f8d471f4db8833d84094e809bcb2c87a62319f2c70328dd9c7219331c5e3924dce51cecb64fdc3dc8de4585ede0cd190a3811da94c36a557b
+Server: Lego Server
+Date: Mon, 22 Jun 2026 06:05:32 GMT
+X-Cache-Lookup: Cache Hit
+Last-Modified: Wed, 17 Jun 2026 00:51:57 GMT
+Cache-Control: max-age=2592000
+Content-Length: 226794
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 2068055247669970760
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: cdn-cache;desc=hit, edge;dur=46
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 180.184.77.101
+X-cdn-cache: Hit from cdn
+x-tt-trace-tag: id=11;cdn-cache=hit;type=static

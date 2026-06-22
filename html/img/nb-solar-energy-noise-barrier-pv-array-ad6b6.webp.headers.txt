@@ -1,0 +1,39 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-energy-noise-barrier-pv-array&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 255098
+Downloaded: 2026-06-22 06:05:47
+File Size: 255098 bytes
+
+Date: Mon, 22 Jun 2026 06:05:47 GMT
+Content-Type: image/jpeg
+Content-Length: 255098
+Connection: close
+Server: openresty
+Cache-Control: max-age=2592000
+Etag: "5ef078d2a214024433db26813b71ff9b"
+Last-Modified: Tue, 16 Jun 2026 09:01:53 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/0b474869ae872ecbeef44a9f1fb2c808.jpeg
+X-Tos-Hash-Crc64ecma: 1190797233824128182
+X-Tos-Request-Id: 888d3c38d0ba610e6a38d0ba-fdbdgdc02g2bg412gg41-a2ea54c
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:46 GMT
+X-Tos-Storage-Class: STANDARD
+via: CHN-LNdalian-CT13-CACHE20[190],CHN-LNdalian-CT13-CACHE14[186,TCP_MISS,189],CHN-SDqingdao-GLOBALZJ1-CACHE164[153],CHN-SDqingdao-GLOBALZJ1-CACHE12[150,TCP_MISS,152],CHN-BJ-GLOBALZJ2-CACHE164[136],CHN-BJ-GLOBALZJ2-CACHE14[130,TCP_MISS,134],CHN-HElangfang-GLOBAL6-CACHE137[127],CHN-HElangfang-GLOBAL6-CACHE127[111,TCP_MISS,125],n159-217-071
+x-request-ip: fdbd:dc01:26:289::21
+x-tt-trace-tag: id=26;cdn-cache=miss;type=static
+x-response-cinfo: 101.126.54.254
+x-response-cache: miss
+server-timing: inner; dur=51
+x-tt-trace-host: 01bf21f47ed3d1e93a18775d55b2991e68b34b49f750c3f303638b7c78b22bc64c65d3b7f35d8aa39968d9af66899e0f417615f80bea34b416ee023b6d782e6865b519a325619ee51009fac9a678ffeed3f50dec3e0d0d3286ed92fc08f3dbb3022a79bf2154ecd388b7e4f018770621f26585c8536231a1081e668cccbc9e48c4
+x-tt-trace-id: 00-26062214054606C5F9BD5A19527367F5-5CF09DC658EA2134-00
+X-TT-LOGID: 2026062214054606C5F9BD5A19527367F5
+X-CCDN-Origin-Time: 111
+x-hcs-proxy-type: 0
+X-CCDN-CacheTTL: 2592000
+X-CCDN-REQ-ID-46B1: 683c51aa4ca03c563172923b4a9c2617
+Age: 1
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+x-tt-supplier-id: 0_9

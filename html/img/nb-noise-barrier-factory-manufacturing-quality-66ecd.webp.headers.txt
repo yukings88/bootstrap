@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-factory-manufacturing-quality&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 238351
+Downloaded: 2026-06-22 06:05:49
+File Size: 238351 bytes
+
+Date: Mon, 22 Jun 2026 06:05:48 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "820f5bdf267f7793442f31cab2a05a7c"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/8590f0ff3b7574a40ce29235a7488a37.jpeg
+X-Tos-Hash-Crc64ecma: 5021778843574537731
+X-Tos-Request-Id: f0853838d0bcacc16a38d0bc-fdbdgdc02g2bg208gg55-fdbdgdc02g11gd3agg15
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:48 GMT
+X-Tos-Storage-Class: STANDARD
+via: n151-078-089
+x-request-ip: fdbd:dc01:28:829::12
+x-response-cache: miss
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142d68c60a08d5f3342ca7be2c00d6b38a64a96db1651b48ae3cbfe64aeae5bee5e2b67b29646e941d96d2b672a81d184eff58e32557851d88e2b260fae7c70802dda889d6642b8f1ca7415485d2bdb113a
+x-tt-trace-id: 00-260622140548B10F9D52B71979E82335-3D5EC4904C3AB896-00
+Server: TLB
+X-TT-LOGID: 20260622140548B10F9D52B71979E82335
+X-Cache-Lookup: Cache Miss
+Last-Modified: Tue, 16 Jun 2026 09:01:58 GMT
+Cache-Control: max-age=2592000
+Content-Length: 238351
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 12300638191281627028
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=89
+server-timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=392
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.241
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

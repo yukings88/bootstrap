@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=clear-acrylic-sound-barrier-residential-street&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 176626
+Downloaded: 2026-06-22 06:05:50
+File Size: 176626 bytes
+
+Date: Mon, 22 Jun 2026 06:05:50 GMT
+Content-Type: image/jpeg
+Content-Length: 176626
+Connection: close
+Server: openresty
+Etag: "19a0b822edb11957055e4588c2159058"
+Last-Modified: Fri, 12 Sep 2025 12:48:33 GMT
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/default.jpeg
+X-Tos-Hash-Crc64ecma: 12964636548071015744
+X-Tos-Request-Id: 3ed9eaf4ab1e9c5d69f4ab1e-a9265a1-a2ea552
+X-Tos-Response-Time: Fri, 01 May 2026 13:31:10 GMT
+X-Tos-Storage-Class: STANDARD
+via: CHN-LNdalian-CT13-CACHE8[3],CHN-LNdalian-CT13-CACHE18[0,TCP_HIT,2],CHN-SDqingdao-GLOBALZJ1-CACHE35[31],CHN-SDqingdao-GLOBALZJ1-CACHE80[0,TCP_HIT,30],CHN-BJ-GLOBALZJ2-CACHE113[31],CHN-BJ-GLOBALZJ2-CACHE82[0,TCP_HIT,30],CHN-HElangfang-GLOBAL6-CACHE107[14],CHN-HElangfang-GLOBAL6-CACHE5[0,TCP_HIT,11],fdbd:dc02:29:b02::42
+x-request-ip: fdbd:dc03:11:684::231
+x-tt-trace-tag: id=26;cdn-cache=hit;type=static
+x-response-cinfo: 101.126.54.254
+x-response-cache: edge_hit
+server-timing: inner; dur=8
+x-tt-trace-host: 01af1898a6f728ffdca49310b45b452d4b3276f4270e048214c898dbcdfa2ce2e68baff250480cedf5bd4536c04099ea4d6f4d9d05f182fccbb02585c2a36c4233ab60f6e354a079e0aaaee2283cd97e17f991d1efe09d606bc38926eebaac125d0084aac3669fef72c876607d7fbe883b
+x-tt-trace-id: 00-2605191417274824A6A0D610239B18F1-0785F700978512FA-00
+X-TT-LOGID: 202605191417274824A6A0D610239B18F1
+X-CCDN-Expires: 2585207
+x-hcs-proxy-type: 1
+X-CCDN-CacheTTL: 2592000
+X-CCDN-REQ-ID-46B1: 3ab625991ff2054067cd9d887fe1c957
+nginx-hit: 1
+Age: 6793
+Cache-Control: max-age=2592000
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+x-tt-supplier-id: 0_9

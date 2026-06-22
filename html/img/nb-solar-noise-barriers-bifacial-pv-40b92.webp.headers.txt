@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barriers-bifacial-pv&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 267951
+Downloaded: 2026-06-22 06:05:44
+File Size: 267951 bytes
+
+Date: Mon, 22 Jun 2026 06:05:44 GMT
+Content-Type: image/jpeg
+Age: 507848
+Etag: "875f35a608d023ce193a4bcbbd307744"
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/6ca47c7a1bcf54d07bd233a8e144c08d.jpeg
+X-Tos-Hash-Crc64ecma: 6516213721837933332
+X-Tos-Request-Id: d75ddc3110f0583b6a3110f0-a926e5e-fdbdgdc02g11gd3cgg18
+X-Tos-Response-Time: Tue, 16 Jun 2026 09:01:36 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:c28::53
+x-request-ip: fdbd:dc01:22:134::91
+x-response-cache: edge_hit
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142b273eb8deb54130dbda6252e5b0b3ce0cdeaac3536f72d05a37948ea85c6475d767f3678aa2f16b0086af6fa18ba43765be4a04c44b7aceb40524adb6e36f5011d1fe1a8bac444f5b370d3c18cac31e6
+x-tt-trace-id: 00-2606221405447D7A9074C60153F0648C-1D8E3AE05C05D62B-00
+Server: TLB
+X-TT-LOGID: 202606221405447D7A9074C60153F0648C
+X-Cache-Lookup: Cache Miss
+Last-Modified: Tue, 16 Jun 2026 09:01:36 GMT
+Cache-Control: max-age=2592000
+Content-Length: 267951
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 435189139822349788
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=12
+server-timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=303
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.241
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

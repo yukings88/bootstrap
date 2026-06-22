@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-feasibility-acoustic-study&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 241341
+Downloaded: 2026-06-22 06:05:47
+File Size: 241341 bytes
+
+Date: Mon, 22 Jun 2026 06:05:47 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "27c2f97e5fa3d466718da35356c47048"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/ef901bac1ce227bdbae876052cc2ff82.jpeg
+X-Tos-Hash-Crc64ecma: 7226991815839684723
+X-Tos-Request-Id: 8ee63238d0bb3e1f6a38d0bb-a965324-a2e4c50
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:47 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc02:29:920::45
+x-request-ip: fdbd:dc02:22:112::229
+x-response-cache: miss
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e6927142816ecb9d7fe80da7f4799c283bedaafac1eea24b4c6205ec8724ec71b90ed62cb0dbfbb36c96373555795678e054fbcf908830860b022881d3172ec9fda438e1ab51e0739ffa6de0b8785641313544d9
+x-tt-trace-id: 00-260622140547C50F91A4AA0953206ABC-317C55B8ADA101A8-00
+Server: TLB
+X-TT-LOGID: 20260622140547C50F91A4AA0953206ABC
+X-Cache-Lookup: Cache Miss
+Last-Modified: Tue, 16 Jun 2026 09:01:58 GMT
+Cache-Control: max-age=2592000
+Content-Length: 241341
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 5599091037795351236
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=84
+server-timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=397
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 115.191.60.241
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static

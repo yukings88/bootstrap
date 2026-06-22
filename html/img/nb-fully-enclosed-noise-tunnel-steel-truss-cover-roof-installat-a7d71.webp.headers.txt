@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fully-enclosed-noise-tunnel-steel-truss-cover-roof-installation&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 234798
+Downloaded: 2026-06-22 06:05:13
+File Size: 234798 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 234798
+Connection: close
+Date: Mon, 22 Jun 2026 06:05:13 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Etag: "23e184a339a7101ca9feef71e11ff455"
+Last-Modified: Thu, 18 Jun 2026 08:35:51 GMT
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/f7bdaeb72c300108e210925d8449fdc1.jpeg
+X-Tos-Hash-Crc64ecma: 6283693187105942463
+X-Tos-Request-Id: 37acec38d0992b6a6a38d099-fdbdgdc02g11g510gg40-a9ebe95
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:13 GMT
+X-Tos-Storage-Class: STANDARD
+via: n151-186-070, cache32.l2cn7769[475,475,200-0,M], cache7.l2cn7769[476,0], ens-cache16.cn8519[503,504,200-0,M], ens-cache21.cn8519[517,0]
+x-request-ip: fdbd:dc01:29:522::103
+x-tt-trace-tag: id=03;cdn-cache=miss;type=static
+x-response-cinfo: fdbd:dc01:29:522::103
+x-response-cache: miss
+server-timing: inner; dur=267
+x-tt-trace-host: 018fb7496bbb5e877057dc7d30e69271427598464ea0bef7215e3e6abda09253b03316b521b6008bebb19ef7697a5aacbb730b4f22bc463b9d6c7f569643bb82299edae66dba70078cdbe99fc0473d73e1781a6426c3ad5822cbd125f44047fcff
+x-tt-trace-id: 00-2606221405134A11DDFCA2E83FD9ECFD-78C6B3C55D9A91F1-00
+X-TT-LOGID: 202606221405134A11DDFCA2E83FD9ECFD
+Age: 0
+Ali-Swift-Global-Savetime: 1782108313
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Mon, 22 Jun 2026 06:05:13 GMT
+X-Swift-CacheTime: 2592000
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58d2917821083130783244e

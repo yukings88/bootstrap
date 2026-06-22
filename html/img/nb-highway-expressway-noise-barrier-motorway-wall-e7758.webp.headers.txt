@@ -1,0 +1,40 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-expressway-noise-barrier-motorway-wall&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 176626
+Downloaded: 2026-06-22 06:05:16
+File Size: 176626 bytes
+
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 176626
+Connection: close
+Date: Tue, 02 Jun 2026 13:12:45 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+X-Bdcdn-Cache-Status: TCP_HIT
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/default.jpeg
+X-Tos-Hash-Crc64ecma: 12964636548071015744
+X-Tos-Request-Id: 9d35ae1e4d4182cf6a1e4d41-ad37fe3-ace4b62
+X-Tos-Response-Time: Tue, 02 Jun 2026 03:25:53 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc01:d:40e::18, cache51.l2cn1816[0,0,304-0,H], cache51.l2cn1816[0,0], ens-cache28.cn8519[0,0,200-0,H], ens-cache29.cn8519[9,0]
+x-request-ip: fdbd:dc03:4:479::172
+x-tt-trace-tag: id=03;cdn-cache=hit;type=static
+x-response-cinfo: fdbd:dc03:4:479::172
+x-response-cache: edge_hit
+server-timing: inner; dur=1497
+x-tt-trace-host: 017c43e58127f65581408a170c41ef64cc00387e88062735a90f41884f25ac31fcb06f9fe53e44f19f9afab38543b46731fc62871e684267ad660217c97e07025590dcc1331cdd16bedba305407eca69966ceb29842e3c029b47fe9fb4dceaaf68
+x-tt-trace-id: 00-260602211243B634B297ECC891D8A344-1A51F9225126B1E9-00
+X-TT-LOGID: 20260602211243B634B297ECC891D8A344
+Etag: "19a0b822edb11957055e4588c2159058"
+Last-Modified: Fri, 12 Sep 2025 12:48:33 GMT
+Age: 1702351
+Ali-Swift-Global-Savetime: 1780405965
+X-Cache: HIT TCP_MEM_HIT dirn:-2:-2
+X-Swift-SaveTime: Sun, 21 Jun 2026 14:36:24 GMT
+X-Swift-CacheTime: 945381
+x-tt-supplier-id: 0_1
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+EagleId: dcb58dd117821083162454366e

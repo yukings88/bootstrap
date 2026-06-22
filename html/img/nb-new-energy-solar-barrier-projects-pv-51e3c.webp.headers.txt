@@ -1,0 +1,45 @@
+URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=new-energy-solar-barrier-projects-pv&image_size=landscape_16_9
+Status: 200
+Content-Type: image/jpeg
+Content-Length: 332983
+Downloaded: 2026-06-22 06:05:36
+File Size: 332983 bytes
+
+Date: Mon, 22 Jun 2026 06:05:36 GMT
+Content-Type: image/jpeg
+Age: 0
+Etag: "8f2bdf6eddac7a51955e718f659bff9b"
+X-Bdcdn-Cache-Status: TCP_MISS
+X-Kfc-Cachekey: http://d-ks-origin-cache-all-lf.originalstatic.com/trae-ai-image/page_image/82dea4e4bfea070db095fbd1acebdb17.jpeg
+X-Tos-Hash-Crc64ecma: 12839654657279802866
+X-Tos-Request-Id: 470c4638d0b0b5a26a38d0b0-fdbdgdc01gdg418gg25-ac3692e
+X-Tos-Response-Time: Mon, 22 Jun 2026 06:05:36 GMT
+X-Tos-Storage-Class: STANDARD
+via: fdbd:dc01:2b:e00::15
+x-request-ip: fdbd:dc03:13:c08::22
+x-response-cache: miss
+x-tt-trace-host: 015afd27d37b45b0f8d5359100ccf82fde477c8a2d626ec4667c96c0bec964c26f6735624a6e3166409b2a2235cafc9e69132d6204d1ee002a9f176016e6d8763c2f2179746292412f52c4132412dbfc104cfcfa832b81bc14c1b8fabbecebe8fc
+x-tt-trace-id: 00-260622140536D5656DE4D4F5D5309D84-0EE74C01A4BF459D-00
+Server: TLB
+X-TT-LOGID: 20260622140536D5656DE4D4F5D5309D84
+X-Cache-Lookup: Cache Miss
+Last-Modified: Wed, 17 Jun 2026 01:54:54 GMT
+Cache-Control: max-age=2592000
+Content-Length: 332983
+Accept-Ranges: bytes
+X-NWS-LOG-UUID: 806272175279396394
+Connection: close
+X-Cache-Lookup: Cache Miss
+server-timing: inner; dur=61
+server-timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=362
+x-tt-supplier-id: 0_27
+Timing-Allow-Origin: *
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-response-cache,X-Cache
+Access-Control-Allow-Credentials: true
+x-response-cinfo: 180.184.77.101
+X-cdn-cache: Miss from cdn
+x-tt-trace-tag: id=11;cdn-cache=miss;type=static
