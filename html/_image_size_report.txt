@@ -1,0 +1,1177 @@
+Total HTML files scanned: 56
+Total image references found: 293
+
+================================================================================
+DETAILED IMAGE REPORT (grouped by file / section context)
+================================================================================
+
+
+[about.html]
+  Line 321 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-manufacturer-s
+    Size hints: responsive (auto)
+  Line 340 | A manufacturer of acoustic barriers with engineeri
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-manufacturer-s
+    Size hints: responsive (auto)
+  Line 390 | Two decades of engineering, manufacturing and expo
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-factory-produc
+    Size hints: responsive (auto)
+  Line 428 | Accredited by leading industry standards worldwide
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-engineering-la
+    Size hints: responsive (auto)
+  Line 447 | The people behind Yukings noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-managing-direc
+    Size hints: responsive (auto)
+  Line 458 | The people behind Yukings noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-technical-dire
+    Size hints: responsive (auto)
+  Line 469 | The people behind Yukings noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-export-sales-d
+    Size hints: responsive (auto)
+
+[absorptive-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=absorptive-noise-barrier-louvered-me
+    Size hints: responsive (auto)
+  Line 290 | Yukings Absorptive Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mineral-wool-acoustic-absorptive-noi
+    Size hints: responsive (auto)
+  Line 348 | Typical applications for absorptive noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=urban-arterial-road-absorptive-noise
+    Size hints: responsive (auto)
+  Line 349 | Typical applications for absorptive noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=high-speed-railway-metro-absorptive-
+    Size hints: responsive (auto)
+  Line 350 | Typical applications for absorptive noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-absorptive-noi
+    Size hints: responsive (auto)
+  Line 351 | Typical applications for absorptive noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=mixed-traffic-interchange-absorptive
+    Size hints: responsive (auto)
+  Line 363 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=reflective-noise-barrier-rigid-steel
+    Size hints: responsive (auto)
+  Line 364 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier-dual-layer-abso
+    Size hints: responsive (auto)
+  Line 365 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-barrier-community-
+    Size hints: responsive (auto)
+  Line 366 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+
+[aluminum-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-bridge-
+    Size hints: responsive (auto)
+  Line 290 | Yukings Aluminum Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-louvered-noise-barrier-pane
+    Size hints: responsive (auto)
+  Line 340 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=galvanized-steel-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 341 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-polycarbonate-noise-barr
+    Size hints: responsive (auto)
+  Line 342 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=precast-concrete-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 343 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+  Line 344 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+
+[angled-folded-top-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=angled-folded-cantilever-top-noise-b
+    Size hints: responsive (auto)
+  Line 291 | Angled / Folded-Top Noise Barriers — L-Cap Cantile
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=cantilever-cap-noise-barrier-acousti
+    Size hints: responsive (auto)
+  Line 370 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=flat-straight-top-noise-barrier-high
+    Size hints: responsive (auto)
+  Line 371 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=curved-arc-top-noise-barrier-highway
+    Size hints: responsive (auto)
+  Line 372 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-road-noise-barrier-expresswa
+    Size hints: responsive (auto)
+  Line 373 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-trackside-wall
+    Size hints: responsive (auto)
+  Line 374 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+  Line 375 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-factory-noise-barri
+    Size hints: responsive (auto)
+
+[blog-aluminum-vs-galvanized-steel-comparison.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-vs-galvanized-steel-noise-b
+    Size hints: responsive (auto)
+
+[blog-en-1793-acoustic-performance-guide.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=en-1793-acoustic-performance-test-re
+    Size hints: responsive (auto)
+
+[blog-en-1794-mechanical-performance-guide.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=en-1794-mechanical-performance-noise
+    Size hints: responsive (auto)
+
+[blog-global-noise-barrier-market-report.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=global-noise-barrier-market-eu-usa-a
+    Size hints: responsive (auto)
+
+[blog-high-speed-rail-aero-acoustic-design.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=high-speed-rail-noise-barrier-aero-a
+    Size hints: responsive (auto)
+
+[blog-insertion-loss-sound-insulation-faq.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=insertion-loss-sound-insulation-abso
+    Size hints: responsive (auto)
+
+[blog-noise-barrier-panel-depth-guide.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-panel-depth-comparison
+    Size hints: responsive (auto)
+
+[blog-noise-barrier-project-checklist.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-project-checklist-spec
+    Size hints: responsive (auto)
+
+[blog-solar-pv-noise-barrier-commercial.html]
+  Line 28 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-pv-integrated-noise-barrier-hi
+    Size hints: responsive (auto)
+
+[blog.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-blog-technical-article
+    Size hints: responsive (auto)
+  Line 332 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=how-to-choose-noise-barrier-panel-de
+    Size hints: responsive (auto)
+  Line 343 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=en-1793-acoustic-performance-classif
+    Size hints: responsive (auto)
+  Line 354 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=high-speed-rail-aero-acoustic-noise-
+    Size hints: responsive (auto)
+  Line 365 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-pv-integrated-noise-barriers&i
+    Size hints: responsive (auto)
+  Line 376 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-galvanized-steel-noise-barr
+    Size hints: responsive (auto)
+  Line 387 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=en-1794-mechanical-performance-noise
+    Size hints: responsive (auto)
+  Line 398 | Technical notes, industry news and FAQ deep dives
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=insertion-loss-sound-insulation-abso
+    Size hints: responsive (auto)
+  Line 409 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-project-checklist&imag
+    Size hints: responsive (auto)
+  Line 420 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=global-noise-barrier-market-eu-usa-a
+    Size hints: responsive (auto)
+  Line 441 | How we write for engineers, specifiers and procure
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-technical-article-engi
+    Size hints: responsive (auto)
+  Line 452 | For the engineers and specifiers who want to dig i
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-industry-news-2&image_
+    Size hints: responsive (auto)
+  Line 463 | For project owners, developers, contractors and pr
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-faq-deep-dive&image_si
+    Size hints: responsive (auto)
+
+[bridge-elevated-noise-barriers.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bridge-elevated-road-noise-barrier-v
+    Size hints: responsive (auto)
+  Line 246 | What makes our Bridge Noise Barriers different
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-lightweight-bridge-parapet-
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-noise-barrier&image_size=la
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-noise-barrier&image_size
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-noise-barrier&image_size=landsc
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solutions-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bridge-noise-barrier&image_size=land
+    Size hints: responsive (auto)
+
+[certifications.html]
+  Line 446 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-iso-9001.jpg
+    Size hints: responsive (auto)
+  Line 458 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-iso-14001.jpg
+    Size hints: responsive (auto)
+  Line 470 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-iso-45001.jpg
+    Size hints: responsive (auto)
+  Line 482 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-ce-marking.jpg
+    Size hints: responsive (auto)
+  Line 494 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-gbt-34509.jpg
+    Size hints: responsive (auto)
+  Line 506 | Scanned certificates and test reports from our arc
+    URL: certifications-assets/cert-patent-summary.jpg
+    Size hints: responsive (auto)
+  Line 518 | unlabeled-section
+    URL: certifications-assets/cert-cma-cnas-acoustic-test.jpg
+    Size hints: responsive (auto)
+  Line 530 | unlabeled-section
+    URL: certifications-assets/cert-aaa-trustworthy-enterprise.jpg
+    Size hints: responsive (auto)
+  Line 542 | unlabeled-section
+    URL: certifications-assets/cert-ciet-group-standard.jpg
+    Size hints: responsive (auto)
+
+[city-road-noise-barriers.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=urban-city-road-noise-barrier-reside
+    Size hints: responsive (auto)
+  Line 246 | Why Yukings City Road Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-traffic-noise-barrier-transpare
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=community-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-noise-barrier&image_size
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solutions-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=product-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-noise-barrier&image_size=landsc
+    Size hints: responsive (auto)
+
+[concrete-noise-barriers.html]
+  Line 241 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=precast-concrete-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 261 | Yukings Concrete Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=concrete-sound-barrier-factory-preca
+    Size hints: responsive (auto)
+  Line 311 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=galvanized-steel-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 312 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-bridge-
+    Size hints: responsive (auto)
+  Line 313 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-polycarbonate-noise-barr
+    Size hints: responsive (auto)
+  Line 314 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+  Line 315 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-metro-noise-barrier-tracksid
+    Size hints: responsive (auto)
+
+[contact.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-contact-office
+    Size hints: responsive (auto)
+
+[curved-top-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=curved-arc-top-noise-barrier-highway
+    Size hints: responsive (auto)
+  Line 291 | Curved Top Noise Barriers — Diffraction Optimized
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=curved-cap-noise-wall-diffraction-en
+    Size hints: responsive (auto)
+  Line 372 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=flat-straight-top-noise-barrier-high
+    Size hints: responsive (auto)
+  Line 373 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=angled-folded-cantilever-top-noise-b
+    Size hints: responsive (auto)
+  Line 374 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-trackside-wall
+    Size hints: responsive (auto)
+  Line 375 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+  Line 376 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-road-noise-barrier-expresswa
+    Size hints: responsive (auto)
+  Line 377 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-factory-noise-barri
+    Size hints: responsive (auto)
+
+[factory-tour.html]
+  Line 219 | unlabeled-section
+    URL: factory-assets/11-factory-column-welding.jpg
+    Size hints: responsive (auto)
+  Line 253 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/01-factory-hq-facade.jpg
+    Size hints: responsive (auto)
+  Line 260 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/02-factory-hq-office.jpg
+    Size hints: responsive (auto)
+  Line 267 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/03-factory-meeting-room.jpg
+    Size hints: responsive (auto)
+  Line 274 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/04-factory-entrance.jpg
+    Size hints: responsive (auto)
+  Line 281 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/05-factory-steel-structure.jpg
+    Size hints: responsive (auto)
+  Line 288 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/06-factory-raw-material.webp
+    Size hints: responsive (auto)
+  Line 295 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/07-factory-laser-cutting.jpg
+    Size hints: responsive (auto)
+  Line 302 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/08-factory-cnc-bending.jpg
+    Size hints: responsive (auto)
+  Line 309 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/09-factory-perforation-line.webp
+    Size hints: responsive (auto)
+  Line 316 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/10-factory-hot-dip-galvanizing.webp
+    Size hints: responsive (auto)
+  Line 323 | Sixteen views of how Yukings noise barriers are ma
+    URL: factory-assets/11-factory-column-welding.jpg
+    Size hints: responsive (auto)
+  Line 330 | unlabeled-section
+    URL: factory-assets/12-factory-panel-assembly.jpg
+    Size hints: responsive (auto)
+  Line 337 | unlabeled-section
+    URL: factory-assets/13-factory-welding-line-2.jpg
+    Size hints: responsive (auto)
+  Line 344 | unlabeled-section
+    URL: factory-assets/14-factory-powder-coating.webp
+    Size hints: responsive (auto)
+  Line 351 | unlabeled-section
+    URL: factory-assets/15-factory-acoustic-lab.webp
+    Size hints: responsive (auto)
+  Line 358 | unlabeled-section
+    URL: factory-assets/16-factory-quality-control.jpg
+    Size hints: responsive (auto)
+
+[faqs.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-faqs-helpdesk-
+    Size hints: responsive (auto)
+
+[flat-top-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=flat-straight-top-noise-barrier-high
+    Size hints: responsive (auto)
+  Line 291 | Flat Top Noise Barriers — Standard Profile
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=flat-top-noise-wall-modular-panel-in
+    Size hints: responsive (auto)
+  Line 370 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=curved-arc-top-noise-barrier-highway
+    Size hints: responsive (auto)
+  Line 371 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=angled-folded-cantilever-top-noise-b
+    Size hints: responsive (auto)
+  Line 372 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-road-noise-barrier-expresswa
+    Size hints: responsive (auto)
+  Line 373 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-trackside-wall
+    Size hints: responsive (auto)
+  Line 374 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-factory-noise-barri
+    Size hints: responsive (auto)
+  Line 375 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+
+[fully-enclosed-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fully-enclosed-4-sided-noise-barrier
+    Size hints: responsive (auto)
+  Line 291 | Fully-Enclosed Noise Barriers — 4-Sided Acoustic T
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fully-enclosed-noise-tunnel-steel-tr
+    Size hints: responsive (auto)
+  Line 370 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=semi-enclosed-U-shape-noise-barrier-
+    Size hints: responsive (auto)
+  Line 371 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=angled-folded-cantilever-top-noise-b
+    Size hints: responsive (auto)
+  Line 372 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=curved-top-noise-barrier-cantilever-
+    Size hints: responsive (auto)
+  Line 373 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-road-noise-barrier-expresswa
+    Size hints: responsive (auto)
+  Line 374 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-trackside-wall
+    Size hints: responsive (auto)
+  Line 375 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barriers-v2-bifacial-pv-
+    Size hints: responsive (auto)
+
+[galvanized-steel-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=galvanized-steel-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 290 | Yukings Galvanized Steel Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hot-dip-galvanized-noise-barrier-pan
+    Size hints: responsive (auto)
+  Line 340 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-bridge-
+    Size hints: responsive (auto)
+  Line 341 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-polycarbonate-noise-barr
+    Size hints: responsive (auto)
+  Line 342 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=precast-concrete-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 343 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+  Line 344 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barrier-mac
+    Size hints: responsive (auto)
+
+[get-quote.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-free-quotation
+    Size hints: responsive (auto)
+
+[highway-noise-barrier-projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-projects-expre
+    Size hints: responsive (auto)
+
+[highway-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+  Line 330 | Yukings Highway Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+
+[highway-noise-control.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-control-expressway-rin
+    Size hints: responsive (auto)
+  Line 330 | Highway Noise Control end-to-end
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-control-expressway-rin
+    Size hints: responsive (auto)
+
+[highway-road-noise-barriers.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-expressway-noise-barrier-mot
+    Size hints: responsive (auto)
+  Line 246 | What makes our Highway Noise Barriers different
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=absorptive-highway-noise-barrier-pol
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-noise-barrier&image_size=landsc
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bridge-noise-barrier&image_size=land
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barrier&image_size=
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=community-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=product-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+
+[hybrid-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier-dual-layer-rail
+    Size hints: responsive (auto)
+  Line 290 | Yukings Hybrid Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-acoustic-barrier-cross-sectio
+    Size hints: responsive (auto)
+  Line 348 | Typical applications for hybrid noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=high-speed-railway-hybrid-noise-barr
+    Size hints: responsive (auto)
+  Line 349 | Typical applications for hybrid noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-sensitive-highway-hybrid
+    Size hints: responsive (auto)
+  Line 350 | Typical applications for hybrid noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-boundary-hybrid-noi
+    Size hints: responsive (auto)
+  Line 351 | Typical applications for hybrid noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=cantilever-cap-hybrid-noise-barrier-
+    Size hints: responsive (auto)
+  Line 363 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=reflective-noise-barrier-rigid-steel
+    Size hints: responsive (auto)
+  Line 364 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=absorptive-noise-barrier-louvered-me
+    Size hints: responsive (auto)
+  Line 365 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-photovoltaic-noise-barrier-pv-
+    Size hints: responsive (auto)
+  Line 366 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-metro-hybrid-noise-barrier&i
+    Size hints: responsive (auto)
+
+[index.html]
+  Line 341 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-sunset-industr
+    Size hints: responsive (auto)
+  Line 361 | 4 common noise-barrier pain points we solve for yo
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=rusted-old-noise-barrier-failed-corr
+    Size hints: responsive (auto)
+  Line 399 | End-to-end noise barrier manufacturing under one r
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-factory-production-lin
+    Size hints: responsive (auto)
+  Line 410 | 42,000 m² of vertically-integrated manufacturing
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-acoustic-testing-labor
+    Size hints: responsive (auto)
+  Line 421 | Up to 45 dB insertion loss, tested to EN 1793-1 / 
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-installation-team-cons
+    Size hints: responsive (auto)
+  Line 444 | Five engineered acoustic barrier categories
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-high-speed-tra
+    Size hints: responsive (auto)
+  Line 455 | Five engineered acoustic barrier categories
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-road-traffic&i
+    Size hints: responsive (auto)
+  Line 466 | Five engineered acoustic barrier categories
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barrier-photovoltaic-far
+    Size hints: responsive (auto)
+  Line 477 | Five engineered acoustic barrier categories
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barrier-factory-pla
+    Size hints: responsive (auto)
+  Line 488 | Five engineered acoustic barrier categories
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-acoustic-barrier-communi
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-01.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-02.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-03.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-04.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-05.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-06.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-07.webp
+    Size hints: responsive (auto)
+  Line 516 | Manufacturing capacity, quality data and export fo
+    URL: factory-assets/factory-08.webp
+    Size hints: responsive (auto)
+  Line 533 | Browse Products by Category
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image?prompt=noise-barrier-acoustic-principle-dia
+    Size hints: responsive (auto)
+  Line 544 | Browse Products by Category
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image?prompt=noise-barrier-materials-steel-alumin
+    Size hints: responsive (auto)
+  Line 555 | Browse Products by Category
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image?prompt=noise-barrier-applications-highway-r
+    Size hints: responsive (auto)
+  Line 566 | Browse Products by Category
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image?prompt=noise-barrier-top-profiles-flat-curv
+    Size hints: responsive (auto)
+
+[industrial-factory-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barriers-po
+    Size hints: responsive (auto)
+  Line 330 | Industrial Noise Barriers end-to-end
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barriers-po
+    Size hints: responsive (auto)
+
+[industrial-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barriers-plant-powe
+    Size hints: responsive (auto)
+  Line 330 | Yukings Industrial Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barriers-plant-powe
+    Size hints: responsive (auto)
+
+[industrial-noise-control-projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-control-projects-po
+    Size hints: responsive (auto)
+
+[industrial-plant-noise-barriers.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-factory-noise-barri
+    Size hints: responsive (auto)
+  Line 246 | Why Yukings Industrial Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=heavy-industrial-noise-barrier-facto
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=reflective-noise-barrier&image_size=
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier&image_size=land
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=product-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solutions-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barrier&image_size=
+    Size hints: responsive (auto)
+
+[new-energy-solar-barrier-projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=new-energy-solar-noise-barrier-proje
+    Size hints: responsive (auto)
+
+[privacy-policy.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-privacy-policy-data-protecti
+    Size hints: responsive (auto)
+
+[products.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-product-lineup-modular
+    Size hints: responsive (auto)
+  Line 496 | Five engineered noise barrier families
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-product-panel&
+    Size hints: responsive (auto)
+  Line 507 | Metal-louvered and transparent-acrylic rail noise 
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-metal-louvered
+    Size hints: responsive (auto)
+  Line 518 | Metal-louvered, transparent and mixed-panel highwa
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barrier-product-bifacial
+    Size hints: responsive (auto)
+  Line 529 | Bifacial PV-integrated acoustic barriers: turning 
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barrier-plant-produ
+    Size hints: responsive (auto)
+  Line 540 | Industrial-grade acoustic enclosures and perimeter
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-barrier-community-
+    Size hints: responsive (auto)
+  Line 580 | Proven materials, controlled supply chain
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=galvanized-steel-noise-barrier-sheet
+    Size hints: responsive (auto)
+  Line 592 | Proven materials, controlled supply chain
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-sheet&i
+    Size hints: responsive (auto)
+  Line 604 | Proven materials, controlled supply chain
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=polycarbonate-transparent-noise-barr
+    Size hints: responsive (auto)
+  Line 616 | Proven materials, controlled supply chain
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=concrete-recycled-rubber-noise-barri
+    Size hints: responsive (auto)
+
+[projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-projects-selection-glo
+    Size hints: responsive (auto)
+  Line 332 | Browse our project portfolio by industry
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-projects-high-
+    Size hints: responsive (auto)
+  Line 343 | Browse our project portfolio by industry
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-projects-expre
+    Size hints: responsive (auto)
+  Line 354 | Browse our project portfolio by industry
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-control-projects-pl
+    Size hints: responsive (auto)
+  Line 365 | Browse our project portfolio by industry
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-reduction-projects
+    Size hints: responsive (auto)
+  Line 376 | Browse our project portfolio by industry
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=new-energy-solar-barrier-projects-pv
+    Size hints: responsive (auto)
+  Line 397 | A closer look at a few signature projects
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-project-high-s
+    Size hints: responsive (auto)
+  Line 408 | Rolling noise and aero-acoustic noise reduction fo
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier-project-urban-
+    Size hints: css-height:3.0
+  Line 419 | Modular 4.0 m high metal-louvered highway sound wa
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-noise-barrier-project-pow
+    Size hints: responsive (auto)
+  Line 430 | 12 m high industrial acoustic perimeter wall for a
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barrier-project-pv-highw
+    Size hints: responsive (auto)
+
+[railway-noise-barrier-projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-projects-high-
+    Size hints: responsive (auto)
+
+[railway-noise-barriers-rail.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=high-speed-railway-noise-barrier-tra
+    Size hints: responsive (auto)
+  Line 246 | Why Yukings Railway Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-hybrid-slipstr
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-noise-barrier&image_size=landsc
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bridge-noise-barrier&image_size=land
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier&image_size=land
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solutions-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=product-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+
+[railway-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barriers-high-speed-ra
+    Size hints: responsive (auto)
+  Line 330 | Yukings Railway Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barriers-high-speed-ra
+    Size hints: responsive (auto)
+
+[railway-noise-reduction.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-reduction-high-speed-c
+    Size hints: responsive (auto)
+  Line 330 | Railway Noise Reduction end-to-end
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-reduction-high-speed-c
+    Size hints: responsive (auto)
+
+[reflective-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern-reflective-noise-barrier-high
+    Size hints: responsive (auto)
+  Line 290 | Yukings Reflective Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=reflective-sound-barrier-steel-panel
+    Size hints: responsive (auto)
+  Line 348 | Typical applications for reflective noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-rigid-reflective-noise-barri
+    Size hints: responsive (auto)
+  Line 349 | Typical applications for reflective noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-trackside-rigid-reflective-n
+    Size hints: responsive (auto)
+  Line 350 | Typical applications for reflective noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-boundary-reflective
+    Size hints: responsive (auto)
+  Line 351 | Typical applications for reflective noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bridge-parapet-reflective-noise-barr
+    Size hints: responsive (auto)
+  Line 363 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=absorptive-noise-barrier-louvered-me
+    Size hints: responsive (auto)
+  Line 364 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier-dual-layer&imag
+    Size hints: responsive (auto)
+  Line 365 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-photovoltaic-noise-barrier-pv-
+    Size hints: responsive (auto)
+  Line 366 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+
+[residential-community-noise-barriers.html]
+  Line 231 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+  Line 246 | What makes our Residential Noise Barriers differen
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=neighborhood-acoustic-fence-transpar
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city-noise-barrier&image_size=landsc
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-noise-barrier&image_size
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=product-noise-barrier&image_size=lan
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solutions-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+  Line 277 | Explore other noise barrier applications
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=community-noise-barrier&image_size=l
+    Size hints: responsive (auto)
+
+[residential-community-noise-protection.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-protecti
+    Size hints: responsive (auto)
+  Line 330 | Residential Community Noise Protection end-to-end
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-protecti
+    Size hints: responsive (auto)
+
+[residential-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-barriers-community
+    Size hints: responsive (auto)
+  Line 330 | Yukings Residential Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-barriers-community
+    Size hints: responsive (auto)
+
+[residential-noise-reduction-projects.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-noise-reduction-projects
+    Size hints: responsive (auto)
+
+[semi-enclosed-noise-barriers.html]
+  Line 270 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=semi-enclosed-U-shape-noise-barrier-
+    Size hints: responsive (auto)
+  Line 291 | Semi-Enclosed Noise Barriers — U-Shaped 3-Sided Pr
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=semi-enclosed-U-shape-noise-wall-can
+    Size hints: responsive (auto)
+  Line 370 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=flat-straight-top-noise-barrier-high
+    Size hints: responsive (auto)
+  Line 371 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=angled-folded-cantilever-top-noise-b
+    Size hints: responsive (auto)
+  Line 372 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fully-enclosed-4-sided-noise-barrier
+    Size hints: responsive (auto)
+  Line 373 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-road-noise-barrier-expresswa
+    Size hints: responsive (auto)
+  Line 374 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-barrier-trackside-wall
+    Size hints: responsive (auto)
+  Line 375 | Other noise barrier profiles and solutions
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-factory-noise-barri
+    Size hints: responsive (auto)
+
+[solar-energy-noise-barrier-solutions.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-energy-noise-barrier-pv-infras
+    Size hints: responsive (auto)
+  Line 330 | Solar Energy Noise Barrier Solutions end-to-end
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-energy-noise-barrier-pv-infras
+    Size hints: responsive (auto)
+
+[solar-noise-barriers-v2.html]
+  Line 264 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-photovoltaic-noise-barrier-hig
+    Size hints: responsive (auto)
+  Line 284 | Yukings Solar PV Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bifacial-solar-noise-barrier-install
+    Size hints: responsive (auto)
+  Line 342 | Typical applications for solar PV noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-expressway-solar-pv-noise-ba
+    Size hints: responsive (auto)
+  Line 343 | Typical applications for solar PV noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-metro-solar-pv-noise-barrier
+    Size hints: responsive (auto)
+  Line 344 | Typical applications for solar PV noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=urban-arterial-road-solar-noise-wall
+    Size hints: responsive (auto)
+  Line 345 | Typical applications for solar PV noise barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-plant-boundary-solar-acou
+    Size hints: responsive (auto)
+  Line 357 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=reflective-noise-barrier-rigid-steel
+    Size hints: responsive (auto)
+  Line 358 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=absorptive-noise-barrier-louvered-me
+    Size hints: responsive (auto)
+  Line 359 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=hybrid-noise-barrier-dual-layer&imag
+    Size hints: responsive (auto)
+  Line 360 | Other acoustic barrier classifications in our prod
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+
+[solar-noise-barriers.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barriers-bifacial-pv&ima
+    Size hints: responsive (auto)
+  Line 330 | Yukings Solar Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-noise-barriers-bifacial-pv&ima
+    Size hints: responsive (auto)
+
+[solutions.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-solutions-engineer-sit
+    Size hints: responsive (auto)
+  Line 332 | Five engineered acoustic-barrier solution areas
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=railway-noise-reduction-corridor&ima
+    Size hints: responsive (auto)
+  Line 343 | Five engineered acoustic-barrier solution areas
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-control-expressway&ima
+    Size hints: responsive (auto)
+  Line 354 | Five engineered acoustic-barrier solution areas
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=industrial-factory-noise-barrier-per
+    Size hints: responsive (auto)
+  Line 365 | Five engineered acoustic-barrier solution areas
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-protecti
+    Size hints: responsive (auto)
+  Line 376 | Five engineered acoustic-barrier solution areas
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=solar-energy-noise-barrier-pv-array&
+    Size hints: responsive (auto)
+  Line 397 | A four-stage approach to every project
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-feasibility-acoustic-s
+    Size hints: responsive (auto)
+  Line 408 | Acoustic assessment and feasibility study.
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-cad-design-structural-
+    Size hints: responsive (auto)
+  Line 419 | Structural design, CAD drawings, BIM coordination.
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-factory-manufacturing-
+    Size hints: responsive (auto)
+  Line 430 | In-house fabrication, testing, and QC inspection.
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=noise-barrier-installation-site-supe
+    Size hints: responsive (auto)
+
+[terms-of-service.html]
+  Line 310 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=yukings-noise-barrier-terms-of-servi
+    Size hints: responsive (auto)
+
+[transparent-noise-barriers.html]
+  Line 253 | unlabeled-section
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=transparent-polycarbonate-noise-barr
+    Size hints: responsive (auto)
+  Line 273 | Yukings Transparent Noise Barriers
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=clear-acrylic-sound-barrier-resident
+    Size hints: responsive (auto)
+  Line 323 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=galvanized-steel-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 324 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=aluminum-alloy-noise-barrier-bridge-
+    Size hints: responsive (auto)
+  Line 325 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=precast-concrete-noise-barrier-highw
+    Size hints: responsive (auto)
+  Line 326 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=residential-community-noise-barrier-
+    Size hints: responsive (auto)
+  Line 327 | Explore related noise barrier materials and produc
+    URL: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=highway-noise-barriers-expressway&im
+    Size hints: responsive (auto)
+
+================================================================================
+UNIQUE IMAGE URLS SUMMARY
+================================================================================
+
+[certifications-assets/cert-aaa-trustworthy-enterprise.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-ce-marking.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-ciet-group-standard.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-cma-cnas-acoustic-test.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-gbt-34509.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-iso-14001.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-iso-45001.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-iso-9001.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[certifications-assets/cert-patent-summary.jpg]
+  Used in 1 place(s) across files: certifications.html
+  In sections: Scanned certificates and test reports from our archive
+  Size hints: responsive (auto)
+
+[factory-assets/01-factory-hq-facade.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/02-factory-hq-office.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/03-factory-meeting-room.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/04-factory-entrance.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/05-factory-steel-structure.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/06-factory-raw-material.webp]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/07-factory-laser-cutting.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/08-factory-cnc-bending.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/09-factory-perforation-line.webp]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/10-factory-hot-dip-galvanizing.webp]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/11-factory-column-welding.jpg]
+  Used in 2 place(s) across files: factory-tour.html
+  In sections: unlabeled-section, Sixteen views of how Yukings noise barriers are made
+  Size hints: responsive (auto)
+
+[factory-assets/12-factory-panel-assembly.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[factory-assets/13-factory-welding-line-2.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[factory-assets/14-factory-powder-coating.webp]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[factory-assets/15-factory-acoustic-lab.webp]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[factory-assets/16-factory-quality-control.jpg]
+  Used in 1 place(s) across files: factory-tour.html
+  In sections: unlabeled-section
+  Size hints: responsive (auto)
+
+[factory-assets/factory-01.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-02.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-03.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-04.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-05.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-06.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-07.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[factory-assets/factory-08.webp]
+  Used in 1 place(s) across files: index.html
+  In sections: Manufacturing capacity, quality data and export footprint
+  Size hints: responsive (auto)
+
+[https://trae-api-cn.mchost.guru/api/ide/v1/text-to-image]
+  Used in 4 place(s) across files: index.html
+  In sections: Browse Products by Category
+  Size hints: responsive (auto)
+
+[https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image]
+  Used in 255 place(s) across files: about.html
+  In sections: Two decades of engineering, manufacturing and exporting nois, unlabeled-section, A manufacturer of acoustic barriers with engineering at our , Accredited by leading industry standards worldwide, The people behind Yukings noise barriers
+  Size hints: css-height:3.0
