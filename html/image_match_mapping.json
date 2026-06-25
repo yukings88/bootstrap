@@ -1,0 +1,478 @@
+[
+  {
+    "failed_filename": "absorptive-noise-barrier-louvered-metal-panel-382f6b8a.webp",
+    "matched_filename": "absorptive-noise-barrier-louvered-metal-panel-highway-5e154b45.webp",
+    "failed_prompt": "absorptive-noise-barrier-louvered-metal-panel",
+    "matched_prompt": "absorptive-noise-barrier-louvered-metal-panel-highway",
+    "score": 0.951
+  },
+  {
+    "failed_filename": "aluminum-galvanized-steel-noise-barrier-comparison-49ac8802.webp",
+    "matched_filename": "aluminum-vs-galvanized-steel-noise-barrier-material-comparison-b0e22a79.webp",
+    "failed_prompt": "aluminum-galvanized-steel-noise-barrier-comparison",
+    "matched_prompt": "aluminum-vs-galvanized-steel-noise-barrier-material-comparison",
+    "score": 0.936
+  },
+  {
+    "failed_filename": "new-energy-solar-noise-barrier-projects-pv-a805ee32.webp",
+    "matched_filename": "new-energy-solar-barrier-projects-pv-51e3c256.webp",
+    "failed_prompt": "new-energy-solar-noise-barrier-projects-pv",
+    "matched_prompt": "new-energy-solar-barrier-projects-pv",
+    "score": 0.897
+  },
+  {
+    "failed_filename": "insertion-loss-sound-insulation-absorption-coefficients-noise-barriers-e917cf1f.webp",
+    "matched_filename": "insertion-loss-sound-insulation-absorption-coefficient-noise-barrier-a0fe8786.webp",
+    "failed_prompt": "insertion-loss-sound-insulation-absorption-coefficients-noise-barriers",
+    "matched_prompt": "insertion-loss-sound-insulation-absorption-coefficient-noise-barrier",
+    "score": 0.891
+  },
+  {
+    "failed_filename": "railway-noise-barriers-high-speed-rail-a00c65d4.webp",
+    "matched_filename": "railway-noise-barrier-projects-high-speed-rail-28f2b948.webp",
+    "failed_prompt": "railway-noise-barriers-high-speed-rail",
+    "matched_prompt": "railway-noise-barrier-projects-high-speed-rail",
+    "score": 0.876
+  },
+  {
+    "failed_filename": "aluminum-noise-barrier-90706c51.webp",
+    "matched_filename": "aluminum-alloy-noise-barrier-sheet-a45dbb86.webp",
+    "failed_prompt": "aluminum-noise-barrier",
+    "matched_prompt": "aluminum-alloy-noise-barrier-sheet",
+    "score": 0.871
+  },
+  {
+    "failed_filename": "industrial-noise-barrier-46e53b96.webp",
+    "matched_filename": "industrial-noise-barrier-factory-plant-db9dbcb1.webp",
+    "failed_prompt": "industrial-noise-barrier",
+    "matched_prompt": "industrial-noise-barrier-factory-plant",
+    "score": 0.865
+  },
+  {
+    "failed_filename": "railway-noise-barrier-9058a222.webp",
+    "matched_filename": "railway-noise-barrier-product-panel-da09165b.webp",
+    "failed_prompt": "railway-noise-barrier",
+    "matched_prompt": "railway-noise-barrier-product-panel",
+    "score": 0.85
+  },
+  {
+    "failed_filename": "residential-community-noise-protection-housing-d9912071.webp",
+    "matched_filename": "residential-community-noise-protection-garden-34b1c40a.webp",
+    "failed_prompt": "residential-community-noise-protection-housing",
+    "matched_prompt": "residential-community-noise-protection-garden",
+    "score": 0.847
+  },
+  {
+    "failed_filename": "highway-noise-control-expressway-ringroad-1747ca9c.webp",
+    "matched_filename": "highway-noise-control-expressway-1f3ee2a2.webp",
+    "failed_prompt": "highway-noise-control-expressway-ringroad",
+    "matched_prompt": "highway-noise-control-expressway",
+    "score": 0.846
+  },
+  {
+    "failed_filename": "hybrid-noise-barrier-dual-layer-78e993d4.webp",
+    "matched_filename": "hybrid-noise-barrier-dual-layer-absorption-reflection-1d10ca18.webp",
+    "failed_prompt": "hybrid-noise-barrier-dual-layer",
+    "matched_prompt": "hybrid-noise-barrier-dual-layer-absorption-reflection",
+    "score": 0.843
+  },
+  {
+    "failed_filename": "reflective-noise-barrier-be6407e4.webp",
+    "matched_filename": "reflective-noise-barrier-rigid-steel-panel-0c2a9a7b.webp",
+    "failed_prompt": "reflective-noise-barrier",
+    "matched_prompt": "reflective-noise-barrier-rigid-steel-panel",
+    "score": 0.836
+  },
+  {
+    "failed_filename": "noise-barrier-project-checklist-d3ec5a02.webp",
+    "matched_filename": "noise-barrier-project-checklist-specification-tendering-62368363.webp",
+    "failed_prompt": "noise-barrier-project-checklist",
+    "matched_prompt": "noise-barrier-project-checklist-specification-tendering",
+    "score": 0.833
+  },
+  {
+    "failed_filename": "railway-noise-barrier-project-high-speed-corridor-d285fe0b.webp",
+    "matched_filename": "railway-noise-barrier-projects-high-speed-rail-28f2b948.webp",
+    "failed_prompt": "railway-noise-barrier-project-high-speed-corridor",
+    "matched_prompt": "railway-noise-barrier-projects-high-speed-rail",
+    "score": 0.829
+  },
+  {
+    "failed_filename": "high-speed-railway-hybrid-noise-barrier-88d00eac.webp",
+    "matched_filename": "high-speed-railway-metro-absorptive-noise-barrier-cd5789ac.webp",
+    "failed_prompt": "high-speed-railway-hybrid-noise-barrier",
+    "matched_prompt": "high-speed-railway-metro-absorptive-noise-barrier",
+    "score": 0.824
+  },
+  {
+    "failed_filename": "highway-noise-barrier-project-urban-expressway-21dbe1bc.webp",
+    "matched_filename": "highway-noise-barrier-projects-expressway-017fae80.webp",
+    "failed_prompt": "highway-noise-barrier-project-urban-expressway",
+    "matched_prompt": "highway-noise-barrier-projects-expressway",
+    "score": 0.818
+  },
+  {
+    "failed_filename": "industrial-noise-barrier-project-power-plant-871dd123.webp",
+    "matched_filename": "industrial-noise-control-projects-power-plant-495bc4b9.webp",
+    "failed_prompt": "industrial-noise-barrier-project-power-plant",
+    "matched_prompt": "industrial-noise-control-projects-power-plant",
+    "score": 0.779
+  },
+  {
+    "failed_filename": "railway-noise-reduction-high-speed-corridor-bd262d2d.webp",
+    "matched_filename": "railway-noise-reduction-corridor-679fa353.webp",
+    "failed_prompt": "railway-noise-reduction-high-speed-corridor",
+    "matched_prompt": "railway-noise-reduction-corridor",
+    "score": 0.779
+  },
+  {
+    "failed_filename": "industrial-plant-factory-noise-barrier-machinery-noise-control-c897051b.webp",
+    "matched_filename": "industrial-plant-factory-noise-barrier-perimeter-9ed48f15.webp",
+    "failed_prompt": "industrial-plant-factory-noise-barrier-machinery-noise-control",
+    "matched_prompt": "industrial-plant-factory-noise-barrier-perimeter",
+    "score": 0.777
+  },
+  {
+    "failed_filename": "railway-metro-hybrid-noise-barrier-bf787d16.webp",
+    "matched_filename": "railway-metro-noise-barrier-trackside-48efe9db.webp",
+    "failed_prompt": "railway-metro-hybrid-noise-barrier",
+    "matched_prompt": "railway-metro-noise-barrier-trackside",
+    "score": 0.776
+  },
+  {
+    "failed_filename": "residential-noise-barriers-community-garden-353b2b0e.webp",
+    "matched_filename": "residential-noise-barrier-community-wall-0f875143.webp",
+    "failed_prompt": "residential-noise-barriers-community-garden",
+    "matched_prompt": "residential-noise-barrier-community-wall",
+    "score": 0.775
+  },
+  {
+    "failed_filename": "solar-pv-integrated-noise-barriers-04f918be.webp",
+    "matched_filename": "solar-pv-integrated-noise-barrier-highway-median-bifacial-fccf9c61.webp",
+    "failed_prompt": "solar-pv-integrated-noise-barriers",
+    "matched_prompt": "solar-pv-integrated-noise-barrier-highway-median-bifacial",
+    "score": 0.755
+  },
+  {
+    "failed_filename": "modern-reflective-noise-barrier-highway-rigid-panel-c46c3d46.webp",
+    "matched_filename": "reflective-noise-barrier-rigid-steel-panel-0c2a9a7b.webp",
+    "failed_prompt": "modern-reflective-noise-barrier-highway-rigid-panel",
+    "matched_prompt": "reflective-noise-barrier-rigid-steel-panel",
+    "score": 0.75
+  },
+  {
+    "failed_filename": "hybrid-noise-barrier-dual-layer-railway-road-a12f5860.webp",
+    "matched_filename": "hybrid-noise-barrier-dual-layer-absorption-reflection-1d10ca18.webp",
+    "failed_prompt": "hybrid-noise-barrier-dual-layer-railway-road",
+    "matched_prompt": "hybrid-noise-barrier-dual-layer-absorption-reflection",
+    "score": 0.743
+  },
+  {
+    "failed_filename": "bridge-noise-barrier-0927fe4e.webp",
+    "matched_filename": "city-noise-barrier-38468d59.webp",
+    "failed_prompt": "bridge-noise-barrier",
+    "matched_prompt": "city-noise-barrier",
+    "score": 0.74
+  },
+  {
+    "failed_filename": "hybrid-noise-barrier-a44e5689.webp",
+    "matched_filename": "city-noise-barrier-38468d59.webp",
+    "failed_prompt": "hybrid-noise-barrier",
+    "matched_prompt": "city-noise-barrier",
+    "score": 0.74
+  },
+  {
+    "failed_filename": "industrial-factory-noise-barrier-machinery-enclosure-5b057037.webp",
+    "matched_filename": "industrial-factory-noise-barrier-perimeter-1e82de29.webp",
+    "failed_prompt": "industrial-factory-noise-barrier-machinery-enclosure",
+    "matched_prompt": "industrial-factory-noise-barrier-perimeter",
+    "score": 0.739
+  },
+  {
+    "failed_filename": "railway-metro-solar-pv-noise-barrier-960ef47e.webp",
+    "matched_filename": "high-speed-railway-metro-absorptive-noise-barrier-cd5789ac.webp",
+    "failed_prompt": "railway-metro-solar-pv-noise-barrier",
+    "matched_prompt": "high-speed-railway-metro-absorptive-noise-barrier",
+    "score": 0.733
+  },
+  {
+    "failed_filename": "railway-noise-barrier-hybrid-slipstream-panel-17e3b878.webp",
+    "matched_filename": "railway-noise-barrier-product-panel-da09165b.webp",
+    "failed_prompt": "railway-noise-barrier-hybrid-slipstream-panel",
+    "matched_prompt": "railway-noise-barrier-product-panel",
+    "score": 0.732
+  },
+  {
+    "failed_filename": "urban-arterial-road-solar-noise-wall-7ab27b7d.webp",
+    "matched_filename": "urban-arterial-road-absorptive-noise-barrier-1e35241f.webp",
+    "failed_prompt": "urban-arterial-road-solar-noise-wall",
+    "matched_prompt": "urban-arterial-road-absorptive-noise-barrier",
+    "score": 0.732
+  },
+  {
+    "failed_filename": "en-1793-acoustic-performance-classification-197c8f80.webp",
+    "matched_filename": "en-1793-acoustic-performance-test-report-noise-barrier-09ff6103.webp",
+    "failed_prompt": "en-1793-acoustic-performance-classification",
+    "matched_prompt": "en-1793-acoustic-performance-test-report-noise-barrier",
+    "score": 0.704
+  },
+  {
+    "failed_filename": "solar-noise-barrier-project-pv-highway-1c717f65.webp",
+    "matched_filename": "solar-noise-barrier-product-bifacial-pv-3688a3ec.webp",
+    "failed_prompt": "solar-noise-barrier-project-pv-highway",
+    "matched_prompt": "solar-noise-barrier-product-bifacial-pv",
+    "score": 0.703
+  },
+  {
+    "failed_filename": "cantilever-cap-hybrid-noise-barrier-bridge-f8207813.webp",
+    "matched_filename": "cantilever-cap-noise-barrier-acoustic-shadow-zone-7e7f9a63.webp",
+    "failed_prompt": "cantilever-cap-hybrid-noise-barrier-bridge",
+    "matched_prompt": "cantilever-cap-noise-barrier-acoustic-shadow-zone",
+    "score": 0.689
+  },
+  {
+    "failed_filename": "reflective-sound-barrier-steel-panel-installation-eede7f05.webp",
+    "matched_filename": "reflective-noise-barrier-rigid-steel-panel-0c2a9a7b.webp",
+    "failed_prompt": "reflective-sound-barrier-steel-panel-installation",
+    "matched_prompt": "reflective-noise-barrier-rigid-steel-panel",
+    "score": 0.689
+  },
+  {
+    "failed_filename": "modern-industrial-noise-barrier-factory-site-aerial-7c36b6fd.webp",
+    "matched_filename": "industrial-noise-barrier-factory-plant-db9dbcb1.webp",
+    "failed_prompt": "modern-industrial-noise-barrier-factory-site-aerial",
+    "matched_prompt": "industrial-noise-barrier-factory-plant",
+    "score": 0.687
+  },
+  {
+    "failed_filename": "highway-expressway-noise-barrier-motorway-wall-e77587a8.webp",
+    "matched_filename": "highway-road-noise-barrier-expressway-0ea8b21f.webp",
+    "failed_prompt": "highway-expressway-noise-barrier-motorway-wall",
+    "matched_prompt": "highway-road-noise-barrier-expressway",
+    "score": 0.686
+  },
+  {
+    "failed_filename": "heavy-industrial-noise-barrier-factory-boundary-wall-f2143254.webp",
+    "matched_filename": "industrial-noise-barrier-factory-plant-db9dbcb1.webp",
+    "failed_prompt": "heavy-industrial-noise-barrier-factory-boundary-wall",
+    "matched_prompt": "industrial-noise-barrier-factory-plant",
+    "score": 0.682
+  },
+  {
+    "failed_filename": "highway-rigid-reflective-noise-barrier-7f0ef66b.webp",
+    "matched_filename": "reflective-noise-barrier-rigid-steel-panel-0c2a9a7b.webp",
+    "failed_prompt": "highway-rigid-reflective-noise-barrier",
+    "matched_prompt": "reflective-noise-barrier-rigid-steel-panel",
+    "score": 0.68
+  },
+  {
+    "failed_filename": "solar-photovoltaic-noise-barrier-highway-pv-modules-4c67288e.webp",
+    "matched_filename": "solar-pv-integrated-noise-barrier-highway-median-bifacial-fccf9c61.webp",
+    "failed_prompt": "solar-photovoltaic-noise-barrier-highway-pv-modules",
+    "matched_prompt": "solar-pv-integrated-noise-barrier-highway-median-bifacial",
+    "score": 0.663
+  },
+  {
+    "failed_filename": "absorptive-highway-noise-barrier-polycarbonate-window-3eed9641.webp",
+    "matched_filename": "city-traffic-noise-barrier-transparent-polycarbonate-window-6d60f594.webp",
+    "failed_prompt": "absorptive-highway-noise-barrier-polycarbonate-window",
+    "matched_prompt": "city-traffic-noise-barrier-transparent-polycarbonate-window",
+    "score": 0.663
+  },
+  {
+    "failed_filename": "high-speed-rail-aero-acoustic-noise-barriers-142dff89.webp",
+    "matched_filename": "high-speed-railway-metro-absorptive-noise-barrier-cd5789ac.webp",
+    "failed_prompt": "high-speed-rail-aero-acoustic-noise-barriers",
+    "matched_prompt": "high-speed-railway-metro-absorptive-noise-barrier",
+    "score": 0.662
+  },
+  {
+    "failed_filename": "high-speed-railway-noise-barrier-train-acoustic-wall-4cb69eb2.webp",
+    "matched_filename": "railway-noise-barrier-high-speed-train-7db194c7.webp",
+    "failed_prompt": "high-speed-railway-noise-barrier-train-acoustic-wall",
+    "matched_prompt": "railway-noise-barrier-high-speed-train",
+    "score": 0.66
+  },
+  {
+    "failed_filename": "yukings-noise-barrier-free-quotation-engineer-474c6f32.webp",
+    "matched_filename": "yukings-noise-barrier-factory-production-line-206d2910.webp",
+    "failed_prompt": "yukings-noise-barrier-free-quotation-engineer",
+    "matched_prompt": "yukings-noise-barrier-factory-production-line",
+    "score": 0.653
+  },
+  {
+    "failed_filename": "en-1794-mechanical-performance-noise-barrier-impact-test-08a52ccd.webp",
+    "matched_filename": "en-1793-acoustic-performance-test-report-noise-barrier-09ff6103.webp",
+    "failed_prompt": "en-1794-mechanical-performance-noise-barrier-impact-test",
+    "matched_prompt": "en-1793-acoustic-performance-test-report-noise-barrier",
+    "score": 0.643
+  },
+  {
+    "failed_filename": "bifacial-solar-noise-barrier-installation-railway-6917ee88.webp",
+    "matched_filename": "solar-noise-barriers-v2-bifacial-pv-high-speed-railway-d64ecfa6.webp",
+    "failed_prompt": "bifacial-solar-noise-barrier-installation-railway",
+    "matched_prompt": "solar-noise-barriers-v2-bifacial-pv-high-speed-railway",
+    "score": 0.639
+  },
+  {
+    "failed_filename": "en-1794-mechanical-performance-noise-barriers-def8e959.webp",
+    "matched_filename": "en-1793-acoustic-performance-test-report-noise-barrier-09ff6103.webp",
+    "failed_prompt": "en-1794-mechanical-performance-noise-barriers",
+    "matched_prompt": "en-1793-acoustic-performance-test-report-noise-barrier",
+    "score": 0.636
+  },
+  {
+    "failed_filename": "highway-expressway-solar-pv-noise-barrier-f1b96fdf.webp",
+    "matched_filename": "highway-road-noise-barrier-expressway-0ea8b21f.webp",
+    "failed_prompt": "highway-expressway-solar-pv-noise-barrier",
+    "matched_prompt": "highway-road-noise-barrier-expressway",
+    "score": 0.636
+  },
+  {
+    "failed_filename": "solar-photovoltaic-noise-barrier-pv-modules-f0f8ad55.webp",
+    "matched_filename": "solar-energy-noise-barrier-pv-array-ad6b6827.webp",
+    "failed_prompt": "solar-photovoltaic-noise-barrier-pv-modules",
+    "matched_prompt": "solar-energy-noise-barrier-pv-array",
+    "score": 0.636
+  },
+  {
+    "failed_filename": "aluminum-lightweight-bridge-parapet-noise-barrier-f88b5df9.webp",
+    "matched_filename": "aluminum-alloy-noise-barrier-bridge-coastal-lightweight-0b75164c.webp",
+    "failed_prompt": "aluminum-lightweight-bridge-parapet-noise-barrier",
+    "matched_prompt": "aluminum-alloy-noise-barrier-bridge-coastal-lightweight",
+    "score": 0.61
+  },
+  {
+    "failed_filename": "yukings-noise-barrier-terms-of-service-legal-feb253ad.webp",
+    "matched_filename": "yukings-noise-barrier-contact-office-f9759b26.webp",
+    "failed_prompt": "yukings-noise-barrier-terms-of-service-legal",
+    "matched_prompt": "yukings-noise-barrier-contact-office",
+    "score": 0.606
+  },
+  {
+    "failed_filename": "railway-trackside-rigid-reflective-noise-barrier-2fca0553.webp",
+    "matched_filename": "railway-metro-noise-barrier-trackside-48efe9db.webp",
+    "failed_prompt": "railway-trackside-rigid-reflective-noise-barrier",
+    "matched_prompt": "railway-metro-noise-barrier-trackside",
+    "score": 0.605
+  },
+  {
+    "failed_filename": "bridge-parapet-reflective-noise-barrier-c2d02a9f.webp",
+    "matched_filename": "reflective-noise-barrier-rigid-steel-panel-0c2a9a7b.webp",
+    "failed_prompt": "bridge-parapet-reflective-noise-barrier",
+    "matched_prompt": "reflective-noise-barrier-rigid-steel-panel",
+    "score": 0.596
+  },
+  {
+    "failed_filename": "hot-dip-galvanized-noise-barrier-panel-factory-d7231b63.webp",
+    "matched_filename": "galvanized-steel-noise-barrier-highway-zinc-coated-panel-e96cddda.webp",
+    "failed_prompt": "hot-dip-galvanized-noise-barrier-panel-factory",
+    "matched_prompt": "galvanized-steel-noise-barrier-highway-zinc-coated-panel",
+    "score": 0.582
+  },
+  {
+    "failed_filename": "noise-barrier-technical-article-engineering-2-ffd7eeb4.webp",
+    "matched_filename": "noise-barrier-cad-design-structural-engineering-91578493.webp",
+    "failed_prompt": "noise-barrier-technical-article-engineering-2",
+    "matched_prompt": "noise-barrier-cad-design-structural-engineering",
+    "score": 0.578
+  },
+  {
+    "failed_filename": "industrial-plant-boundary-hybrid-noise-wall-7fee6d1c.webp",
+    "matched_filename": "industrial-plant-factory-noise-barrier-perimeter-9ed48f15.webp",
+    "failed_prompt": "industrial-plant-boundary-hybrid-noise-wall",
+    "matched_prompt": "industrial-plant-factory-noise-barrier-perimeter",
+    "score": 0.569
+  },
+  {
+    "failed_filename": "residential-sensitive-highway-hybrid-noise-barrier-c58e7da0.webp",
+    "matched_filename": "residential-community-noise-barrier-neighborhood-84a4806c.webp",
+    "failed_prompt": "residential-sensitive-highway-hybrid-noise-barrier",
+    "matched_prompt": "residential-community-noise-barrier-neighborhood",
+    "score": 0.567
+  },
+  {
+    "failed_filename": "industrial-plant-boundary-reflective-noise-wall-ffdc844d.webp",
+    "matched_filename": "industrial-plant-factory-noise-barrier-perimeter-9ed48f15.webp",
+    "failed_prompt": "industrial-plant-boundary-reflective-noise-wall",
+    "matched_prompt": "industrial-plant-factory-noise-barrier-perimeter",
+    "score": 0.554
+  },
+  {
+    "failed_filename": "noise-barrier-industry-news-2-c8907b8b.webp",
+    "matched_filename": "noise-barrier-product-lineup-modular-panels-12725d0b.webp",
+    "failed_prompt": "noise-barrier-industry-news-2",
+    "matched_prompt": "noise-barrier-product-lineup-modular-panels",
+    "score": 0.543
+  },
+  {
+    "failed_filename": "clear-acrylic-sound-barrier-residential-street-3560e27f.webp",
+    "matched_filename": "urban-city-road-noise-barrier-residential-street-green-wall-6d343e17.webp",
+    "failed_prompt": "clear-acrylic-sound-barrier-residential-street",
+    "matched_prompt": "urban-city-road-noise-barrier-residential-street-green-wall",
+    "score": 0.531
+  },
+  {
+    "failed_filename": "noise-barrier-faq-deep-dive-0a5785d4.webp",
+    "matched_filename": "yukings-noise-barrier-faqs-helpdesk-support-c8add3c6.webp",
+    "failed_prompt": "noise-barrier-faq-deep-dive",
+    "matched_prompt": "yukings-noise-barrier-faqs-helpdesk-support",
+    "score": 0.52
+  },
+  {
+    "failed_filename": "noise-barrier-blog-technical-articles-engineering-insight-lab-d2ec54c6.webp",
+    "matched_filename": "yukings-noise-barrier-engineering-lab-cad-design-f24d6c6b.webp",
+    "failed_prompt": "noise-barrier-blog-technical-articles-engineering-insight-lab",
+    "matched_prompt": "yukings-noise-barrier-engineering-lab-cad-design",
+    "score": 0.519
+  },
+  {
+    "failed_filename": "how-to-choose-noise-barrier-panel-depth-a057f582.webp",
+    "matched_filename": "railway-noise-barrier-product-panel-da09165b.webp",
+    "failed_prompt": "how-to-choose-noise-barrier-panel-depth",
+    "matched_prompt": "railway-noise-barrier-product-panel",
+    "score": 0.512
+  },
+  {
+    "failed_filename": "high-speed-rail-noise-barrier-aero-acoustic-pulse-pressure-5efec67f.webp",
+    "matched_filename": "high-speed-railway-metro-absorptive-noise-barrier-cd5789ac.webp",
+    "failed_prompt": "high-speed-rail-noise-barrier-aero-acoustic-pulse-pressure",
+    "matched_prompt": "high-speed-railway-metro-absorptive-noise-barrier",
+    "score": 0.503
+  },
+  {
+    "failed_filename": "bridge-elevated-road-noise-barrier-viaduct-parapet-e3b2c521.webp",
+    "matched_filename": "highway-road-noise-barrier-expressway-0ea8b21f.webp",
+    "failed_prompt": "bridge-elevated-road-noise-barrier-viaduct-parapet",
+    "matched_prompt": "highway-road-noise-barrier-expressway",
+    "score": 0.502
+  },
+  {
+    "failed_filename": "industrial-plant-boundary-solar-acoustic-wall-2e50a4bd.webp",
+    "matched_filename": "industrial-plant-factory-noise-barrier-perimeter-9ed48f15.webp",
+    "failed_prompt": "industrial-plant-boundary-solar-acoustic-wall",
+    "matched_prompt": "industrial-plant-factory-noise-barrier-perimeter",
+    "score": 0.469
+  },
+  {
+    "failed_filename": "curved-cap-noise-wall-diffraction-engineering-f4f2f5d6.webp",
+    "matched_filename": "curved-top-noise-barrier-cantilever-arch-ec4e20e1.webp",
+    "failed_prompt": "curved-cap-noise-wall-diffraction-engineering",
+    "matched_prompt": "curved-top-noise-barrier-cantilever-arch",
+    "score": 0.458
+  },
+  {
+    "failed_filename": "hybrid-acoustic-barrier-cross-section-diagram-installation-7948d35a.webp",
+    "matched_filename": "aluminum-louvered-noise-barrier-panel-installation-29e98a10.webp",
+    "failed_prompt": "hybrid-acoustic-barrier-cross-section-diagram-installation",
+    "matched_prompt": "aluminum-louvered-noise-barrier-panel-installation",
+    "score": 0.425
+  },
+  {
+    "failed_filename": "yukings-privacy-policy-data-protection-gdpr-d9613db8.webp",
+    "matched_filename": "yukings-noise-barrier-factory-production-line-206d2910.webp",
+    "failed_prompt": "yukings-privacy-policy-data-protection-gdpr",
+    "matched_prompt": "yukings-noise-barrier-factory-production-line",
+    "score": 0.38
+  }
+]
